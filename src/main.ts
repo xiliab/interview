@@ -44,6 +44,7 @@ let typedAudio: Record<string, AudioEntry> = {};
 const state = {
   query: "",
   activeTag: "all",
+  tagsExpanded: false,
   selectedId: "",
   nowPlayingId: "",
   view: "list" as "list" | "detail",
@@ -142,6 +143,8 @@ function icon(name: string) {
     bookmark: `<svg viewBox="0 0 24 24"><path d="M6 4h12v17l-6-4-6 4z"/></svg>`,
     check: `<svg viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></svg>`,
     download: `<svg viewBox="0 0 24 24"><path d="M12 3v12m0 0 4-4m-4 4-4-4"/><path d="M4 20h16"/></svg>`,
+    chevronDown: `<svg viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg>`,
+    chevronUp: `<svg viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg>`,
   };
   return icons[name] || "";
 }
@@ -166,8 +169,14 @@ function renderLibraryControls() {
         ${icon("search")}
         <input id="searchInput" type="search" placeholder="搜索题目、ID 或关键词" value="${escapeHtml(state.query)}" />
       </label>
-      <div class="tag-filter-panel" aria-label="题目标签筛选">
-        ${filterTags.map((tag) => tagButton(tag)).join("")}
+      <div class="tag-filter-bar ${state.tagsExpanded ? "is-expanded" : ""}">
+        <div class="tag-filter-panel" aria-label="题目标签筛选">
+          ${filterTags.map((tag) => tagButton(tag)).join("")}
+        </div>
+        <button class="filter-chip tag-toggle" data-toggle-tags aria-expanded="${state.tagsExpanded}">
+          ${icon(state.tagsExpanded ? "chevronUp" : "chevronDown")}
+          <span>${state.tagsExpanded ? "收起" : "展开"}</span>
+        </button>
       </div>
     </section>
   `;
@@ -375,9 +384,15 @@ function bindControlsEvents() {
   document.querySelectorAll<HTMLElement>("[data-tag-filter]").forEach((button) => {
     button.addEventListener("click", () => {
       state.activeTag = button.dataset.tagFilter || "all";
+      state.tagsExpanded = state.activeTag !== "all";
       state.view = "list";
       rerenderLibraryResults();
     });
+  });
+
+  document.querySelector<HTMLElement>("[data-toggle-tags]")?.addEventListener("click", () => {
+    state.tagsExpanded = !state.tagsExpanded;
+    updateTagPanelState();
   });
 }
 
@@ -387,6 +402,15 @@ function updateFilterStates() {
     button.classList.toggle("is-active", active);
     button.setAttribute("aria-pressed", String(active));
   });
+  updateTagPanelState();
+}
+
+function updateTagPanelState() {
+  document.querySelector<HTMLElement>(".tag-filter-bar")?.classList.toggle("is-expanded", state.tagsExpanded);
+  const button = document.querySelector<HTMLElement>("[data-toggle-tags]");
+  if (!button) return;
+  button.setAttribute("aria-expanded", String(state.tagsExpanded));
+  button.innerHTML = `${icon(state.tagsExpanded ? "chevronUp" : "chevronDown")}<span>${state.tagsExpanded ? "收起" : "展开"}</span>`;
 }
 
 function bindMainEvents() {

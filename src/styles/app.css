@@ -296,6 +296,13 @@ svg {
 }
 
 /* 筛选面板 */
+.tag-filter-bar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
+  gap: 10px;
+}
+
 .tag-filter-panel {
   background: rgba(255, 255, 255, 0.02);
   border: 1px solid rgba(255, 255, 255, 0.04);
@@ -305,6 +312,16 @@ svg {
   flex-wrap: wrap;
   gap: 8px;
   align-items: center;
+  max-height: 62px;
+  overflow: hidden;
+  transition: max-height 220ms ease, border-color 180ms ease, background 180ms ease;
+}
+
+.tag-filter-bar.is-expanded .tag-filter-panel {
+  max-height: 360px;
+  overflow: visible;
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.03);
 }
 
 /* 拟态过滤微芯片 */
@@ -344,6 +361,20 @@ svg {
   background: var(--purple-soft);
   border-color: rgba(180, 108, 255, 0.45);
   box-shadow: 0 0 12px rgba(180, 108, 255, 0.12);
+}
+
+.tag-toggle {
+  min-width: 82px;
+  height: 62px;
+  border-radius: 12px;
+  gap: 6px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.tag-toggle svg {
+  width: 15px;
+  height: 15px;
 }
 
 /* 精品卡片封面与网格 */
@@ -954,25 +985,34 @@ svg {
   }
 
   .tag-filter-panel {
-    flex-wrap: nowrap;
     gap: 8px;
     padding: 12px;
-    overflow-x: auto;
-    scrollbar-width: none;
+    max-height: 70px;
   }
 
   .episode-grid {
     grid-template-columns: 1fr;
   }
 
-  .tag-filter-panel::-webkit-scrollbar {
-    display: none;
+  .tag-filter-bar.is-expanded .tag-filter-panel {
+    max-height: 720px;
   }
 
   .filter-chip {
     flex: 0 0 auto;
     min-height: 44px;
     padding: 0 16px;
+  }
+
+  .tag-toggle {
+    min-width: 48px;
+    width: 48px;
+    height: 70px;
+    padding: 0;
+  }
+
+  .tag-toggle span {
+    display: none;
   }
 
   .pill-play,
