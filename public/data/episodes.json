@@ -1,0 +1,5951 @@
+[
+  {
+    "id": "UX-001",
+    "title": "请讲一个最能代表你业务价值的设计项目",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "能否把设计讲成业务问题、用户问题、决策过程和可验证结果，而不是只展示界面。",
+    "framework": "STAR + 问题定义-关键洞察-设计取舍-验证指标-复盘沉淀。",
+    "followUps": [
+      "压力测试：如果没有完整数据，你如何证明设计有效？",
+      "边界探索：这个项目里哪些问题不是设计能直接解决的？"
+    ],
+    "references": [
+      "[REF-KB-01]",
+      "[REF-UX-03]",
+      "[REF-UX-05]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-001 请讲一个最能代表你业务价值的设计项目 UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 高频 能否把设计讲成业务问题、用户问题、决策过程和可验证结果，而不是只展示界面。 STAR + 问题定义-关键洞察-设计取舍-验证指标-复盘沉淀。 压力测试：如果没有完整数据，你如何证明设计有效？ 边界探索：这个项目里哪些问题不是设计能直接解决的？ [REF-KB-01] [REF-UX-03] [REF-UX-05]"
+  },
+  {
+    "id": "UX-002",
+    "title": "作品集中你最想删掉哪个项目，为什么？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 作品集",
+    "essence": "是否能识别自己作品的短板，并判断项目是否能代表当前能力。",
+    "framework": "从项目复杂度、本人贡献、结果证据、方法完整度、岗位匹配度五点评估。",
+    "followUps": [
+      "压力测试：如果必须保留，你会如何重写这个案例？",
+      "边界探索：你如何区分“视觉好看”和“设计有价值”？"
+    ],
+    "references": [
+      "[REF-UX-01]",
+      "[REF-UX-05]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "作品集"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-002 作品集中你最想删掉哪个项目，为什么？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 作品集 是否能识别自己作品的短板，并判断项目是否能代表当前能力。 从项目复杂度、本人贡献、结果证据、方法完整度、岗位匹配度五点评估。 压力测试：如果必须保留，你会如何重写这个案例？ 边界探索：你如何区分“视觉好看”和“设计有价值”？ [REF-UX-01] [REF-UX-05]"
+  },
+  {
+    "id": "UX-003",
+    "title": "你做过最难的一次设计取舍是什么？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "看候选人是否能处理用户体验、业务目标、技术成本和上线周期之间的冲突。",
+    "framework": "列出约束-定义优先级-给出方案对比-说明决策依据-复盘后果。",
+    "followUps": [
+      "压力测试：如果业务方不同意，你怎么推进？",
+      "边界探索：有没有一个你现在看来做错的取舍？"
+    ],
+    "references": [
+      "[REF-KB-01]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-003 你做过最难的一次设计取舍是什么？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 高频 看候选人是否能处理用户体验、业务目标、技术成本和上线周期之间的冲突。 列出约束-定义优先级-给出方案对比-说明决策依据-复盘后果。 压力测试：如果业务方不同意，你怎么推进？ 边界探索：有没有一个你现在看来做错的取舍？ [REF-KB-01] [REF-PM-06]"
+  },
+  {
+    "id": "UX-004",
+    "title": "你如何讲清楚一个设计方案背后的推理链？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "社招 | 中高级",
+    "essence": "是否具备结构化表达和让非设计角色理解方案的能力。",
+    "framework": "用户目标-业务目标-约束条件-方案原则-关键页面-验证方式。",
+    "followUps": [
+      "压力测试：如果对方只关心转化率，你如何调整表达？",
+      "边界探索：什么时候不该展示太多设计过程？"
+    ],
+    "references": [
+      "[REF-UX-05]",
+      "[REF-KB-01]",
+      "[REF-UX-10]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "社招",
+      "中高级"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-004 你如何讲清楚一个设计方案背后的推理链？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 社招 | 中高级 是否具备结构化表达和让非设计角色理解方案的能力。 用户目标-业务目标-约束条件-方案原则-关键页面-验证方式。 压力测试：如果对方只关心转化率，你如何调整表达？ 边界探索：什么时候不该展示太多设计过程？ [REF-UX-05] [REF-KB-01] [REF-UX-10]"
+  },
+  {
+    "id": "UX-005",
+    "title": "讲一个你推翻初始需求的项目",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 适合追问",
+    "essence": "是否能通过研究、数据或业务理解重新定义问题。",
+    "framework": "原始需求-发现矛盾-补充证据-重定义问题-新方案收益。",
+    "followUps": [
+      "压力测试：如何避免被认为“设计师不配合”？",
+      "边界探索：你如何判断需求不是伪需求？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-PM-01]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "适合追问"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-005 讲一个你推翻初始需求的项目 UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 适合追问 是否能通过研究、数据或业务理解重新定义问题。 原始需求-发现矛盾-补充证据-重定义问题-新方案收益。 压力测试：如何避免被认为“设计师不配合”？ 边界探索：你如何判断需求不是伪需求？ [REF-KB-03] [REF-PM-01]"
+  },
+  {
+    "id": "UX-006",
+    "title": "当你的方案被上线后效果不好，你怎么复盘？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "看候选人是否有结果意识和修正机制，而不是只交付稿件。",
+    "framework": "目标回看-数据拆解-用户反馈-假设验证-责任边界-下一轮实验。",
+    "followUps": [
+      "压力测试：如果业务指标涨了但投诉也涨了，怎么算成功？",
+      "边界探索：哪些失败是设计应承担的？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-006 当你的方案被上线后效果不好，你怎么复盘？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 高频 看候选人是否有结果意识和修正机制，而不是只交付稿件。 目标回看-数据拆解-用户反馈-假设验证-责任边界-下一轮实验。 压力测试：如果业务指标涨了但投诉也涨了，怎么算成功？ 边界探索：哪些失败是设计应承担的？ [REF-KB-03] [REF-PM-04]"
+  },
+  {
+    "id": "UX-007",
+    "title": "你如何证明自己在项目中的核心贡献？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "社招 | 作品集",
+    "essence": "避免团队成果包装成个人成果，检验真实参与深度。",
+    "framework": "明确职责边界、关键决策、交付物、影响对象、协作证据。",
+    "followUps": [
+      "压力测试：如果没有你，项目会有什么不同？",
+      "边界探索：哪些成果主要来自产品或研发？"
+    ],
+    "references": [
+      "[REF-UX-02]",
+      "[REF-UX-05]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "社招",
+      "作品集"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-007 你如何证明自己在项目中的核心贡献？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 社招 | 作品集 避免团队成果包装成个人成果，检验真实参与深度。 明确职责边界、关键决策、交付物、影响对象、协作证据。 压力测试：如果没有你，项目会有什么不同？ 边界探索：哪些成果主要来自产品或研发？ [REF-UX-02] [REF-UX-05]"
+  },
+  {
+    "id": "UX-008",
+    "title": "你如何处理一个“老板拍脑袋”的设计需求？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 协作",
+    "essence": "考察向上沟通、证据意识和风险管理。",
+    "framework": "先确认目标-拆出假设-补证据-给低成本验证方案-保留决策记录。",
+    "followUps": [
+      "压力测试：如果必须当天上线，你怎么做？",
+      "边界探索：什么时候应该服从而不是争辩？"
+    ],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-01]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "协作"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-008 你如何处理一个“老板拍脑袋”的设计需求？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 协作 考察向上沟通、证据意识和风险管理。 先确认目标-拆出假设-补证据-给低成本验证方案-保留决策记录。 压力测试：如果必须当天上线，你怎么做？ 边界探索：什么时候应该服从而不是争辩？ [REF-PM-06] [REF-KB-01]"
+  },
+  {
+    "id": "UX-009",
+    "title": "你如何把设计价值从“好看”升级到“业务增长”？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 增长",
+    "essence": "是否理解设计对转化、留存、效率、信任和成本的影响。",
+    "framework": "业务漏斗-关键行为-体验阻塞-方案假设-指标验证。",
+    "followUps": [
+      "压力测试：设计会不会为了增长牺牲用户体验？",
+      "边界探索：哪些增长手段属于暗黑模式？"
+    ],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "中高级",
+      "增长"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-009 你如何把设计价值从“好看”升级到“业务增长”？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 中高级 | 增长 是否理解设计对转化、留存、效率、信任和成本的影响。 业务漏斗-关键行为-体验阻塞-方案假设-指标验证。 压力测试：设计会不会为了增长牺牲用户体验？ 边界探索：哪些增长手段属于暗黑模式？ [REF-KB-10] [REF-PM-04]"
+  },
+  {
+    "id": "UX-010",
+    "title": "你如何准备一个作品集现场讲解？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块一：作品集、项目复盘与设计决策",
+    "sourceFile": "ui_ux/01_portfolio_review.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "看候选人能否按面试时间和岗位需求组织案例。",
+    "framework": "30 秒项目定位、3 分钟主线、10 分钟深挖、预设追问和证据页。",
+    "followUps": [
+      "压力测试：如果面试官只让你讲一个项目，你选哪个？",
+      "边界探索：哪些细节不应该在作品集中展开？"
+    ],
+    "references": [
+      "[REF-UX-05]",
+      "[REF-KB-01]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块一：作品集、项目复盘与设计决策",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-010 你如何准备一个作品集现场讲解？ UI/UX 设计师 模块一：作品集、项目复盘与设计决策 Deep-dive 社招 | 高频 看候选人能否按面试时间和岗位需求组织案例。 30 秒项目定位、3 分钟主线、10 分钟深挖、预设追问和证据页。 压力测试：如果面试官只让你讲一个项目，你选哪个？ 边界探索：哪些细节不应该在作品集中展开？ [REF-UX-05] [REF-KB-01]"
+  },
+  {
+    "id": "UX-011",
+    "title": "你如何从用户访谈中提炼设计机会？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块二：用户研究、问题定义与验证",
+    "sourceFile": "ui_ux/02_research_problem_definition.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "是否能区分用户表达、真实动机和可落地机会点。",
+    "framework": "访谈目标-样本选择-编码归类-行为证据-机会点评估-设计假设。",
+    "followUps": [
+      "压力测试：用户说想要的功能一定要做吗？",
+      "边界探索：样本量小的时候如何提高可信度？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-UX-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块二：用户研究、问题定义与验证",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-011 你如何从用户访谈中提炼设计机会？ UI/UX 设计师 模块二：用户研究、问题定义与验证 Deep-dive 社招 | 高频 是否能区分用户表达、真实动机和可落地机会点。 访谈目标-样本选择-编码归类-行为证据-机会点评估-设计假设。 压力测试：用户说想要的功能一定要做吗？ 边界探索：样本量小的时候如何提高可信度？ [REF-KB-03] [REF-UX-06]"
+  },
+  {
+    "id": "UX-012",
+    "title": "你如何选择定性研究和定量研究？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块二：用户研究、问题定义与验证",
+    "sourceFile": "ui_ux/02_research_problem_definition.md",
+    "type": "Deep-dive",
+    "level": "社招 | 方法论",
+    "essence": "是否知道不同研究方法回答不同问题。",
+    "framework": "探索原因用定性，验证规模用定量；按问题阶段、成本、风险选择。",
+    "followUps": [
+      "压力测试：只有一周时间，你怎么做研究？",
+      "边界探索：数据和访谈结论冲突时信谁？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-KB-01]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块二：用户研究、问题定义与验证",
+      "Deep-dive",
+      "社招",
+      "方法论"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-012 你如何选择定性研究和定量研究？ UI/UX 设计师 模块二：用户研究、问题定义与验证 Deep-dive 社招 | 方法论 是否知道不同研究方法回答不同问题。 探索原因用定性，验证规模用定量；按问题阶段、成本、风险选择。 压力测试：只有一周时间，你怎么做研究？ 边界探索：数据和访谈结论冲突时信谁？ [REF-KB-03] [REF-KB-01]"
+  },
+  {
+    "id": "UX-013",
+    "title": "你如何定义一个复杂 B 端系统的用户角色？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块二：用户研究、问题定义与验证",
+    "sourceFile": "ui_ux/02_research_problem_definition.md",
+    "type": "Deep-dive",
+    "level": "中高级 | B 端",
+    "essence": "是否理解 B 端角色、权限、流程、组织目标和真实使用者可能不同。",
+    "framework": "组织结构-岗位职责-任务链路-权限边界-决策者/使用者/受影响者。",
+    "followUps": [
+      "压力测试：甲方领导和一线用户诉求冲突怎么办？",
+      "边界探索：Persona 在 B 端什么时候失效？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块二：用户研究、问题定义与验证",
+      "Deep-dive",
+      "中高级",
+      "B 端"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-013 你如何定义一个复杂 B 端系统的用户角色？ UI/UX 设计师 模块二：用户研究、问题定义与验证 Deep-dive 中高级 | B 端 是否理解 B 端角色、权限、流程、组织目标和真实使用者可能不同。 组织结构-岗位职责-任务链路-权限边界-决策者/使用者/受影响者。 压力测试：甲方领导和一线用户诉求冲突怎么办？ 边界探索：Persona 在 B 端什么时候失效？ [REF-KB-03] [REF-PM-06]"
+  },
+  {
+    "id": "UX-014",
+    "title": "你如何评估一个设计方案是否可用？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块二：用户研究、问题定义与验证",
+    "sourceFile": "ui_ux/02_research_problem_definition.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "能否把“我觉得好用”变成任务成功率、错误率、耗时、满意度等证据。",
+    "framework": "定义关键任务-招募目标用户-观察行为-记录问题严重度-迭代验证。",
+    "followUps": [
+      "压力测试：没有用户资源时怎么办？",
+      "边界探索：可用性好是否等于体验好？"
+    ],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-03]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块二：用户研究、问题定义与验证",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-014 你如何评估一个设计方案是否可用？ UI/UX 设计师 模块二：用户研究、问题定义与验证 Deep-dive 社招 | 高频 能否把“我觉得好用”变成任务成功率、错误率、耗时、满意度等证据。 定义关键任务-招募目标用户-观察行为-记录问题严重度-迭代验证。 压力测试：没有用户资源时怎么办？ 边界探索：可用性好是否等于体验好？ [REF-KB-02] [REF-KB-03]"
+  },
+  {
+    "id": "UX-015",
+    "title": "如何处理用户反馈和业务数据的矛盾？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块二：用户研究、问题定义与验证",
+    "sourceFile": "ui_ux/02_research_problem_definition.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 数据",
+    "essence": "考察证据分层和对局部反馈、整体指标、滞后效应的理解。",
+    "framework": "先确认指标口径，再拆用户分群、场景、时间窗口和采样偏差。",
+    "followUps": [
+      "压力测试：投诉很少但转化下降，你怎么判断？",
+      "边界探索：什么时候用户反馈不能作为决策依据？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块二：用户研究、问题定义与验证",
+      "Deep-dive",
+      "中高级",
+      "数据"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-015 如何处理用户反馈和业务数据的矛盾？ UI/UX 设计师 模块二：用户研究、问题定义与验证 Deep-dive 中高级 | 数据 考察证据分层和对局部反馈、整体指标、滞后效应的理解。 先确认指标口径，再拆用户分群、场景、时间窗口和采样偏差。 压力测试：投诉很少但转化下降，你怎么判断？ 边界探索：什么时候用户反馈不能作为决策依据？ [REF-KB-03] [REF-PM-04]"
+  },
+  {
+    "id": "UX-016",
+    "title": "设计一个复杂后台首页，你如何确定信息优先级？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块三：交互、信息架构与复杂系统",
+    "sourceFile": "ui_ux/03_interaction_information_architecture.md",
+    "type": "Deep-dive",
+    "level": "中高级 | B 端",
+    "essence": "考察信息架构、任务优先级和角色差异处理能力。",
+    "framework": "角色-任务频率-业务风险-时效性-可操作性-渐进披露。",
+    "followUps": [
+      "压力测试：所有业务方都说自己的模块最重要怎么办？",
+      "边界探索：什么信息应该隐藏而不是露出？"
+    ],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块三：交互、信息架构与复杂系统",
+      "Deep-dive",
+      "中高级",
+      "B 端"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-016 设计一个复杂后台首页，你如何确定信息优先级？ UI/UX 设计师 模块三：交互、信息架构与复杂系统 Deep-dive 中高级 | B 端 考察信息架构、任务优先级和角色差异处理能力。 角色-任务频率-业务风险-时效性-可操作性-渐进披露。 压力测试：所有业务方都说自己的模块最重要怎么办？ 边界探索：什么信息应该隐藏而不是露出？ [REF-KB-02] [REF-KB-08]"
+  },
+  {
+    "id": "UX-017",
+    "title": "你如何设计一个高风险操作的确认流程？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块三：交互、信息架构与复杂系统",
+    "sourceFile": "ui_ux/03_interaction_information_architecture.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "是否理解错误预防、用户控制权、撤销机制和业务风险。",
+    "framework": "风险分级-预防误触-确认信息-二次校验-撤销/恢复-审计记录。",
+    "followUps": [
+      "压力测试：确认弹窗过多导致效率下降怎么办？",
+      "边界探索：哪些操作不应该只靠弹窗防错？"
+    ],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块三：交互、信息架构与复杂系统",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-017 你如何设计一个高风险操作的确认流程？ UI/UX 设计师 模块三：交互、信息架构与复杂系统 Deep-dive 社招 | 高频 是否理解错误预防、用户控制权、撤销机制和业务风险。 风险分级-预防误触-确认信息-二次校验-撤销/恢复-审计记录。 压力测试：确认弹窗过多导致效率下降怎么办？ 边界探索：哪些操作不应该只靠弹窗防错？ [REF-KB-02] [REF-KB-08]"
+  },
+  {
+    "id": "UX-018",
+    "title": "B 端表格信息过载，你如何优化？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块三：交互、信息架构与复杂系统",
+    "sourceFile": "ui_ux/03_interaction_information_architecture.md",
+    "type": "Deep-dive",
+    "level": "中高级 | B 端",
+    "essence": "考察复杂数据展示、批量操作、筛选、权限和效率设计。",
+    "framework": "字段分层-默认视图-筛选排序-批量动作-异常状态-自定义配置。",
+    "followUps": [
+      "压力测试：用户要求所有字段默认展示怎么办？",
+      "边界探索：表格什么时候应被任务流替代？"
+    ],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块三：交互、信息架构与复杂系统",
+      "Deep-dive",
+      "中高级",
+      "B 端"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-018 B 端表格信息过载，你如何优化？ UI/UX 设计师 模块三：交互、信息架构与复杂系统 Deep-dive 中高级 | B 端 考察复杂数据展示、批量操作、筛选、权限和效率设计。 字段分层-默认视图-筛选排序-批量动作-异常状态-自定义配置。 压力测试：用户要求所有字段默认展示怎么办？ 边界探索：表格什么时候应被任务流替代？ [REF-KB-08] [REF-KB-02]"
+  },
+  {
+    "id": "UX-019",
+    "title": "你如何做信息架构重构？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块三：交互、信息架构与复杂系统",
+    "sourceFile": "ui_ux/03_interaction_information_architecture.md",
+    "type": "Deep-dive",
+    "level": "中高级 | IA",
+    "essence": "是否能在不破坏用户心智的情况下重组导航、分类和任务路径。",
+    "framework": "现状盘点-任务聚类-卡片分类-导航模型-迁移策略-验证指标。",
+    "followUps": [
+      "压力测试：老用户反对新导航怎么办？",
+      "边界探索：什么情况下不该重构？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块三：交互、信息架构与复杂系统",
+      "Deep-dive",
+      "中高级",
+      "IA",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-019 你如何做信息架构重构？ UI/UX 设计师 模块三：交互、信息架构与复杂系统 Deep-dive 中高级 | IA 是否能在不破坏用户心智的情况下重组导航、分类和任务路径。 现状盘点-任务聚类-卡片分类-导航模型-迁移策略-验证指标。 压力测试：老用户反对新导航怎么办？ 边界探索：什么情况下不该重构？ [REF-KB-03] [REF-KB-02]"
+  },
+  {
+    "id": "UX-020",
+    "title": "你如何设计移动端复杂表单？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块三：交互、信息架构与复杂系统",
+    "sourceFile": "ui_ux/03_interaction_information_architecture.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "考察任务拆分、输入效率、错误提示、键盘适配和中断恢复。",
+    "framework": "字段必要性-分步/单页取舍-默认值-实时校验-保存草稿-异常恢复。",
+    "followUps": [
+      "压力测试：业务要求收集更多字段怎么办？",
+      "边界探索：什么字段不该在注册阶段收？"
+    ],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-KB-09]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块三：交互、信息架构与复杂系统",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-020 你如何设计移动端复杂表单？ UI/UX 设计师 模块三：交互、信息架构与复杂系统 Deep-dive 社招 | 高频 考察任务拆分、输入效率、错误提示、键盘适配和中断恢复。 字段必要性-分步/单页取舍-默认值-实时校验-保存草稿-异常恢复。 压力测试：业务要求收集更多字段怎么办？ 边界探索：什么字段不该在注册阶段收？ [REF-KB-10] [REF-KB-09]"
+  },
+  {
+    "id": "UX-021",
+    "title": "你如何从 0 到 1 建立设计系统？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块四：设计系统、规范与协作",
+    "sourceFile": "ui_ux/04_design_system_collaboration.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 设计系统",
+    "essence": "是否理解设计系统不是组件库，而是规范、资产、治理和协作机制。",
+    "framework": "盘点问题-定义原则-组件优先级-设计/代码同步-治理流程-采用率指标。",
+    "followUps": [
+      "压力测试：业务赶进度不愿意接入怎么办？",
+      "边界探索：小团队是否需要设计系统？"
+    ],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-UX-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块四：设计系统、规范与协作",
+      "Deep-dive",
+      "中高级",
+      "设计系统"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-021 你如何从 0 到 1 建立设计系统？ UI/UX 设计师 模块四：设计系统、规范与协作 Deep-dive 中高级 | 设计系统 是否理解设计系统不是组件库，而是规范、资产、治理和协作机制。 盘点问题-定义原则-组件优先级-设计/代码同步-治理流程-采用率指标。 压力测试：业务赶进度不愿意接入怎么办？ 边界探索：小团队是否需要设计系统？ [REF-KB-08] [REF-UX-04]"
+  },
+  {
+    "id": "UX-022",
+    "title": "组件规范和业务定制冲突时如何处理？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块四：设计系统、规范与协作",
+    "sourceFile": "ui_ux/04_design_system_collaboration.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 协作",
+    "essence": "考察一致性、效率、业务差异和治理弹性的平衡。",
+    "framework": "判断是否通用-评估影响面-给扩展规则-记录例外-反哺组件。",
+    "followUps": [
+      "压力测试：研发说组件改不动怎么办？",
+      "边界探索：什么例外不应该被组件化？"
+    ],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块四：设计系统、规范与协作",
+      "Deep-dive",
+      "中高级",
+      "协作"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-022 组件规范和业务定制冲突时如何处理？ UI/UX 设计师 模块四：设计系统、规范与协作 Deep-dive 中高级 | 协作 考察一致性、效率、业务差异和治理弹性的平衡。 判断是否通用-评估影响面-给扩展规则-记录例外-反哺组件。 压力测试：研发说组件改不动怎么办？ 边界探索：什么例外不应该被组件化？ [REF-KB-08] [REF-PM-06]"
+  },
+  {
+    "id": "UX-023",
+    "title": "设计评审中被强烈质疑，你如何回应？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块四：设计系统、规范与协作",
+    "sourceFile": "ui_ux/04_design_system_collaboration.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 协作",
+    "essence": "看候选人能否把争论从审美偏好拉回目标、证据和约束。",
+    "framework": "澄清质疑-回到目标-展示依据-区分可验证点-给出下一步验证。",
+    "followUps": [
+      "压力测试：如果质疑来自高层怎么办？",
+      "边界探索：什么时候应该承认方案不成熟？"
+    ],
+    "references": [
+      "[REF-KB-01]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块四：设计系统、规范与协作",
+      "Deep-dive",
+      "中高级",
+      "协作"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-023 设计评审中被强烈质疑，你如何回应？ UI/UX 设计师 模块四：设计系统、规范与协作 Deep-dive 中高级 | 协作 看候选人能否把争论从审美偏好拉回目标、证据和约束。 澄清质疑-回到目标-展示依据-区分可验证点-给出下一步验证。 压力测试：如果质疑来自高层怎么办？ 边界探索：什么时候应该承认方案不成熟？ [REF-KB-01] [REF-PM-06]"
+  },
+  {
+    "id": "UX-024",
+    "title": "你如何和产品经理合作定义需求？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块四：设计系统、规范与协作",
+    "sourceFile": "ui_ux/04_design_system_collaboration.md",
+    "type": "Deep-dive",
+    "level": "社招 | 协作",
+    "essence": "考察设计是否能前置参与问题定义，而不是只接 PRD。",
+    "framework": "共同拆目标-用户场景-约束-成功指标-方案假设-验证计划。",
+    "followUps": [
+      "压力测试：PM 已经定好方案才找你怎么办？",
+      "边界探索：设计师该不该挑战业务指标？"
+    ],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-KB-03]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块四：设计系统、规范与协作",
+      "Deep-dive",
+      "社招",
+      "协作"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-024 你如何和产品经理合作定义需求？ UI/UX 设计师 模块四：设计系统、规范与协作 Deep-dive 社招 | 协作 考察设计是否能前置参与问题定义，而不是只接 PRD。 共同拆目标-用户场景-约束-成功指标-方案假设-验证计划。 压力测试：PM 已经定好方案才找你怎么办？ 边界探索：设计师该不该挑战业务指标？ [REF-PM-01] [REF-KB-03]"
+  },
+  {
+    "id": "UX-025",
+    "title": "你如何和研发沟通复杂交互实现？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块四：设计系统、规范与协作",
+    "sourceFile": "ui_ux/04_design_system_collaboration.md",
+    "type": "Deep-dive",
+    "level": "社招 | 协作",
+    "essence": "是否具备交付意识、状态覆盖和技术约束理解。",
+    "framework": "交互说明-状态机-异常场景-动效参数-验收标准-灰度回收。",
+    "followUps": [
+      "压力测试：研发评估成本过高时怎么降级？",
+      "边界探索：哪些设计细节必须坚持？"
+    ],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块四：设计系统、规范与协作",
+      "Deep-dive",
+      "社招",
+      "协作"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-025 你如何和研发沟通复杂交互实现？ UI/UX 设计师 模块四：设计系统、规范与协作 Deep-dive 社招 | 协作 是否具备交付意识、状态覆盖和技术约束理解。 交互说明-状态机-异常场景-动效参数-验收标准-灰度回收。 压力测试：研发评估成本过高时怎么降级？ 边界探索：哪些设计细节必须坚持？ [REF-KB-08] [REF-PM-06]"
+  },
+  {
+    "id": "UX-026",
+    "title": "你如何设计生成式 AI 结果的渐进呈现？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块五：AI 时代设计师能力",
+    "sourceFile": "ui_ux/05_ai_designer_capability.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关",
+    "essence": "是否理解大模型延迟、不确定性和用户等待心智。",
+    "framework": "任务阶段-等待反馈-流式输出-可中断-结果编辑-失败兜底。",
+    "followUps": [
+      "压力测试：模型输出慢且不稳定，界面如何降低焦虑？",
+      "边界探索：什么时候不应该流式展示？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块五：AI 时代设计师能力",
+      "Deep-dive",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-026 你如何设计生成式 AI 结果的渐进呈现？ UI/UX 设计师 模块五：AI 时代设计师能力 Deep-dive 中高级 | AI 相关 是否理解大模型延迟、不确定性和用户等待心智。 任务阶段-等待反馈-流式输出-可中断-结果编辑-失败兜底。 压力测试：模型输出慢且不稳定，界面如何降低焦虑？ 边界探索：什么时候不应该流式展示？ [REF-KB-04] [REF-KB-05] [REF-AI-12]"
+  },
+  {
+    "id": "UX-027",
+    "title": "如何设计 AI 出错或幻觉时的体验？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块五：AI 时代设计师能力",
+    "sourceFile": "ui_ux/05_ai_designer_capability.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关",
+    "essence": "考察信任校准、错误恢复和用户控制权。",
+    "framework": "风险分级-置信提示-来源引用-反馈入口-人工复核-可撤销。",
+    "followUps": [
+      "压力测试：是否应该告诉用户“模型可能错”？",
+      "边界探索：哪些场景必须禁止自动执行？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块五：AI 时代设计师能力",
+      "Deep-dive",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-027 如何设计 AI 出错或幻觉时的体验？ UI/UX 设计师 模块五：AI 时代设计师能力 Deep-dive 中高级 | AI 相关 考察信任校准、错误恢复和用户控制权。 风险分级-置信提示-来源引用-反馈入口-人工复核-可撤销。 压力测试：是否应该告诉用户“模型可能错”？ 边界探索：哪些场景必须禁止自动执行？ [REF-KB-04] [REF-KB-05] [REF-AI-12]"
+  },
+  {
+    "id": "UX-028",
+    "title": "AI 设计工具会如何改变你的工作流？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块五：AI 时代设计师能力",
+    "sourceFile": "ui_ux/05_ai_designer_capability.md",
+    "type": "Deep-dive",
+    "level": "社招 | AI 相关",
+    "essence": "看候选人是否把 AI 当作效率工具，而不是替代设计判断。",
+    "framework": "研究归纳-方案发散-文案生成-原型辅助-评审检查-人工判断边界。",
+    "followUps": [
+      "压力测试：AI 生成方案和你的判断冲突怎么办？",
+      "边界探索：哪些设计任务不适合交给 AI？"
+    ],
+    "references": [
+      "[REF-AI-11]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块五：AI 时代设计师能力",
+      "Deep-dive",
+      "社招",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-028 AI 设计工具会如何改变你的工作流？ UI/UX 设计师 模块五：AI 时代设计师能力 Deep-dive 社招 | AI 相关 看候选人是否把 AI 当作效率工具，而不是替代设计判断。 研究归纳-方案发散-文案生成-原型辅助-评审检查-人工判断边界。 压力测试：AI 生成方案和你的判断冲突怎么办？ 边界探索：哪些设计任务不适合交给 AI？ [REF-AI-11] [REF-KB-04]"
+  },
+  {
+    "id": "UX-029",
+    "title": "你如何设计一个 Agent 产品的人机协作流程？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块五：AI 时代设计师能力",
+    "sourceFile": "ui_ux/05_ai_designer_capability.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关",
+    "essence": "是否理解自动化、用户授权、过程可见、回滚和责任归属。",
+    "framework": "任务拆分-授权级别-过程展示-关键节点确认-结果审计-撤销机制。",
+    "followUps": [
+      "压力测试：用户不想看过程，只想要结果怎么办？",
+      "边界探索：哪些任务不能让 Agent 自主执行？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-10]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块五：AI 时代设计师能力",
+      "Deep-dive",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-029 你如何设计一个 Agent 产品的人机协作流程？ UI/UX 设计师 模块五：AI 时代设计师能力 Deep-dive 中高级 | AI 相关 是否理解自动化、用户授权、过程可见、回滚和责任归属。 任务拆分-授权级别-过程展示-关键节点确认-结果审计-撤销机制。 压力测试：用户不想看过程，只想要结果怎么办？ 边界探索：哪些任务不能让 Agent 自主执行？ [REF-KB-04] [REF-KB-05] [REF-AI-10]"
+  },
+  {
+    "id": "UX-030",
+    "title": "你如何为 AI 产品定义体验指标？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块五：AI 时代设计师能力",
+    "sourceFile": "ui_ux/05_ai_designer_capability.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关",
+    "essence": "是否能把 AI 体验从“智能感”转成可跟踪指标。",
+    "framework": "任务成功率、采纳率、编辑率、重试率、信任度、人工兜底率、时延感知。",
+    "followUps": [
+      "压力测试：准确率提高但用户满意度下降，如何解释？",
+      "边界探索：AI 体验指标和业务指标如何对齐？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-08]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块五：AI 时代设计师能力",
+      "Deep-dive",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "ux",
+    "searchBlob": "UX-030 你如何为 AI 产品定义体验指标？ UI/UX 设计师 模块五：AI 时代设计师能力 Deep-dive 中高级 | AI 相关 是否能把 AI 体验从“智能感”转成可跟踪指标。 任务成功率、采纳率、编辑率、重试率、信任度、人工兜底率、时延感知。 压力测试：准确率提高但用户满意度下降，如何解释？ 边界探索：AI 体验指标和业务指标如何对齐？ [REF-KB-04] [REF-AI-08] [REF-AI-12]"
+  },
+  {
+    "id": "UX-031",
+    "title": "你如何介绍自己的设计流程？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 高频",
+    "essence": "是否有稳定方法而非凭感觉出图。",
+    "framework": "目标-研究-定义-方案-验证-交付-复盘。",
+    "followUps": [],
+    "references": [
+      "[REF-UX-07]",
+      "[REF-KB-01]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-031 你如何介绍自己的设计流程？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | 高频 是否有稳定方法而非凭感觉出图。 目标-研究-定义-方案-验证-交付-复盘。 [REF-UX-07] [REF-KB-01]"
+  },
+  {
+    "id": "UX-032",
+    "title": "UI 和 UX 的区别是什么？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "基础 | 高频",
+    "essence": "是否理解界面表现和完整体验链路的区别。",
+    "framework": "UI 偏界面和视觉表达，UX 覆盖用户目标、流程、可用性和结果。",
+    "followUps": [],
+    "references": [
+      "[REF-UX-07]",
+      "[REF-UX-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "基础",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-032 UI 和 UX 的区别是什么？ UI/UX 设计师 模块六：Lite 高频题 Lite 基础 | 高频 是否理解界面表现和完整体验链路的区别。 UI 偏界面和视觉表达，UX 覆盖用户目标、流程、可用性和结果。 [REF-UX-07] [REF-UX-08]"
+  },
+  {
+    "id": "UX-033",
+    "title": "你如何做竞品体验分析？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 高频",
+    "essence": "避免只截图对比，要能围绕目标用户和关键任务分析。",
+    "framework": "场景-对象-任务路径-体验问题-差异原因-可借鉴/不可借鉴。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-UX-09]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-033 你如何做竞品体验分析？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | 高频 避免只截图对比，要能围绕目标用户和关键任务分析。 场景-对象-任务路径-体验问题-差异原因-可借鉴/不可借鉴。 [REF-PM-01] [REF-UX-09]"
+  },
+  {
+    "id": "UX-034",
+    "title": "如何判断一个页面的信息层级是否合理？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "考察视觉层级服务任务优先级的能力。",
+    "framework": "主任务、阅读路径、视觉权重、行动入口、异常状态和噪音控制。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-034 如何判断一个页面的信息层级是否合理？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 考察视觉层级服务任务优先级的能力。 主任务、阅读路径、视觉权重、行动入口、异常状态和噪音控制。 [REF-KB-02] [REF-KB-08]"
+  },
+  {
+    "id": "UX-035",
+    "title": "你如何做可用性测试？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 高频",
+    "essence": "是否能设计任务、观察行为并输出可执行问题。",
+    "framework": "目标-任务-样本-观察-严重度-优先级-复测。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-035 你如何做可用性测试？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | 高频 是否能设计任务、观察行为并输出可执行问题。 目标-任务-样本-观察-严重度-优先级-复测。 [REF-KB-03] [REF-KB-02]"
+  },
+  {
+    "id": "UX-036",
+    "title": "你如何处理空状态设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "看是否理解空状态是引导、解释和转化机会。",
+    "framework": "原因说明、下一步行动、示例内容、权限/异常区分。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-036 你如何处理空状态设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 看是否理解空状态是引导、解释和转化机会。 原因说明、下一步行动、示例内容、权限/异常区分。 [REF-KB-08] [REF-KB-02]"
+  },
+  {
+    "id": "UX-037",
+    "title": "你如何设计错误提示？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "考察错误预防、恢复和文案清晰度。",
+    "framework": "说明发生了什么、为什么、如何修复，避免责备用户。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-09]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-037 你如何设计错误提示？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 考察错误预防、恢复和文案清晰度。 说明发生了什么、为什么、如何修复，避免责备用户。 [REF-KB-02] [REF-KB-09]"
+  },
+  {
+    "id": "UX-038",
+    "title": "如何做表单校验设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否关注输入成本、即时反馈和错误恢复。",
+    "framework": "字段必要性、格式提示、实时校验、提交校验、错误聚合。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-KB-09]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-038 如何做表单校验设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否关注输入成本、即时反馈和错误恢复。 字段必要性、格式提示、实时校验、提交校验、错误聚合。 [REF-KB-10] [REF-KB-09]"
+  },
+  {
+    "id": "UX-039",
+    "title": "你如何设计搜索体验？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "考察查询意图、召回、筛选、排序和无结果处理。",
+    "framework": "输入辅助、联想、纠错、结果排序、筛选、空结果推荐。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-039 你如何设计搜索体验？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 考察查询意图、召回、筛选、排序和无结果处理。 输入辅助、联想、纠错、结果排序、筛选、空结果推荐。 [REF-KB-10] [REF-KB-02]"
+  },
+  {
+    "id": "UX-040",
+    "title": "如何做筛选器设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | B 端",
+    "essence": "是否理解信息规模、筛选频率和组合条件。",
+    "framework": "常用条件前置、高级筛选收纳、已选可见、可清除、可保存。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-10]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-040 如何做筛选器设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | B 端 是否理解信息规模、筛选频率和组合条件。 常用条件前置、高级筛选收纳、已选可见、可清除、可保存。 [REF-KB-08] [REF-KB-10]"
+  },
+  {
+    "id": "UX-041",
+    "title": "你如何设计新手引导？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "考察激活路径和认知负荷控制。",
+    "framework": "关键行为、渐进引导、即时价值、可跳过、后续召回。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-041 你如何设计新手引导？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 考察激活路径和认知负荷控制。 关键行为、渐进引导、即时价值、可跳过、后续召回。 [REF-KB-02] [REF-PM-04]"
+  },
+  {
+    "id": "UX-042",
+    "title": "你如何做动效设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "动效是否服务状态变化、空间关系和反馈，而不是装饰。",
+    "framework": "反馈、引导、转场、状态、性能和可访问性。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-07]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-042 你如何做动效设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 动效是否服务状态变化、空间关系和反馈，而不是装饰。 反馈、引导、转场、状态、性能和可访问性。 [REF-KB-07] [REF-KB-08]"
+  },
+  {
+    "id": "UX-043",
+    "title": "如何处理设计中的无障碍要求？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否理解可访问性是基础质量，不是额外装饰。",
+    "framework": "颜色对比、键盘可达、语义标签、焦点顺序、错误提示。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-09]",
+      "[REF-KB-07]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-043 如何处理设计中的无障碍要求？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否理解可访问性是基础质量，不是额外装饰。 颜色对比、键盘可达、语义标签、焦点顺序、错误提示。 [REF-KB-09] [REF-KB-07]"
+  },
+  {
+    "id": "UX-044",
+    "title": "如何设计深色模式？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否知道深色模式不是简单反色。",
+    "framework": "色阶、对比、语义色、阴影替代、图片和图表适配。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-07]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-044 如何设计深色模式？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否知道深色模式不是简单反色。 色阶、对比、语义色、阴影替代、图片和图表适配。 [REF-KB-07] [REF-KB-08]"
+  },
+  {
+    "id": "UX-045",
+    "title": "你如何做响应式设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "能否让内容和任务在不同设备上保持合理优先级。",
+    "framework": "断点、布局栅格、内容重排、触控目标、导航变化。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-07]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-045 你如何做响应式设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 能否让内容和任务在不同设备上保持合理优先级。 断点、布局栅格、内容重排、触控目标、导航变化。 [REF-KB-08] [REF-KB-07]"
+  },
+  {
+    "id": "UX-046",
+    "title": "你如何设计数据可视化？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | B 端",
+    "essence": "是否能按数据关系和决策任务选择图表。",
+    "framework": "比较、趋势、构成、分布、异常、行动入口。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-046 你如何设计数据可视化？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | B 端 是否能按数据关系和决策任务选择图表。 比较、趋势、构成、分布、异常、行动入口。 [REF-KB-08] [REF-PM-04]"
+  },
+  {
+    "id": "UX-047",
+    "title": "如何设计权限不足状态？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "考察安全边界和用户下一步路径。",
+    "framework": "说明限制、给申请路径、区分无数据/无权限、记录审批状态。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-047 如何设计权限不足状态？ UI/UX 设计师 模块六：Lite 高频题 Lite B 端 考察安全边界和用户下一步路径。 说明限制、给申请路径、区分无数据/无权限、记录审批状态。 [REF-KB-08] [REF-KB-02]"
+  },
+  {
+    "id": "UX-048",
+    "title": "如何设计批量操作？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "看是否覆盖选择、确认、进度、失败回滚和结果反馈。",
+    "framework": "选择范围、操作预览、风险提示、进度、部分失败处理。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-048 如何设计批量操作？ UI/UX 设计师 模块六：Lite 高频题 Lite B 端 看是否覆盖选择、确认、进度、失败回滚和结果反馈。 选择范围、操作预览、风险提示、进度、部分失败处理。 [REF-KB-08] [REF-KB-02]"
+  },
+  {
+    "id": "UX-049",
+    "title": "如何设计消息通知？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能平衡及时性、打扰和任务闭环。",
+    "framework": "通知分级、渠道、频率、聚合、已读、行动入口。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-049 如何设计消息通知？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否能平衡及时性、打扰和任务闭环。 通知分级、渠道、频率、聚合、已读、行动入口。 [REF-KB-02] [REF-KB-08]"
+  },
+  {
+    "id": "UX-050",
+    "title": "你如何设计加载状态？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "考察等待心智和状态反馈。",
+    "framework": "骨架屏、进度、占位、超时提示、可取消、重试。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-050 你如何设计加载状态？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 考察等待心智和状态反馈。 骨架屏、进度、占位、超时提示、可取消、重试。 [REF-KB-02] [REF-KB-08]"
+  },
+  {
+    "id": "UX-051",
+    "title": "如何设计多语言界面？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否关注文本长度、阅读方向、日期货币和文化差异。",
+    "framework": "布局弹性、文案外置、本地格式、图标含义、测试覆盖。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-07]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-051 如何设计多语言界面？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否关注文本长度、阅读方向、日期货币和文化差异。 布局弹性、文案外置、本地格式、图标含义、测试覆盖。 [REF-KB-07] [REF-KB-08]"
+  },
+  {
+    "id": "UX-052",
+    "title": "如何设计复杂流程中的进度感？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "用户是否知道自己在哪、完成了什么、下一步是什么。",
+    "framework": "步骤、状态、保存、返回、分支、完成反馈。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-052 如何设计复杂流程中的进度感？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 用户是否知道自己在哪、完成了什么、下一步是什么。 步骤、状态、保存、返回、分支、完成反馈。 [REF-KB-02] [REF-KB-08]"
+  },
+  {
+    "id": "UX-053",
+    "title": "如何判断是否需要设计组件化？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 设计系统",
+    "essence": "避免为了组件化而组件化。",
+    "framework": "复用频率、变体稳定性、维护成本、跨团队一致性。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-UX-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "设计系统",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-053 如何判断是否需要设计组件化？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | 设计系统 避免为了组件化而组件化。 复用频率、变体稳定性、维护成本、跨团队一致性。 [REF-KB-08] [REF-UX-04]"
+  },
+  {
+    "id": "UX-054",
+    "title": "你如何进行设计走查？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否有交付质量控制意识。",
+    "framework": "主流程、边界状态、视觉一致性、文案、无障碍、埋点。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-054 你如何进行设计走查？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否有交付质量控制意识。 主流程、边界状态、视觉一致性、文案、无障碍、埋点。 [REF-KB-08] [REF-KB-02]"
+  },
+  {
+    "id": "UX-055",
+    "title": "你如何编写交互说明？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "交互是否能被研发准确实现和测试验收。",
+    "framework": "触发条件、状态变化、异常、动效、数据、验收标准。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-055 你如何编写交互说明？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 交互是否能被研发准确实现和测试验收。 触发条件、状态变化、异常、动效、数据、验收标准。 [REF-KB-08] [REF-PM-06]"
+  },
+  {
+    "id": "UX-056",
+    "title": "如何处理设计稿和线上实现不一致？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "考察验收机制和协作方式。",
+    "framework": "分级问题、记录差异、确认影响、协商修复、沉淀规范。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-056 如何处理设计稿和线上实现不一致？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 考察验收机制和协作方式。 分级问题、记录差异、确认影响、协商修复、沉淀规范。 [REF-PM-06] [REF-KB-08]"
+  },
+  {
+    "id": "UX-057",
+    "title": "你如何做设计验收？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否覆盖主流程、状态、数据、视觉、交互和埋点。",
+    "framework": "验收清单、截图比对、真实数据、异常状态、回归记录。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-057 你如何做设计验收？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否覆盖主流程、状态、数据、视觉、交互和埋点。 验收清单、截图比对、真实数据、异常状态、回归记录。 [REF-KB-08] [REF-PM-06]"
+  },
+  {
+    "id": "UX-058",
+    "title": "如何做设计规范落地？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 设计系统",
+    "essence": "规范是否能被团队持续使用。",
+    "framework": "样式变量、组件库、使用文档、评审机制、维护负责人。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-UX-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "设计系统",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-058 如何做设计规范落地？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | 设计系统 规范是否能被团队持续使用。 样式变量、组件库、使用文档、评审机制、维护负责人。 [REF-KB-08] [REF-UX-04]"
+  },
+  {
+    "id": "UX-059",
+    "title": "你如何处理不同平台的一致性？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否理解品牌一致和平台习惯之间的平衡。",
+    "framework": "核心体验一致、交互遵守平台、组件语义统一、差异记录。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-07]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-059 你如何处理不同平台的一致性？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否理解品牌一致和平台习惯之间的平衡。 核心体验一致、交互遵守平台、组件语义统一、差异记录。 [REF-KB-07] [REF-KB-08]"
+  },
+  {
+    "id": "UX-060",
+    "title": "如何设计 onboarding 的首个关键行为？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 增长",
+    "essence": "是否理解激活不是介绍功能，而是让用户完成价值动作。",
+    "framework": "目标用户、关键价值、最短路径、引导触点、激活指标。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-KB-10]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-060 如何设计 onboarding 的首个关键行为？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 | 增长 是否理解激活不是介绍功能，而是让用户完成价值动作。 目标用户、关键价值、最短路径、引导触点、激活指标。 [REF-PM-04] [REF-KB-10]"
+  },
+  {
+    "id": "UX-061",
+    "title": "如何设计转化页？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "C 端 | 增长",
+    "essence": "是否能平衡说服、信任、信息量和行动成本。",
+    "framework": "用户动机、价值主张、信任证据、异议处理、CTA。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "C 端",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-061 如何设计转化页？ UI/UX 设计师 模块六：Lite 高频题 Lite C 端 | 增长 是否能平衡说服、信任、信息量和行动成本。 用户动机、价值主张、信任证据、异议处理、CTA。 [REF-KB-10] [REF-PM-04]"
+  },
+  {
+    "id": "UX-062",
+    "title": "如何设计付费墙？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "C 端 | 商业化",
+    "essence": "是否理解商业转化与用户信任的边界。",
+    "framework": "价值预览、权益对比、价格锚点、取消说明、透明告知。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "C 端",
+      "商业化",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-062 如何设计付费墙？ UI/UX 设计师 模块六：Lite 高频题 Lite C 端 | 商业化 是否理解商业转化与用户信任的边界。 价值预览、权益对比、价格锚点、取消说明、透明告知。 [REF-KB-10] [REF-PM-04]"
+  },
+  {
+    "id": "UX-063",
+    "title": "如何处理用户隐私授权弹窗？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否理解透明、必要性和时机。",
+    "framework": "说明用途、按需请求、拒绝后路径、再次授权入口。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-07]",
+      "[REF-KB-09]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-063 如何处理用户隐私授权弹窗？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否理解透明、必要性和时机。 说明用途、按需请求、拒绝后路径、再次授权入口。 [REF-KB-07] [REF-KB-09]"
+  },
+  {
+    "id": "UX-064",
+    "title": "如何设计多角色协作流程？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "是否能处理角色、权限、交接和审计。",
+    "framework": "角色职责、任务流转、状态、权限、通知、记录。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-064 如何设计多角色协作流程？ UI/UX 设计师 模块六：Lite 高频题 Lite B 端 是否能处理角色、权限、交接和审计。 角色职责、任务流转、状态、权限、通知、记录。 [REF-PM-06] [REF-KB-08]"
+  },
+  {
+    "id": "UX-065",
+    "title": "如何设计审批流？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "考察复杂流程、异常、撤回和催办。",
+    "framework": "节点、条件、发起、审批、驳回、撤回、超时、记录。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-065 如何设计审批流？ UI/UX 设计师 模块六：Lite 高频题 Lite B 端 考察复杂流程、异常、撤回和催办。 节点、条件、发起、审批、驳回、撤回、超时、记录。 [REF-KB-08] [REF-PM-06]"
+  },
+  {
+    "id": "UX-066",
+    "title": "如何设计异常数据的展示？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "异常是否能被识别、理解和处理。",
+    "framework": "异常等级、原因、影响范围、操作建议、历史记录。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-08]",
+      "[REF-KB-02]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-066 如何设计异常数据的展示？ UI/UX 设计师 模块六：Lite 高频题 Lite B 端 异常是否能被识别、理解和处理。 异常等级、原因、影响范围、操作建议、历史记录。 [REF-KB-08] [REF-KB-02]"
+  },
+  {
+    "id": "UX-067",
+    "title": "如何做设计中的文案优化？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "文案是否降低理解成本并推动行动。",
+    "framework": "用户语境、明确动作、少术语、错误可修复、语气一致。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-07]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-067 如何做设计中的文案优化？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 文案是否降低理解成本并推动行动。 用户语境、明确动作、少术语、错误可修复、语气一致。 [REF-KB-02] [REF-KB-07]"
+  },
+  {
+    "id": "UX-068",
+    "title": "如何判断一个设计方案是否过度设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "能否控制复杂度和实现成本。",
+    "framework": "目标匹配、用户价值、使用频率、实现成本、维护成本。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-01]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-068 如何判断一个设计方案是否过度设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 能否控制复杂度和实现成本。 目标匹配、用户价值、使用频率、实现成本、维护成本。 [REF-KB-01] [REF-PM-06]"
+  },
+  {
+    "id": "UX-069",
+    "title": "你如何使用数据指导设计？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能把数据用于发现问题、验证假设，而不是事后包装。",
+    "framework": "指标定义、漏斗拆解、行为路径、分群、实验验证。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-KB-03]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-069 你如何使用数据指导设计？ UI/UX 设计师 模块六：Lite 高频题 Lite 社招通用 是否能把数据用于发现问题、验证假设，而不是事后包装。 指标定义、漏斗拆解、行为路径、分群、实验验证。 [REF-PM-04] [REF-KB-03]"
+  },
+  {
+    "id": "UX-070",
+    "title": "如何做 A/B 测试中的设计判断？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "增长 | 社招",
+    "essence": "是否理解实验不是只看胜负，还要看样本、指标和长期影响。",
+    "framework": "假设、变量、主指标、护栏指标、样本量、结论边界。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-KB-10]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "增长",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-070 如何做 A/B 测试中的设计判断？ UI/UX 设计师 模块六：Lite 高频题 Lite 增长 | 社招 是否理解实验不是只看胜负，还要看样本、指标和长期影响。 假设、变量、主指标、护栏指标、样本量、结论边界。 [REF-PM-04] [REF-KB-10]"
+  },
+  {
+    "id": "UX-071",
+    "title": "如何设计 AI 推荐结果的解释？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "是否理解解释用于信任校准和用户决策。",
+    "framework": "推荐依据、可调整因素、反馈入口、隐私边界。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-071 如何设计 AI 推荐结果的解释？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 是否理解解释用于信任校准和用户决策。 推荐依据、可调整因素、反馈入口、隐私边界。 [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "UX-072",
+    "title": "如何设计 Prompt 输入框？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "输入框是否帮助用户表达意图并降低试错成本。",
+    "framework": "示例、模板、约束提示、历史记录、改写建议、附件上下文。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-03]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-072 如何设计 Prompt 输入框？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 输入框是否帮助用户表达意图并降低试错成本。 示例、模板、约束提示、历史记录、改写建议、附件上下文。 [REF-KB-04] [REF-AI-03]"
+  },
+  {
+    "id": "UX-073",
+    "title": "如何设计 AI 输出后的编辑体验？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "用户能否把模型结果变成自己的最终成果。",
+    "framework": "局部重写、版本对比、引用来源、撤销、导出和保存。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-073 如何设计 AI 输出后的编辑体验？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 用户能否把模型结果变成自己的最终成果。 局部重写、版本对比、引用来源、撤销、导出和保存。 [REF-KB-04] [REF-AI-12]"
+  },
+  {
+    "id": "UX-074",
+    "title": "如何设计 AI 生成内容的安全提示？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "安全提示是否明确风险且不制造过度恐慌。",
+    "framework": "风险类型、使用场景、责任边界、人工复核、举报反馈。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-05]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-074 如何设计 AI 生成内容的安全提示？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 安全提示是否明确风险且不制造过度恐慌。 风险类型、使用场景、责任边界、人工复核、举报反馈。 [REF-KB-05] [REF-AI-05]"
+  },
+  {
+    "id": "UX-075",
+    "title": "如何设计多模态输入体验？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "是否理解文本、图片、语音、文件在上下文和隐私上的差异。",
+    "framework": "输入类型、权限、预览、解析状态、失败提示、删除控制。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-075 如何设计多模态输入体验？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 是否理解文本、图片、语音、文件在上下文和隐私上的差异。 输入类型、权限、预览、解析状态、失败提示、删除控制。 [REF-KB-04] [REF-AI-12]"
+  },
+  {
+    "id": "UX-076",
+    "title": "如何设计 AI 任务历史？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "历史是否支持追溯、复用和隐私控制。",
+    "framework": "会话分组、版本、来源、删除、搜索、再次运行。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-076 如何设计 AI 任务历史？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 历史是否支持追溯、复用和隐私控制。 会话分组、版本、来源、删除、搜索、再次运行。 [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "UX-077",
+    "title": "如何设计模型置信度展示？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "是否能避免用户误把机器输出当确定事实。",
+    "framework": "置信等级、证据来源、适用范围、人工复核建议。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-077 如何设计模型置信度展示？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 是否能避免用户误把机器输出当确定事实。 置信等级、证据来源、适用范围、人工复核建议。 [REF-KB-05] [REF-AI-12]"
+  },
+  {
+    "id": "UX-078",
+    "title": "如何设计 AI 产品的反馈入口？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "反馈是否能用于体验修正和模型改进。",
+    "framework": "点赞/点踩、原因标签、文本补充、隐私告知、闭环状态。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-078 如何设计 AI 产品的反馈入口？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 反馈是否能用于体验修正和模型改进。 点赞/点踩、原因标签、文本补充、隐私告知、闭环状态。 [REF-KB-04] [REF-AI-08]"
+  },
+  {
+    "id": "UX-079",
+    "title": "如何设计可撤销的 AI 自动化？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "自动化越强，越需要控制权和恢复机制。",
+    "framework": "预览、确认、执行日志、撤销、恢复点、人工接管。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-079 如何设计可撤销的 AI 自动化？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 自动化越强，越需要控制权和恢复机制。 预览、确认、执行日志、撤销、恢复点、人工接管。 [REF-KB-05] [REF-KB-04]"
+  },
+  {
+    "id": "UX-080",
+    "title": "如何评估 AI 界面的“信任感”？",
+    "collection": "UI/UX 设计师",
+    "role": "UI/UX",
+    "module": "模块六：Lite 高频题",
+    "sourceFile": "ui_ux/06_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI 相关 | 中高级",
+    "essence": "信任来自可预期、可解释、可控制和可恢复，不是视觉科技感。",
+    "framework": "准确性感知、来源透明、错误恢复、控制权、用户满意和持续使用。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "UI/UX 设计师",
+      "模块六：Lite 高频题",
+      "Lite",
+      "AI 相关",
+      "中高级",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "ux",
+    "searchBlob": "UX-080 如何评估 AI 界面的“信任感”？ UI/UX 设计师 模块六：Lite 高频题 Lite AI 相关 | 中高级 信任来自可预期、可解释、可控制和可恢复，不是视觉科技感。 准确性感知、来源透明、错误恢复、控制权、用户满意和持续使用。 [REF-KB-04] [REF-KB-05] [REF-AI-12]"
+  },
+  {
+    "id": "PM-001",
+    "title": "请讲一个最能代表你产品能力的项目",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "是否能用业务目标、用户问题、关键决策、结果指标证明产品能力。",
+    "framework": "STAR + 背景-目标-用户/业务问题-方案取舍-落地推进-结果复盘。",
+    "followUps": [
+      "压力测试：如果只看一个指标，哪个最能证明你的贡献？",
+      "边界探索：这个项目成功有多少是你个人推动的？"
+    ],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-03]",
+      "[REF-PM-07]",
+      "[REF-PM-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-001 请讲一个最能代表你产品能力的项目 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 中高级 | 高频 是否能用业务目标、用户问题、关键决策、结果指标证明产品能力。 STAR + 背景-目标-用户/业务问题-方案取舍-落地推进-结果复盘。 压力测试：如果只看一个指标，哪个最能证明你的贡献？ 边界探索：这个项目成功有多少是你个人推动的？ [REF-PM-01] [REF-PM-03] [REF-PM-07] [REF-PM-08]"
+  },
+  {
+    "id": "PM-002",
+    "title": "讲一个你做失败的产品项目",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "看候选人是否能诚实复盘假设、决策、执行和外部环境。",
+    "framework": "初始假设-关键判断-失败信号-责任边界-修正动作-沉淀机制。",
+    "followUps": [
+      "压力测试：如果重来一次你会删掉哪个需求？",
+      "边界探索：失败是战略错误还是执行错误？"
+    ],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-002 讲一个你做失败的产品项目 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 中高级 | 高频 看候选人是否能诚实复盘假设、决策、执行和外部环境。 初始假设-关键判断-失败信号-责任边界-修正动作-沉淀机制。 压力测试：如果重来一次你会删掉哪个需求？ 边界探索：失败是战略错误还是执行错误？ [REF-PM-04] [REF-PM-06]"
+  },
+  {
+    "id": "PM-003",
+    "title": "你如何证明一个项目的业务价值？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 数据",
+    "essence": "是否能把产品动作和业务指标建立因果或强相关证据。",
+    "framework": "目标指标-用户行为路径-对照基线-实验/灰度-收益拆解-长期影响。",
+    "followUps": [
+      "压力测试：没有 A/B 实验怎么证明？",
+      "边界探索：业务增长可能来自市场投放，如何排除？"
+    ],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "中高级",
+      "数据"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-003 你如何证明一个项目的业务价值？ 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 中高级 | 数据 是否能把产品动作和业务指标建立因果或强相关证据。 目标指标-用户行为路径-对照基线-实验/灰度-收益拆解-长期影响。 压力测试：没有 A/B 实验怎么证明？ 边界探索：业务增长可能来自市场投放，如何排除？ [REF-PM-02] [REF-PM-04]"
+  },
+  {
+    "id": "PM-004",
+    "title": "讲一个你从 0 到 1 做产品的经历",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "是否能完成问题发现、MVP、验证、迭代和规模化。",
+    "framework": "机会识别-目标用户-核心场景-MVP-验证指标-迭代路线。",
+    "followUps": [
+      "压力测试：如何判断 MVP 足够小但有验证价值？",
+      "边界探索：什么时候应该停止 0 到 1 项目？"
+    ],
+    "references": [
+      "[REF-PM-03]",
+      "[REF-PM-05]",
+      "[REF-PM-09]",
+      "[REF-PM-10]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-004 讲一个你从 0 到 1 做产品的经历 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 中高级 | 高频 是否能完成问题发现、MVP、验证、迭代和规模化。 机会识别-目标用户-核心场景-MVP-验证指标-迭代路线。 压力测试：如何判断 MVP 足够小但有验证价值？ 边界探索：什么时候应该停止 0 到 1 项目？ [REF-PM-03] [REF-PM-05] [REF-PM-09] [REF-PM-10]"
+  },
+  {
+    "id": "PM-005",
+    "title": "讲一个你推进跨部门协作的项目",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 协作",
+    "essence": "考察目标对齐、资源协调、冲突处理和项目节奏控制。",
+    "framework": "共同目标-角色利益-关键阻塞-决策机制-节奏管理-风险预案。",
+    "followUps": [
+      "压力测试：研发资源不够时你怎么推进？",
+      "边界探索：如果目标本身不一致，如何处理？"
+    ],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-PM-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "中高级",
+      "协作"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-005 讲一个你推进跨部门协作的项目 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 中高级 | 协作 考察目标对齐、资源协调、冲突处理和项目节奏控制。 共同目标-角色利益-关键阻塞-决策机制-节奏管理-风险预案。 压力测试：研发资源不够时你怎么推进？ 边界探索：如果目标本身不一致，如何处理？ [REF-PM-06] [REF-PM-01]"
+  },
+  {
+    "id": "PM-006",
+    "title": "你如何处理业务方频繁插需求？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "是否有需求入口、优先级、资源约束和沟通机制。",
+    "framework": "需求池-目标校验-影响评估-优先级规则-排期机制-透明沟通。",
+    "followUps": [
+      "压力测试：老板要求插入，且没有数据支撑怎么办？",
+      "边界探索：什么需求应直接拒绝？"
+    ],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-006 你如何处理业务方频繁插需求？ 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 社招 | 高频 是否有需求入口、优先级、资源约束和沟通机制。 需求池-目标校验-影响评估-优先级规则-排期机制-透明沟通。 压力测试：老板要求插入，且没有数据支撑怎么办？ 边界探索：什么需求应直接拒绝？ [REF-PM-01] [REF-PM-06]"
+  },
+  {
+    "id": "PM-007",
+    "title": "你如何从用户反馈中发现真实需求？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "能否区分用户表达、场景痛点和产品机会。",
+    "framework": "反馈聚类-用户分层-场景复原-痛点强度-规模评估-方案假设。",
+    "followUps": [
+      "压力测试：少数大客户的需求要不要做？",
+      "边界探索：用户想要的功能和产品定位冲突怎么办？"
+    ],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-PM-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-007 你如何从用户反馈中发现真实需求？ 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 社招 | 高频 能否区分用户表达、场景痛点和产品机会。 反馈聚类-用户分层-场景复原-痛点强度-规模评估-方案假设。 压力测试：少数大客户的需求要不要做？ 边界探索：用户想要的功能和产品定位冲突怎么办？ [REF-KB-03] [REF-PM-01]"
+  },
+  {
+    "id": "PM-008",
+    "title": "你如何定义一个需求是否值得做？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "考察价值判断、成本意识和战略一致性。",
+    "framework": "用户价值-业务价值-战略匹配-规模频次-实现成本-风险。",
+    "followUps": [
+      "压力测试：收益很大但研发成本也很大怎么办？",
+      "边界探索：有没有短期低价值但长期必须做的需求？"
+    ],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-008 你如何定义一个需求是否值得做？ 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 社招 | 高频 考察价值判断、成本意识和战略一致性。 用户价值-业务价值-战略匹配-规模频次-实现成本-风险。 压力测试：收益很大但研发成本也很大怎么办？ 边界探索：有没有短期低价值但长期必须做的需求？ [REF-PM-02] [REF-PM-05]"
+  },
+  {
+    "id": "PM-009",
+    "title": "如何给多个需求排序？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "是否具备系统的优先级决策方法，而不是拍脑袋排期。",
+    "framework": "RICE/ICE/Kano + 目标对齐 + 依赖关系 + 风险和窗口期。",
+    "followUps": [
+      "压力测试：评分模型算出来和直觉不一致怎么办？",
+      "边界探索：什么时候不适合用 RICE？"
+    ],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-03]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "社招",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-009 如何给多个需求排序？ 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 社招 | 高频 是否具备系统的优先级决策方法，而不是拍脑袋排期。 RICE/ICE/Kano + 目标对齐 + 依赖关系 + 风险和窗口期。 压力测试：评分模型算出来和直觉不一致怎么办？ 边界探索：什么时候不适合用 RICE？ [REF-PM-02] [REF-PM-03]"
+  },
+  {
+    "id": "PM-010",
+    "title": "你如何制定产品 Roadmap？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块一：项目复盘、业务结果与个人贡献",
+    "sourceFile": "pm/01_project_review_business_impact.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 规划",
+    "essence": "是否能从战略目标拆到阶段重点和资源安排。",
+    "framework": "愿景-北极星指标-阶段目标-主题-里程碑-资源-风险。",
+    "followUps": [
+      "压力测试：老板要求提前两个月上线怎么办？",
+      "边界探索：Roadmap 应该多稳定还是多灵活？"
+    ],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-06]",
+      "[REF-PM-11]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块一：项目复盘、业务结果与个人贡献",
+      "Deep-dive",
+      "中高级",
+      "规划"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-010 你如何制定产品 Roadmap？ 产品经理 模块一：项目复盘、业务结果与个人贡献 Deep-dive 中高级 | 规划 是否能从战略目标拆到阶段重点和资源安排。 愿景-北极星指标-阶段目标-主题-里程碑-资源-风险。 压力测试：老板要求提前两个月上线怎么办？ 边界探索：Roadmap 应该多稳定还是多灵活？ [REF-PM-05] [REF-PM-06] [REF-PM-11]"
+  },
+  {
+    "id": "PM-011",
+    "title": "设计一个提升新用户激活率的方案",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 增长",
+    "essence": "是否能从关键价值行为出发拆解激活，而不是堆新手引导。",
+    "framework": "目标用户-激活定义-漏斗定位-阻塞原因-实验方案-护栏指标。",
+    "followUps": [
+      "压力测试：激活率涨了但留存没涨，说明什么？",
+      "边界探索：什么时候不应该优化激活？"
+    ],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-02]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "中高级",
+      "增长"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-011 设计一个提升新用户激活率的方案 产品经理 模块二：产品设计、数据与增长 Deep-dive 中高级 | 增长 是否能从关键价值行为出发拆解激活，而不是堆新手引导。 目标用户-激活定义-漏斗定位-阻塞原因-实验方案-护栏指标。 压力测试：激活率涨了但留存没涨，说明什么？ 边界探索：什么时候不应该优化激活？ [REF-PM-04] [REF-PM-02]"
+  },
+  {
+    "id": "PM-012",
+    "title": "如何提升一个内容产品的留存？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 增长",
+    "essence": "考察用户分层、内容供给、推荐、社区和习惯形成。",
+    "framework": "留存曲线-用户分群-核心场景-内容质量-召回机制-实验验证。",
+    "followUps": [
+      "压力测试：日活上升但人均时长下降怎么办？",
+      "边界探索：如何避免低质内容拉高短期活跃？"
+    ],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "中高级",
+      "增长"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-012 如何提升一个内容产品的留存？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 中高级 | 增长 考察用户分层、内容供给、推荐、社区和习惯形成。 留存曲线-用户分群-核心场景-内容质量-召回机制-实验验证。 压力测试：日活上升但人均时长下降怎么办？ 边界探索：如何避免低质内容拉高短期活跃？ [REF-PM-04] [REF-PM-12]"
+  },
+  {
+    "id": "PM-013",
+    "title": "如何设计一个会员付费产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 商业化",
+    "essence": "是否理解价值分层、定价、权益设计和用户信任。",
+    "framework": "用户分层-付费动机-权益组合-价格锚点-转化路径-续费指标。",
+    "followUps": [
+      "压力测试：付费转化上涨但口碑下降怎么办？",
+      "边界探索：哪些权益不适合放进会员？"
+    ],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-KB-10]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "中高级",
+      "商业化"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-013 如何设计一个会员付费产品？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 中高级 | 商业化 是否理解价值分层、定价、权益设计和用户信任。 用户分层-付费动机-权益组合-价格锚点-转化路径-续费指标。 压力测试：付费转化上涨但口碑下降怎么办？ 边界探索：哪些权益不适合放进会员？ [REF-PM-04] [REF-KB-10]"
+  },
+  {
+    "id": "PM-014",
+    "title": "如何定位转化漏斗中的问题？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "社招 | 数据",
+    "essence": "是否能从整体指标下钻到人群、渠道、页面和行为。",
+    "framework": "漏斗定义-分群-路径-异常点-假设-验证-迭代。",
+    "followUps": [
+      "压力测试：每一步都有小幅下降，先改哪一步？",
+      "边界探索：漏斗指标可能误导的地方是什么？"
+    ],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "社招",
+      "数据"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-014 如何定位转化漏斗中的问题？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 社招 | 数据 是否能从整体指标下钻到人群、渠道、页面和行为。 漏斗定义-分群-路径-异常点-假设-验证-迭代。 压力测试：每一步都有小幅下降，先改哪一步？ 边界探索：漏斗指标可能误导的地方是什么？ [REF-PM-02] [REF-PM-04]"
+  },
+  {
+    "id": "PM-015",
+    "title": "如何设计一次 A/B 实验？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "社招 | 数据",
+    "essence": "是否理解假设、变量、样本、显著性和护栏指标。",
+    "framework": "实验假设-目标人群-变量控制-主指标-护栏指标-上线决策。",
+    "followUps": [
+      "压力测试：实验结果不显著怎么办？",
+      "边界探索：哪些场景不适合 A/B 测试？"
+    ],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "社招",
+      "数据"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-015 如何设计一次 A/B 实验？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 社招 | 数据 是否理解假设、变量、样本、显著性和护栏指标。 实验假设-目标人群-变量控制-主指标-护栏指标-上线决策。 压力测试：实验结果不显著怎么办？ 边界探索：哪些场景不适合 A/B 测试？ [REF-PM-02] [REF-PM-04]"
+  },
+  {
+    "id": "PM-016",
+    "title": "如何定义产品的北极星指标？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 策略",
+    "essence": "是否能找到连接用户价值和业务增长的核心指标。",
+    "framework": "用户价值-业务模式-关键行为-可增长性-可行动性-防作弊。",
+    "followUps": [
+      "压力测试：收入能不能直接做北极星指标？",
+      "边界探索：不同阶段北极星指标是否会变化？"
+    ],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "中高级",
+      "策略"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-016 如何定义产品的北极星指标？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 中高级 | 策略 是否能找到连接用户价值和业务增长的核心指标。 用户价值-业务模式-关键行为-可增长性-可行动性-防作弊。 压力测试：收入能不能直接做北极星指标？ 边界探索：不同阶段北极星指标是否会变化？ [REF-PM-04] [REF-PM-12]"
+  },
+  {
+    "id": "PM-017",
+    "title": "如何做竞品分析并转化为产品决策？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "社招 | 高频",
+    "essence": "是否能从竞品现象拆到用户、战略、资源和差异化。",
+    "framework": "目标-竞品选择-用户场景-功能/体验/商业模式-差异机会-行动建议。",
+    "followUps": [
+      "压力测试：竞品做了一个功能，我们要不要跟？",
+      "边界探索：竞品分析最容易误判什么？"
+    ],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-03]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "社招",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-017 如何做竞品分析并转化为产品决策？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 社招 | 高频 是否能从竞品现象拆到用户、战略、资源和差异化。 目标-竞品选择-用户场景-功能/体验/商业模式-差异机会-行动建议。 压力测试：竞品做了一个功能，我们要不要跟？ 边界探索：竞品分析最容易误判什么？ [REF-PM-01] [REF-PM-03]"
+  },
+  {
+    "id": "PM-018",
+    "title": "如何判断一个功能上线后的成功与否？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "社招 | 数据",
+    "essence": "能否建立上线前目标和上线后评估闭环。",
+    "framework": "成功指标-护栏指标-埋点-灰度-用户反馈-复盘。",
+    "followUps": [
+      "压力测试：主指标涨了但成本也涨了怎么办？",
+      "边界探索：上线多久后评估才合理？"
+    ],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "社招",
+      "数据"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-018 如何判断一个功能上线后的成功与否？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 社招 | 数据 能否建立上线前目标和上线后评估闭环。 成功指标-护栏指标-埋点-灰度-用户反馈-复盘。 压力测试：主指标涨了但成本也涨了怎么办？ 边界探索：上线多久后评估才合理？ [REF-PM-02] [REF-PM-05]"
+  },
+  {
+    "id": "PM-019",
+    "title": "设计一个提升搜索体验的产品方案",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 搜索推荐",
+    "essence": "是否理解查询意图、召回、排序、筛选和结果满意度。",
+    "framework": "场景-意图分类-无结果/低相关-排序信号-反馈闭环-指标。",
+    "followUps": [
+      "压力测试：相关性提高但转化下降怎么办？",
+      "边界探索：搜索和推荐的边界是什么？"
+    ],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "中高级",
+      "搜索推荐"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-019 设计一个提升搜索体验的产品方案 产品经理 模块二：产品设计、数据与增长 Deep-dive 中高级 | 搜索推荐 是否理解查询意图、召回、排序、筛选和结果满意度。 场景-意图分类-无结果/低相关-排序信号-反馈闭环-指标。 压力测试：相关性提高但转化下降怎么办？ 边界探索：搜索和推荐的边界是什么？ [REF-KB-10] [REF-PM-04]"
+  },
+  {
+    "id": "PM-020",
+    "title": "如何做一个 B 端产品的需求调研？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块二：产品设计、数据与增长",
+    "sourceFile": "pm/02_product_design_data_growth.md",
+    "type": "Deep-dive",
+    "level": "中高级 | B 端",
+    "essence": "是否理解决策者、采购者、管理员、一线使用者的不同诉求。",
+    "framework": "组织角色-业务流程-痛点强度-ROI-权限-实施成本-验收标准。",
+    "followUps": [
+      "压力测试：大客户要定制，小客户要标准化怎么办？",
+      "边界探索：B 端用户访谈为什么容易失真？"
+    ],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-03]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块二：产品设计、数据与增长",
+      "Deep-dive",
+      "中高级",
+      "B 端"
+    ],
+    "isAi": false,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-020 如何做一个 B 端产品的需求调研？ 产品经理 模块二：产品设计、数据与增长 Deep-dive 中高级 | B 端 是否理解决策者、采购者、管理员、一线使用者的不同诉求。 组织角色-业务流程-痛点强度-ROI-权限-实施成本-验收标准。 压力测试：大客户要定制，小客户要标准化怎么办？ 边界探索：B 端用户访谈为什么容易失真？ [REF-PM-06] [REF-KB-03]"
+  },
+  {
+    "id": "PM-021",
+    "title": "你如何判断一个需求是否适合用大模型解决？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关",
+    "essence": "是否能区分“需要生成/理解/推理”与普通规则系统或搜索系统。",
+    "framework": "任务类型-不确定性容忍度-数据可得性-评估标准-成本延迟-风险。",
+    "followUps": [
+      "压力测试：不用大模型能否做得更便宜？",
+      "边界探索：哪些需求用了大模型反而更差？"
+    ],
+    "references": [
+      "[REF-AI-01]",
+      "[REF-AI-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-021 你如何判断一个需求是否适合用大模型解决？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive 中高级 | AI 相关 是否能区分“需要生成/理解/推理”与普通规则系统或搜索系统。 任务类型-不确定性容忍度-数据可得性-评估标准-成本延迟-风险。 压力测试：不用大模型能否做得更便宜？ 边界探索：哪些需求用了大模型反而更差？ [REF-AI-01] [REF-AI-06]"
+  },
+  {
+    "id": "PM-022",
+    "title": "RAG 和微调分别适合什么场景？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 高频",
+    "essence": "是否理解知识更新、行为风格、成本、数据和评估差异。",
+    "framework": "RAG 适合外部知识和可追溯，微调适合稳定任务风格和领域行为。",
+    "followUps": [
+      "压力测试：RAG 召回不准怎么排查？",
+      "边界探索：能不能 RAG 和微调一起用？"
+    ],
+    "references": [
+      "[REF-AI-04]",
+      "[REF-AI-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-022 RAG 和微调分别适合什么场景？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 高频 是否理解知识更新、行为风格、成本、数据和评估差异。 RAG 适合外部知识和可追溯，微调适合稳定任务风格和领域行为。 压力测试：RAG 召回不准怎么排查？ 边界探索：能不能 RAG 和微调一起用？ [REF-AI-04] [REF-AI-01]"
+  },
+  {
+    "id": "PM-023",
+    "title": "如何评估一个 AI 问答产品的效果？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 高频",
+    "essence": "是否能同时看模型质量、用户任务和业务结果。",
+    "framework": "离线评测集-人工标注-准确率/幻觉率-任务成功率-满意度-成本延迟。",
+    "followUps": [
+      "压力测试：模型分数提高但用户不满意怎么办？",
+      "边界探索：评测集如何避免被污染？"
+    ],
+    "references": [
+      "[REF-AI-02]",
+      "[REF-AI-08]",
+      "[REF-AI-09]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-023 如何评估一个 AI 问答产品的效果？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 高频 是否能同时看模型质量、用户任务和业务结果。 离线评测集-人工标注-准确率/幻觉率-任务成功率-满意度-成本延迟。 压力测试：模型分数提高但用户不满意怎么办？ 边界探索：评测集如何避免被污染？ [REF-AI-02] [REF-AI-08] [REF-AI-09]"
+  },
+  {
+    "id": "PM-024",
+    "title": "如何处理 AI 产品的幻觉问题？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 高频",
+    "essence": "是否知道幻觉不是单点问题，要产品、模型、数据和体验共同治理。",
+    "framework": "场景风险分级-检索引用-拒答策略-置信提示-人工复核-监控反馈。",
+    "followUps": [
+      "压力测试：完全消灭幻觉是否现实？",
+      "边界探索：哪些场景必须宁可拒答也不能编？"
+    ],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-08]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-024 如何处理 AI 产品的幻觉问题？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 高频 是否知道幻觉不是单点问题，要产品、模型、数据和体验共同治理。 场景风险分级-检索引用-拒答策略-置信提示-人工复核-监控反馈。 压力测试：完全消灭幻觉是否现实？ 边界探索：哪些场景必须宁可拒答也不能编？ [REF-KB-05] [REF-AI-08] [REF-AI-12]"
+  },
+  {
+    "id": "PM-025",
+    "title": "如何设计一个 Agent 产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 中高级",
+    "essence": "是否理解任务拆解、工具调用、权限、过程可见、失败恢复和责任边界。",
+    "framework": "目标任务-工具边界-授权策略-执行计划-检查点-日志-回滚。",
+    "followUps": [
+      "压力测试：Agent 执行错了谁负责？",
+      "边界探索：什么任务不适合 Agent 化？"
+    ],
+    "references": [
+      "[REF-AI-10]",
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-025 如何设计一个 Agent 产品？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 中高级 是否理解任务拆解、工具调用、权限、过程可见、失败恢复和责任边界。 目标任务-工具边界-授权策略-执行计划-检查点-日志-回滚。 压力测试：Agent 执行错了谁负责？ 边界探索：什么任务不适合 Agent 化？ [REF-AI-10] [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "PM-026",
+    "title": "如何控制 AI 产品的成本和延迟？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 中高级",
+    "essence": "是否具备模型选择、缓存、路由、降级和商业模型意识。",
+    "framework": "场景分级-模型路由-缓存-流式输出-批处理-配额-ROI。",
+    "followUps": [
+      "压力测试：用户要高质量，老板要低成本怎么办？",
+      "边界探索：哪些场景可以用小模型？"
+    ],
+    "references": [
+      "[REF-AI-01]",
+      "[REF-AI-09]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-026 如何控制 AI 产品的成本和延迟？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 中高级 是否具备模型选择、缓存、路由、降级和商业模型意识。 场景分级-模型路由-缓存-流式输出-批处理-配额-ROI。 压力测试：用户要高质量，老板要低成本怎么办？ 边界探索：哪些场景可以用小模型？ [REF-AI-01] [REF-AI-09]"
+  },
+  {
+    "id": "PM-027",
+    "title": "如何设计 AI 产品的数据闭环？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 数据",
+    "essence": "是否能把用户反馈、线上日志、评测集和迭代机制连起来。",
+    "framework": "数据采集-隐私合规-反馈标签-样本筛选-评测更新-模型/Prompt 迭代。",
+    "followUps": [
+      "压力测试：用户反馈很少怎么补数据？",
+      "边界探索：哪些用户数据不能进入训练？"
+    ],
+    "references": [
+      "[REF-AI-02]",
+      "[REF-AI-08]",
+      "[REF-AI-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "数据",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-027 如何设计 AI 产品的数据闭环？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 数据 是否能把用户反馈、线上日志、评测集和迭代机制连起来。 数据采集-隐私合规-反馈标签-样本筛选-评测更新-模型/Prompt 迭代。 压力测试：用户反馈很少怎么补数据？ 边界探索：哪些用户数据不能进入训练？ [REF-AI-02] [REF-AI-08] [REF-AI-05]"
+  },
+  {
+    "id": "PM-028",
+    "title": "如何做 AI 产品冷启动？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 0 到 1",
+    "essence": "是否能在数据少、效果不稳、信任未建立时设计 MVP。",
+    "framework": "窄场景-种子数据-人工辅助-明确边界-高频反馈-小规模灰度。",
+    "followUps": [
+      "压力测试：冷启动效果差，如何避免用户流失？",
+      "边界探索：什么时候应该先做人工流程？"
+    ],
+    "references": [
+      "[REF-AI-06]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "0 到 1",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-028 如何做 AI 产品冷启动？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 0 到 1 是否能在数据少、效果不稳、信任未建立时设计 MVP。 窄场景-种子数据-人工辅助-明确边界-高频反馈-小规模灰度。 压力测试：冷启动效果差，如何避免用户流失？ 边界探索：什么时候应该先做人工流程？ [REF-AI-06] [REF-PM-05]"
+  },
+  {
+    "id": "PM-029",
+    "title": "AI 产品如何做安全与合规设计？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "AI PM | 风险",
+    "essence": "是否理解隐私、版权、越权、内容安全和责任边界。",
+    "framework": "风险识别-数据权限-内容审核-审计日志-用户告知-人工兜底。",
+    "followUps": [
+      "压力测试：安全策略降低转化怎么办？",
+      "边界探索：哪些能力必须默认关闭？"
+    ],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "AI PM",
+      "风险",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-029 AI 产品如何做安全与合规设计？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive AI PM | 风险 是否理解隐私、版权、越权、内容安全和责任边界。 风险识别-数据权限-内容审核-审计日志-用户告知-人工兜底。 压力测试：安全策略降低转化怎么办？ 边界探索：哪些能力必须默认关闭？ [REF-AI-05] [REF-KB-05]"
+  },
+  {
+    "id": "PM-030",
+    "title": "如何判断 AI 功能是否真的有产品价值？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块三：AI PM 与大模型产品落地",
+    "sourceFile": "pm/03_ai_pm_llm_product.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关",
+    "essence": "避免为了 AI 而 AI，考察价值、替代方案和可持续性。",
+    "framework": "用户任务-现有方案成本-AI 增量价值-风险成本-留存/付费/效率指标。",
+    "followUps": [
+      "压力测试：用户觉得新鲜但不用第二次怎么办？",
+      "边界探索：AI 功能是否会伤害核心体验？"
+    ],
+    "references": [
+      "[REF-AI-06]",
+      "[REF-AI-07]",
+      "[REF-PM-04]",
+      "[REF-CN-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块三：AI PM 与大模型产品落地",
+      "Deep-dive",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "pm",
+    "searchBlob": "PM-030 如何判断 AI 功能是否真的有产品价值？ 产品经理 模块三：AI PM 与大模型产品落地 Deep-dive 中高级 | AI 相关 避免为了 AI 而 AI，考察价值、替代方案和可持续性。 用户任务-现有方案成本-AI 增量价值-风险成本-留存/付费/效率指标。 压力测试：用户觉得新鲜但不用第二次怎么办？ 边界探索：AI 功能是否会伤害核心体验？ [REF-AI-06] [REF-AI-07] [REF-PM-04] [REF-CN-01]"
+  },
+  {
+    "id": "PM-031",
+    "title": "你如何理解产品经理的核心职责？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "基础 | 高频",
+    "essence": "是否理解 PM 连接用户、业务、技术和组织资源。",
+    "framework": "发现问题、定义目标、设计方案、推动落地、验证结果。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "基础",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-031 你如何理解产品经理的核心职责？ 产品经理 模块四：Lite 高频题 Lite 基础 | 高频 是否理解 PM 连接用户、业务、技术和组织资源。 发现问题、定义目标、设计方案、推动落地、验证结果。 [REF-PM-01] [REF-PM-05]"
+  },
+  {
+    "id": "PM-032",
+    "title": "你如何写 PRD？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 高频",
+    "essence": "PRD 是否能支撑共识、开发、测试和验收。",
+    "framework": "背景目标、用户场景、范围、流程、规则、状态、埋点、验收。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-032 你如何写 PRD？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 高频 PRD 是否能支撑共识、开发、测试和验收。 背景目标、用户场景、范围、流程、规则、状态、埋点、验收。 [REF-PM-01] [REF-PM-05]"
+  },
+  {
+    "id": "PM-033",
+    "title": "你如何做用户画像？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能让画像服务决策，而不是写标签。",
+    "framework": "目标、数据来源、行为特征、需求场景、分层策略。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-PM-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-033 你如何做用户画像？ 产品经理 模块四：Lite 高频题 Lite 社招通用 是否能让画像服务决策，而不是写标签。 目标、数据来源、行为特征、需求场景、分层策略。 [REF-KB-03] [REF-PM-01]"
+  },
+  {
+    "id": "PM-034",
+    "title": "你如何做用户旅程地图？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能从全链路发现体验断点和机会。",
+    "framework": "阶段、触点、行为、情绪、痛点、机会、指标。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-03]",
+      "[REF-UX-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-034 你如何做用户旅程地图？ 产品经理 模块四：Lite 高频题 Lite 社招通用 是否能从全链路发现体验断点和机会。 阶段、触点、行为、情绪、痛点、机会、指标。 [REF-KB-03] [REF-UX-06]"
+  },
+  {
+    "id": "PM-035",
+    "title": "如何定义 MVP？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 0 到 1",
+    "essence": "是否理解 MVP 用于验证关键假设，不是低配完整产品。",
+    "framework": "关键假设、最小能力、验证人群、成功标准、迭代计划。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-03]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "0 到 1",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-035 如何定义 MVP？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 0 到 1 是否理解 MVP 用于验证关键假设，不是低配完整产品。 关键假设、最小能力、验证人群、成功标准、迭代计划。 [REF-PM-05] [REF-PM-03]"
+  },
+  {
+    "id": "PM-036",
+    "title": "你如何做需求池管理？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "需求是否有入口、分类、评估、状态和复盘。",
+    "framework": "来源、标签、价值、成本、优先级、状态、回收机制。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-036 你如何做需求池管理？ 产品经理 模块四：Lite 高频题 Lite 社招通用 需求是否有入口、分类、评估、状态和复盘。 来源、标签、价值、成本、优先级、状态、回收机制。 [REF-PM-01] [REF-PM-05]"
+  },
+  {
+    "id": "PM-037",
+    "title": "你如何做版本规划？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能把目标、资源、依赖和风险转成可执行节奏。",
+    "framework": "版本目标、需求范围、依赖、里程碑、灰度、回滚。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-037 你如何做版本规划？ 产品经理 模块四：Lite 高频题 Lite 社招通用 是否能把目标、资源、依赖和风险转成可执行节奏。 版本目标、需求范围、依赖、里程碑、灰度、回滚。 [REF-PM-05] [REF-PM-06]"
+  },
+  {
+    "id": "PM-038",
+    "title": "如何做产品原型？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "原型是否服务沟通、验证和开发，而不是只画页面。",
+    "framework": "流程、信息架构、关键状态、交互规则、异常和权限。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-UX-07]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-038 如何做产品原型？ 产品经理 模块四：Lite 高频题 Lite 社招通用 原型是否服务沟通、验证和开发，而不是只画页面。 流程、信息架构、关键状态、交互规则、异常和权限。 [REF-PM-01] [REF-UX-07]"
+  },
+  {
+    "id": "PM-039",
+    "title": "如何设计埋点方案？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 数据",
+    "essence": "是否能围绕问题设计数据采集，而不是全量埋点。",
+    "framework": "业务问题、事件、属性、用户标识、口径、看板、验收。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "数据",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-039 如何设计埋点方案？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 数据 是否能围绕问题设计数据采集，而不是全量埋点。 业务问题、事件、属性、用户标识、口径、看板、验收。 [REF-PM-02] [REF-PM-04]"
+  },
+  {
+    "id": "PM-040",
+    "title": "如何做数据看板？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 数据",
+    "essence": "看板是否支持发现问题和持续决策。",
+    "framework": "目标、核心指标、拆解维度、异常阈值、刷新频率、责任人。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "数据",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-040 如何做数据看板？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 数据 看板是否支持发现问题和持续决策。 目标、核心指标、拆解维度、异常阈值、刷新频率、责任人。 [REF-PM-04] [REF-PM-05]"
+  },
+  {
+    "id": "PM-041",
+    "title": "DAU 下降，你如何分析？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 数据",
+    "essence": "是否能按人群、渠道、版本、功能、外部因素拆解。",
+    "framework": "确认口径、分群、时间线、渠道、留存、功能路径、异常排查。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "数据",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-041 DAU 下降，你如何分析？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 数据 是否能按人群、渠道、版本、功能、外部因素拆解。 确认口径、分群、时间线、渠道、留存、功能路径、异常排查。 [REF-PM-02] [REF-PM-04]"
+  },
+  {
+    "id": "PM-042",
+    "title": "转化率下降，你如何分析？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 增长",
+    "essence": "是否能定位漏斗环节并提出验证假设。",
+    "framework": "漏斗、分群、渠道、页面、价格、性能、竞品和实验。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-02]",
+      "[REF-KB-10]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-042 转化率下降，你如何分析？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 增长 是否能定位漏斗环节并提出验证假设。 漏斗、分群、渠道、页面、价格、性能、竞品和实验。 [REF-PM-02] [REF-KB-10]"
+  },
+  {
+    "id": "PM-043",
+    "title": "留存下降，你如何分析？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 增长",
+    "essence": "是否能区分新老用户、不同 cohort 和产品价值问题。",
+    "framework": "Cohort、用户分层、核心行为、召回、内容/供给、版本变化。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-02]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-043 留存下降，你如何分析？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 增长 是否能区分新老用户、不同 cohort 和产品价值问题。 Cohort、用户分层、核心行为、召回、内容/供给、版本变化。 [REF-PM-04] [REF-PM-02]"
+  },
+  {
+    "id": "PM-044",
+    "title": "如何提升用户留存？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 增长",
+    "essence": "是否能围绕核心价值和使用习惯设计策略。",
+    "framework": "激活、价值闭环、频次、内容/关系、召回、个性化。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-044 如何提升用户留存？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 增长 是否能围绕核心价值和使用习惯设计策略。 激活、价值闭环、频次、内容/关系、召回、个性化。 [REF-PM-04] [REF-PM-12]"
+  },
+  {
+    "id": "PM-045",
+    "title": "如何提升付费转化？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 商业化",
+    "essence": "是否能拆分付费动机、权益感知和价格阻力。",
+    "framework": "用户分层、价值展示、权益组合、试用、价格、信任。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-KB-10]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "商业化",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-045 如何提升付费转化？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 商业化 是否能拆分付费动机、权益感知和价格阻力。 用户分层、价值展示、权益组合、试用、价格、信任。 [REF-PM-04] [REF-KB-10]"
+  },
+  {
+    "id": "PM-046",
+    "title": "如何设计召回策略？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 增长",
+    "essence": "召回是否基于用户状态和触达价值，而不是骚扰。",
+    "framework": "用户分层、流失阶段、触发事件、渠道、频控、效果评估。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-046 如何设计召回策略？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 增长 召回是否基于用户状态和触达价值，而不是骚扰。 用户分层、流失阶段、触发事件、渠道、频控、效果评估。 [REF-PM-04] [REF-PM-05]"
+  },
+  {
+    "id": "PM-047",
+    "title": "如何做用户分层运营？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "增长 | 商业化",
+    "essence": "是否能用行为和价值差异设计产品策略。",
+    "framework": "生命周期、价值、行为、需求、策略、指标。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "增长",
+      "商业化",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-047 如何做用户分层运营？ 产品经理 模块四：Lite 高频题 Lite 增长 | 商业化 是否能用行为和价值差异设计产品策略。 生命周期、价值、行为、需求、策略、指标。 [REF-PM-04] [REF-PM-01]"
+  },
+  {
+    "id": "PM-048",
+    "title": "如何设计积分体系？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "增长 | 运营产品",
+    "essence": "激励是否服务关键行为并防作弊。",
+    "framework": "目标行为、获取规则、消耗场景、等级、成本、防刷。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "增长",
+      "运营产品",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-048 如何设计积分体系？ 产品经理 模块四：Lite 高频题 Lite 增长 | 运营产品 激励是否服务关键行为并防作弊。 目标行为、获取规则、消耗场景、等级、成本、防刷。 [REF-PM-01] [REF-PM-04]"
+  },
+  {
+    "id": "PM-049",
+    "title": "如何设计推荐系统的产品指标？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "推荐产品",
+    "essence": "是否能平衡点击、满意、长期留存和内容生态。",
+    "framework": "CTR、转化、停留、负反馈、多样性、新颖性、长期留存。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "推荐产品",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-049 如何设计推荐系统的产品指标？ 产品经理 模块四：Lite 高频题 Lite 推荐产品 是否能平衡点击、满意、长期留存和内容生态。 CTR、转化、停留、负反馈、多样性、新颖性、长期留存。 [REF-PM-04] [REF-AI-08]"
+  },
+  {
+    "id": "PM-050",
+    "title": "如何处理推荐的信息茧房问题？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "推荐产品 | 中高级",
+    "essence": "是否关注长期用户价值和生态健康。",
+    "framework": "多样性、探索流量、用户控制、负反馈、内容质量约束。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-AI-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "推荐产品",
+      "中高级",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-050 如何处理推荐的信息茧房问题？ 产品经理 模块四：Lite 高频题 Lite 推荐产品 | 中高级 是否关注长期用户价值和生态健康。 多样性、探索流量、用户控制、负反馈、内容质量约束。 [REF-PM-04] [REF-AI-05]"
+  },
+  {
+    "id": "PM-051",
+    "title": "如何做内容审核产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "内容产品 | 风险",
+    "essence": "是否理解策略、模型、人工审核、申诉和风险分级。",
+    "framework": "内容分类、规则、机器识别、人工复核、申诉、策略迭代。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "内容产品",
+      "风险",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-051 如何做内容审核产品？ 产品经理 模块四：Lite 高频题 Lite 内容产品 | 风险 是否理解策略、模型、人工审核、申诉和风险分级。 内容分类、规则、机器识别、人工复核、申诉、策略迭代。 [REF-AI-05] [REF-PM-06]"
+  },
+  {
+    "id": "PM-052",
+    "title": "如何设计权限系统？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "是否理解角色、资源、操作和审计。",
+    "framework": "RBAC/ABAC、角色、资源、动作、继承、审批、日志。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-052 如何设计权限系统？ 产品经理 模块四：Lite 高频题 Lite B 端 是否理解角色、资源、操作和审计。 RBAC/ABAC、角色、资源、动作、继承、审批、日志。 [REF-PM-06] [REF-KB-08]"
+  },
+  {
+    "id": "PM-053",
+    "title": "如何设计审批系统？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端",
+    "essence": "是否能覆盖流程配置、异常和组织规则。",
+    "framework": "节点、条件、角色、驳回、撤回、超时、通知、审计。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "B 端",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-053 如何设计审批系统？ 产品经理 模块四：Lite 高频题 Lite B 端 是否能覆盖流程配置、异常和组织规则。 节点、条件、角色、驳回、撤回、超时、通知、审计。 [REF-PM-06] [REF-KB-08]"
+  },
+  {
+    "id": "PM-054",
+    "title": "如何设计订单系统的退款流程？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "交易产品",
+    "essence": "是否理解交易状态、资金流、风控和用户体验。",
+    "framework": "订单状态、退款条件、审批、资金路径、通知、异常处理。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-10]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "交易产品",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-054 如何设计订单系统的退款流程？ 产品经理 模块四：Lite 高频题 Lite 交易产品 是否理解交易状态、资金流、风控和用户体验。 订单状态、退款条件、审批、资金路径、通知、异常处理。 [REF-KB-10] [REF-PM-05]"
+  },
+  {
+    "id": "PM-055",
+    "title": "如何设计消息通知系统？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能平衡触达、打扰和转化。",
+    "framework": "消息类型、优先级、渠道、频控、模板、已读、指标。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-KB-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-055 如何设计消息通知系统？ 产品经理 模块四：Lite 高频题 Lite 社招通用 是否能平衡触达、打扰和转化。 消息类型、优先级、渠道、频控、模板、已读、指标。 [REF-PM-05] [REF-KB-08]"
+  },
+  {
+    "id": "PM-056",
+    "title": "如何处理线上事故？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "中高级 | 项目管理",
+    "essence": "是否具备应急响应、用户沟通和复盘机制。",
+    "framework": "止损、定位、公告、补偿、恢复、复盘、防再发。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "中高级",
+      "项目管理",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-056 如何处理线上事故？ 产品经理 模块四：Lite 高频题 Lite 中高级 | 项目管理 是否具备应急响应、用户沟通和复盘机制。 止损、定位、公告、补偿、恢复、复盘、防再发。 [REF-PM-06] [REF-PM-05]"
+  },
+  {
+    "id": "PM-057",
+    "title": "如何推动一个研发不认可的需求？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 协作",
+    "essence": "是否能用目标、数据和成本拆解达成共识。",
+    "framework": "澄清质疑、补证据、拆 MVP、调整排期、升级决策。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-PM-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "协作",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-057 如何推动一个研发不认可的需求？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 协作 是否能用目标、数据和成本拆解达成共识。 澄清质疑、补证据、拆 MVP、调整排期、升级决策。 [REF-PM-06] [REF-PM-01]"
+  },
+  {
+    "id": "PM-058",
+    "title": "如何和设计师协作？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 协作",
+    "essence": "PM 是否尊重问题定义和体验价值，而不是只分发页面。",
+    "framework": "目标共识、场景、约束、指标、方案评审、上线验证。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-KB-01]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "协作",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-058 如何和设计师协作？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 协作 PM 是否尊重问题定义和体验价值，而不是只分发页面。 目标共识、场景、约束、指标、方案评审、上线验证。 [REF-PM-06] [REF-KB-01]"
+  },
+  {
+    "id": "PM-059",
+    "title": "如何和算法团队协作？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI/推荐产品",
+    "essence": "是否能把业务目标转成可评估的模型目标。",
+    "framework": "任务定义、样本、标签、指标、评测、上线监控、反馈闭环。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI/推荐产品",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-059 如何和算法团队协作？ 产品经理 模块四：Lite 高频题 Lite AI/推荐产品 是否能把业务目标转成可评估的模型目标。 任务定义、样本、标签、指标、评测、上线监控、反馈闭环。 [REF-AI-08] [REF-PM-06]"
+  },
+  {
+    "id": "PM-060",
+    "title": "如何做产品上线前验收？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否能覆盖需求、交互、数据、性能、风险和运营准备。",
+    "framework": "验收用例、状态覆盖、埋点、灰度、回滚、客服话术。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-060 如何做产品上线前验收？ 产品经理 模块四：Lite 高频题 Lite 社招通用 是否能覆盖需求、交互、数据、性能、风险和运营准备。 验收用例、状态覆盖、埋点、灰度、回滚、客服话术。 [REF-PM-05] [REF-PM-06]"
+  },
+  {
+    "id": "PM-061",
+    "title": "如何做灰度发布？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用",
+    "essence": "是否理解风险控制和数据观察。",
+    "framework": "灰度人群、开关、监控指标、异常阈值、回滚机制。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-061 如何做灰度发布？ 产品经理 模块四：Lite 高频题 Lite 社招通用 是否理解风险控制和数据观察。 灰度人群、开关、监控指标、异常阈值、回滚机制。 [REF-PM-05] [REF-PM-06]"
+  },
+  {
+    "id": "PM-062",
+    "title": "如何做产品复盘？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "社招通用 | 高频",
+    "essence": "是否能从结果回到假设、过程和改进动作。",
+    "framework": "目标、结果、差距、原因、经验、问题、下一步。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-01]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "社招通用",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-062 如何做产品复盘？ 产品经理 模块四：Lite 高频题 Lite 社招通用 | 高频 是否能从结果回到假设、过程和改进动作。 目标、结果、差距、原因、经验、问题、下一步。 [REF-PM-01] [REF-PM-06]"
+  },
+  {
+    "id": "PM-063",
+    "title": "如何判断产品进入增长瓶颈？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "中高级 | 增长",
+    "essence": "是否能区分获客瓶颈、激活瓶颈、留存瓶颈和市场天花板。",
+    "framework": "新增、激活、留存、频次、付费、渠道 ROI、市场规模。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-04]",
+      "[REF-PM-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "中高级",
+      "增长",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-063 如何判断产品进入增长瓶颈？ 产品经理 模块四：Lite 高频题 Lite 中高级 | 增长 是否能区分获客瓶颈、激活瓶颈、留存瓶颈和市场天花板。 新增、激活、留存、频次、付费、渠道 ROI、市场规模。 [REF-PM-04] [REF-PM-12]"
+  },
+  {
+    "id": "PM-064",
+    "title": "如何做行业分析？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "中高级 | 策略",
+    "essence": "是否能从市场、用户、竞争、技术和监管判断机会。",
+    "framework": "市场规模、增长驱动、产业链、竞争格局、趋势、壁垒。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-12]",
+      "[REF-PM-04]",
+      "[REF-CN-02]",
+      "[REF-CN-03]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "中高级",
+      "策略",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-064 如何做行业分析？ 产品经理 模块四：Lite 高频题 Lite 中高级 | 策略 是否能从市场、用户、竞争、技术和监管判断机会。 市场规模、增长驱动、产业链、竞争格局、趋势、壁垒。 [REF-PM-12] [REF-PM-04] [REF-CN-02] [REF-CN-03]"
+  },
+  {
+    "id": "PM-065",
+    "title": "如何做商业模式分析？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "中高级 | 商业化",
+    "essence": "是否理解收入、成本、定价、渠道和可持续性。",
+    "framework": "客户、价值、收费对象、成本结构、定价、利润、规模化。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-12]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "中高级",
+      "商业化",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-065 如何做商业模式分析？ 产品经理 模块四：Lite 高频题 Lite 中高级 | 商业化 是否理解收入、成本、定价、渠道和可持续性。 客户、价值、收费对象、成本结构、定价、利润、规模化。 [REF-PM-12] [REF-PM-04]"
+  },
+  {
+    "id": "PM-066",
+    "title": "如何设计 B 端 SaaS 定价？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端 | 商业化",
+    "essence": "是否能按客户价值、用量、席位和服务成本定价。",
+    "framework": "客户分层、价值指标、套餐、用量、试用、续费、扩展收入。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "B 端",
+      "商业化",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-066 如何设计 B 端 SaaS 定价？ 产品经理 模块四：Lite 高频题 Lite B 端 | 商业化 是否能按客户价值、用量、席位和服务成本定价。 客户分层、价值指标、套餐、用量、试用、续费、扩展收入。 [REF-PM-05] [REF-PM-12]"
+  },
+  {
+    "id": "PM-067",
+    "title": "如何降低 B 端客户流失？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端 | 中高级",
+    "essence": "是否理解续费、使用深度、组织落地和客户成功。",
+    "framework": "健康度、活跃席位、关键功能使用、价值报告、服务触达。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "B 端",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-067 如何降低 B 端客户流失？ 产品经理 模块四：Lite 高频题 Lite B 端 | 中高级 是否理解续费、使用深度、组织落地和客户成功。 健康度、活跃席位、关键功能使用、价值报告、服务触达。 [REF-PM-06] [REF-PM-05]"
+  },
+  {
+    "id": "PM-068",
+    "title": "如何设计客户健康度模型？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端 | 数据",
+    "essence": "是否能预警流失和扩展机会。",
+    "framework": "活跃、功能深度、工单、续费时间、业务成果、风险标签。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "B 端",
+      "数据",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-068 如何设计客户健康度模型？ 产品经理 模块四：Lite 高频题 Lite B 端 | 数据 是否能预警流失和扩展机会。 活跃、功能深度、工单、续费时间、业务成果、风险标签。 [REF-PM-05] [REF-PM-06]"
+  },
+  {
+    "id": "PM-069",
+    "title": "如何处理大客户定制需求？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "B 端 | 中高级",
+    "essence": "能否平衡收入、标准化产品和长期维护成本。",
+    "framework": "收入价值、通用性、配置化、交付成本、路线图影响。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-06]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "B 端",
+      "中高级",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-069 如何处理大客户定制需求？ 产品经理 模块四：Lite 高频题 Lite B 端 | 中高级 能否平衡收入、标准化产品和长期维护成本。 收入价值、通用性、配置化、交付成本、路线图影响。 [REF-PM-06] [REF-PM-05]"
+  },
+  {
+    "id": "PM-070",
+    "title": "如何设计开放平台？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "平台产品",
+    "essence": "是否理解开发者体验、能力边界、生态和治理。",
+    "framework": "目标开发者、API、文档、鉴权、沙箱、监控、规则。",
+    "followUps": [],
+    "references": [
+      "[REF-PM-05]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "平台产品",
+      "高频"
+    ],
+    "isAi": false,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-070 如何设计开放平台？ 产品经理 模块四：Lite 高频题 Lite 平台产品 是否理解开发者体验、能力边界、生态和治理。 目标开发者、API、文档、鉴权、沙箱、监控、规则。 [REF-PM-05] [REF-PM-06]"
+  },
+  {
+    "id": "PM-071",
+    "title": "如何做 AI Prompt 功能产品化？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "Prompt 是否能从专家技巧变成普通用户可用的产品能力。",
+    "framework": "模板、变量、示例、上下文、版本、效果评估、权限。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-03]",
+      "[REF-AI-09]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-071 如何做 AI Prompt 功能产品化？ 产品经理 模块四：Lite 高频题 Lite AI PM Prompt 是否能从专家技巧变成普通用户可用的产品能力。 模板、变量、示例、上下文、版本、效果评估、权限。 [REF-AI-03] [REF-AI-09]"
+  },
+  {
+    "id": "PM-072",
+    "title": "如何设计 AI 评测集？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "评测集是否覆盖真实任务、边界案例和风险样本。",
+    "framework": "任务分类、样本来源、标注标准、黄金答案、难例、回归。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-02]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-072 如何设计 AI 评测集？ 产品经理 模块四：Lite 高频题 Lite AI PM 评测集是否覆盖真实任务、边界案例和风险样本。 任务分类、样本来源、标注标准、黄金答案、难例、回归。 [REF-AI-02] [REF-AI-08]"
+  },
+  {
+    "id": "PM-073",
+    "title": "如何监控模型上线后的效果？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "是否能持续观察质量、漂移、成本和用户反馈。",
+    "framework": "线上指标、抽样评审、漂移、幻觉率、延迟、成本、告警。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-08]",
+      "[REF-AI-09]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-073 如何监控模型上线后的效果？ 产品经理 模块四：Lite 高频题 Lite AI PM 是否能持续观察质量、漂移、成本和用户反馈。 线上指标、抽样评审、漂移、幻觉率、延迟、成本、告警。 [REF-AI-08] [REF-AI-09]"
+  },
+  {
+    "id": "PM-074",
+    "title": "如何设计 AI 产品的人工兜底？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | 风险",
+    "essence": "是否理解高风险场景需要人机协作而非全自动。",
+    "framework": "风险分级、触发条件、转人工、人工审核、用户告知、日志。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "风险",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-074 如何设计 AI 产品的人工兜底？ 产品经理 模块四：Lite 高频题 Lite AI PM | 风险 是否理解高风险场景需要人机协作而非全自动。 风险分级、触发条件、转人工、人工审核、用户告知、日志。 [REF-KB-05] [REF-AI-05]"
+  },
+  {
+    "id": "PM-075",
+    "title": "如何选择大模型供应商？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "是否能综合质量、成本、延迟、稳定性、安全和生态。",
+    "framework": "任务评测、价格、上下文、工具能力、SLA、合规、替换成本。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-01]",
+      "[REF-AI-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-075 如何选择大模型供应商？ 产品经理 模块四：Lite 高频题 Lite AI PM 是否能综合质量、成本、延迟、稳定性、安全和生态。 任务评测、价格、上下文、工具能力、SLA、合规、替换成本。 [REF-AI-01] [REF-AI-06]"
+  },
+  {
+    "id": "PM-076",
+    "title": "如何设计 AI 产品的权限和数据隔离？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | B 端",
+    "essence": "是否理解企业数据、检索权限和输出泄露风险。",
+    "framework": "数据域、权限继承、检索过滤、日志、脱敏、审计。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-AI-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "B 端",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-076 如何设计 AI 产品的权限和数据隔离？ 产品经理 模块四：Lite 高频题 Lite AI PM | B 端 是否理解企业数据、检索权限和输出泄露风险。 数据域、权限继承、检索过滤、日志、脱敏、审计。 [REF-AI-05] [REF-AI-04]"
+  },
+  {
+    "id": "PM-077",
+    "title": "如何设计知识库问答产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | RAG",
+    "essence": "是否理解文档 ingestion、检索、引用和反馈闭环。",
+    "framework": "文档源、切分、索引、权限、引用、答案质量、更新机制。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-04]",
+      "[REF-AI-10]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "RAG",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-077 如何设计知识库问答产品？ 产品经理 模块四：Lite 高频题 Lite AI PM | RAG 是否理解文档 ingestion、检索、引用和反馈闭环。 文档源、切分、索引、权限、引用、答案质量、更新机制。 [REF-AI-04] [REF-AI-10]"
+  },
+  {
+    "id": "PM-078",
+    "title": "如何设计 AI 写作产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "是否能围绕创作流程，而不是只做生成按钮。",
+    "framework": "目标用户、输入素材、结构模板、生成、编辑、版本、发布。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-11]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-078 如何设计 AI 写作产品？ 产品经理 模块四：Lite 高频题 Lite AI PM 是否能围绕创作流程，而不是只做生成按钮。 目标用户、输入素材、结构模板、生成、编辑、版本、发布。 [REF-KB-04] [REF-AI-11]"
+  },
+  {
+    "id": "PM-079",
+    "title": "如何设计 AI 客服产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | B 端",
+    "essence": "是否能平衡解决率、满意度、转人工和风险。",
+    "framework": "问题分类、知识库、置信度、拒答、转人工、质检、训练闭环。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-04]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "B 端",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-079 如何设计 AI 客服产品？ 产品经理 模块四：Lite 高频题 Lite AI PM | B 端 是否能平衡解决率、满意度、转人工和风险。 问题分类、知识库、置信度、拒答、转人工、质检、训练闭环。 [REF-AI-04] [REF-AI-08]"
+  },
+  {
+    "id": "PM-080",
+    "title": "如何设计 AI Copilot 产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "Copilot 是否嵌入任务流并给用户保留控制权。",
+    "framework": "任务场景、建议时机、可采纳/编辑、上下文、反馈、权限。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-080 如何设计 AI Copilot 产品？ 产品经理 模块四：Lite 高频题 Lite AI PM Copilot 是否嵌入任务流并给用户保留控制权。 任务场景、建议时机、可采纳/编辑、上下文、反馈、权限。 [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "PM-081",
+    "title": "如何评估 Agent 工具调用是否成功？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | Agent",
+    "essence": "是否区分模型回答正确和外部动作执行正确。",
+    "framework": "计划正确、工具选择、参数、执行结果、异常恢复、用户确认。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-10]",
+      "[REF-AI-09]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "Agent",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-081 如何评估 Agent 工具调用是否成功？ 产品经理 模块四：Lite 高频题 Lite AI PM | Agent 是否区分模型回答正确和外部动作执行正确。 计划正确、工具选择、参数、执行结果、异常恢复、用户确认。 [REF-AI-10] [REF-AI-09]"
+  },
+  {
+    "id": "PM-082",
+    "title": "如何设计 AI 功能的付费策略？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | 商业化",
+    "essence": "是否考虑推理成本、用户价值和用量约束。",
+    "framework": "用量包、订阅、按次、模型分层、免费额度、成本护栏。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-01]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "商业化",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-082 如何设计 AI 功能的付费策略？ 产品经理 模块四：Lite 高频题 Lite AI PM | 商业化 是否考虑推理成本、用户价值和用量约束。 用量包、订阅、按次、模型分层、免费额度、成本护栏。 [REF-AI-01] [REF-PM-04]"
+  },
+  {
+    "id": "PM-083",
+    "title": "AI 功能上线后投诉增加怎么办？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | 风险",
+    "essence": "是否能定位质量、预期、体验和安全问题。",
+    "framework": "投诉分类、样本回放、风险分级、Prompt/检索/体验修复、公告。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "风险",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-083 AI 功能上线后投诉增加怎么办？ 产品经理 模块四：Lite 高频题 Lite AI PM | 风险 是否能定位质量、预期、体验和安全问题。 投诉分类、样本回放、风险分级、Prompt/检索/体验修复、公告。 [REF-KB-05] [REF-AI-08]"
+  },
+  {
+    "id": "PM-084",
+    "title": "如何设计 AI 产品的用户教育？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "是否能建立合理预期并降低使用门槛。",
+    "framework": "能力边界、示例、模板、失败说明、进阶技巧、场景化引导。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-11]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-084 如何设计 AI 产品的用户教育？ 产品经理 模块四：Lite 高频题 Lite AI PM 是否能建立合理预期并降低使用门槛。 能力边界、示例、模板、失败说明、进阶技巧、场景化引导。 [REF-KB-04] [REF-AI-11]"
+  },
+  {
+    "id": "PM-085",
+    "title": "如何处理 AI 输出版权风险？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | 合规",
+    "essence": "是否理解输入数据、生成结果、商用授权和风险告知。",
+    "framework": "数据来源、授权、相似检测、使用条款、风险提示、申诉。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-AI-06]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "合规",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-085 如何处理 AI 输出版权风险？ 产品经理 模块四：Lite 高频题 Lite AI PM | 合规 是否理解输入数据、生成结果、商用授权和风险告知。 数据来源、授权、相似检测、使用条款、风险提示、申诉。 [REF-AI-05] [REF-AI-06]"
+  },
+  {
+    "id": "PM-086",
+    "title": "如何定义 AI 产品的用户信任指标？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "信任不是口号，需要行为指标和主观反馈共同衡量。",
+    "framework": "采纳率、编辑率、重试率、负反馈、人工转接、满意度、复用率。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-086 如何定义 AI 产品的用户信任指标？ 产品经理 模块四：Lite 高频题 Lite AI PM 信任不是口号，需要行为指标和主观反馈共同衡量。 采纳率、编辑率、重试率、负反馈、人工转接、满意度、复用率。 [REF-KB-04] [REF-AI-12]"
+  },
+  {
+    "id": "PM-087",
+    "title": "如何做 AI 功能的灰度发布？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "AI 灰度要额外关注质量波动和成本风险。",
+    "framework": "人群、场景、限额、质量监控、成本监控、开关、回滚。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-08]",
+      "[REF-PM-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-087 如何做 AI 功能的灰度发布？ 产品经理 模块四：Lite 高频题 Lite AI PM AI 灰度要额外关注质量波动和成本风险。 人群、场景、限额、质量监控、成本监控、开关、回滚。 [REF-AI-08] [REF-PM-05]"
+  },
+  {
+    "id": "PM-088",
+    "title": "如何处理模型能力边界和用户预期不一致？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM",
+    "essence": "是否能通过产品表达、交互限制和教育校准预期。",
+    "framework": "能力声明、示例、禁用场景、拒答、解释、替代路径。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-088 如何处理模型能力边界和用户预期不一致？ 产品经理 模块四：Lite 高频题 Lite AI PM 是否能通过产品表达、交互限制和教育校准预期。 能力声明、示例、禁用场景、拒答、解释、替代路径。 [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "PM-089",
+    "title": "如何把 AI Demo 变成可规模化产品？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | 中高级",
+    "essence": "是否理解稳定性、权限、成本、评估、运营和客服支持。",
+    "framework": "核心场景、架构、评测、监控、权限、成本、SLA、迭代机制。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-09]",
+      "[REF-AI-10]",
+      "[REF-CN-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "中高级",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-089 如何把 AI Demo 变成可规模化产品？ 产品经理 模块四：Lite 高频题 Lite AI PM | 中高级 是否理解稳定性、权限、成本、评估、运营和客服支持。 核心场景、架构、评测、监控、权限、成本、SLA、迭代机制。 [REF-AI-09] [REF-AI-10] [REF-CN-04]"
+  },
+  {
+    "id": "PM-090",
+    "title": "AI PM 和传统 PM 最大区别是什么？",
+    "collection": "产品经理",
+    "role": "PM",
+    "module": "模块四：Lite 高频题",
+    "sourceFile": "pm/04_lite_frequent_questions.md",
+    "type": "Lite",
+    "level": "AI PM | 高频",
+    "essence": "是否理解概率型系统带来的不确定性、评估和体验设计变化。",
+    "framework": "模型边界、数据闭环、评估体系、风险治理、成本延迟、人机协作。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-06]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "产品经理",
+      "模块四：Lite 高频题",
+      "Lite",
+      "AI PM",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "pm",
+    "searchBlob": "PM-090 AI PM 和传统 PM 最大区别是什么？ 产品经理 模块四：Lite 高频题 Lite AI PM | 高频 是否理解概率型系统带来的不确定性、评估和体验设计变化。 模型边界、数据闭环、评估体系、风险治理、成本延迟、人机协作。 [REF-AI-06] [REF-KB-04]"
+  },
+  {
+    "id": "AI-CROSS-001",
+    "title": "如何设计 AI 出错或幻觉时的容错体验？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI 相关 | 高频",
+    "essence": "PM 是否能定义风险和策略，UX 是否能把错误恢复设计成可理解、可操作的体验。",
+    "framework": "风险分级-错误类型-用户感知-解释/引用-反馈-人工复核-撤销恢复。",
+    "followUps": [
+      "压力测试：高风险场景中能否允许模型“猜测”？",
+      "边界探索：什么时候应该拒答而不是给低置信答案？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-KB-06]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "AI 相关",
+      "高频"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-001 如何设计 AI 出错或幻觉时的容错体验？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | AI 相关 | 高频 PM 是否能定义风险和策略，UX 是否能把错误恢复设计成可理解、可操作的体验。 风险分级-错误类型-用户感知-解释/引用-反馈-人工复核-撤销恢复。 压力测试：高风险场景中能否允许模型“猜测”？ 边界探索：什么时候应该拒答而不是给低置信答案？ [REF-KB-04] [REF-KB-05] [REF-KB-06] [REF-AI-12]"
+  },
+  {
+    "id": "AI-CROSS-002",
+    "title": "如何平衡 Agent 自动化和用户控制权？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | Agent",
+    "essence": "看候选人是否理解自动化越强，越需要授权、确认、审计和回滚。",
+    "framework": "任务风险-授权级别-过程可见-关键节点确认-执行日志-撤销/接管。",
+    "followUps": [
+      "压力测试：用户要求“全自动”，你还要保留确认吗？",
+      "边界探索：哪些任务必须 Human-in-the-loop？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-10]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "Agent",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-002 如何平衡 Agent 自动化和用户控制权？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | Agent 看候选人是否理解自动化越强，越需要授权、确认、审计和回滚。 任务风险-授权级别-过程可见-关键节点确认-执行日志-撤销/接管。 压力测试：用户要求“全自动”，你还要保留确认吗？ 边界探索：哪些任务必须 Human-in-the-loop？ [REF-KB-04] [REF-KB-05] [REF-AI-10]"
+  },
+  {
+    "id": "AI-CROSS-003",
+    "title": "如何设计 AI 产品的信任机制？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 高频",
+    "essence": "信任来自可靠行为、透明边界、可恢复，而不是科技感视觉。",
+    "framework": "能力边界-证据来源-可解释-可控-可撤销-稳定质量-反馈闭环。",
+    "followUps": [
+      "压力测试：展示太多风险会不会降低转化？",
+      "边界探索：如何避免过度信任和过度不信任？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-003 如何设计 AI 产品的信任机制？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | 高频 信任来自可靠行为、透明边界、可恢复，而不是科技感视觉。 能力边界-证据来源-可解释-可控-可撤销-稳定质量-反馈闭环。 压力测试：展示太多风险会不会降低转化？ 边界探索：如何避免过度信任和过度不信任？ [REF-KB-04] [REF-KB-05] [REF-AI-12]"
+  },
+  {
+    "id": "AI-CROSS-004",
+    "title": "如何共同定义 AI 产品的体验指标和业务指标？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 数据",
+    "essence": "PM 关注业务结果，UX 关注任务完成和信任，两者需要统一指标体系。",
+    "framework": "任务成功率-采纳率-编辑率-负反馈-人工转接-留存/付费-成本延迟护栏。",
+    "followUps": [
+      "压力测试：业务指标涨了但用户信任下降怎么办？",
+      "边界探索：模型准确率和用户体验指标冲突时怎么取舍？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-08]",
+      "[REF-PM-04]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "数据",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-004 如何共同定义 AI 产品的体验指标和业务指标？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | 数据 PM 关注业务结果，UX 关注任务完成和信任，两者需要统一指标体系。 任务成功率-采纳率-编辑率-负反馈-人工转接-留存/付费-成本延迟护栏。 压力测试：业务指标涨了但用户信任下降怎么办？ 边界探索：模型准确率和用户体验指标冲突时怎么取舍？ [REF-KB-04] [REF-AI-08] [REF-PM-04]"
+  },
+  {
+    "id": "AI-CROSS-005",
+    "title": "如何让 PM、设计、算法、工程对齐模型边界？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 协作",
+    "essence": "AI 产品失败常来自各角色对模型能力和风险理解不一致。",
+    "framework": "能力清单-失败案例-评测结果-禁用场景-降级方案-上线监控-责任人。",
+    "followUps": [
+      "压力测试：算法认为能做，业务认为不稳，谁拍板？",
+      "边界探索：模型边界是否应该对用户展示？"
+    ],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-08]",
+      "[REF-PM-06]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "协作",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-005 如何让 PM、设计、算法、工程对齐模型边界？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | 协作 AI 产品失败常来自各角色对模型能力和风险理解不一致。 能力清单-失败案例-评测结果-禁用场景-降级方案-上线监控-责任人。 压力测试：算法认为能做，业务认为不稳，谁拍板？ 边界探索：模型边界是否应该对用户展示？ [REF-KB-05] [REF-AI-08] [REF-PM-06]"
+  },
+  {
+    "id": "AI-CROSS-006",
+    "title": "如何设计 AI 产品中的人工兜底机制？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | 风险",
+    "essence": "人工兜底不是客服入口，而是风险分层后的产品机制。",
+    "framework": "触发条件-转人工路径-上下文传递-处理 SLA-用户告知-质检回流。",
+    "followUps": [
+      "压力测试：人工兜底成本过高怎么办？",
+      "边界探索：哪些情况必须由人最终确认？"
+    ],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "风险",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-006 如何设计 AI 产品中的人工兜底机制？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | 风险 人工兜底不是客服入口，而是风险分层后的产品机制。 触发条件-转人工路径-上下文传递-处理 SLA-用户告知-质检回流。 压力测试：人工兜底成本过高怎么办？ 边界探索：哪些情况必须由人最终确认？ [REF-KB-05] [REF-AI-05]"
+  },
+  {
+    "id": "AI-CROSS-007",
+    "title": "如何设计 AI 的可解释性？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "中高级 | AI UX",
+    "essence": "可解释性要服务用户决策，不能变成技术细节堆叠。",
+    "framework": "解释对象-解释时机-证据来源-影响因素-可调整项-风险提示。",
+    "followUps": [
+      "压力测试：解释不完全准确，是否还要展示？",
+      "边界探索：哪些用户不需要看解释？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "中高级",
+      "AI UX",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-007 如何设计 AI 的可解释性？ AI 交叉域 Deep-dive 交叉题 Deep-dive 中高级 | AI UX 可解释性要服务用户决策，不能变成技术细节堆叠。 解释对象-解释时机-证据来源-影响因素-可调整项-风险提示。 压力测试：解释不完全准确，是否还要展示？ 边界探索：哪些用户不需要看解释？ [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "AI-CROSS-008",
+    "title": "如何设计 AI 输出的可追溯机制？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI 相关 | B 端",
+    "essence": "高价值场景要求用户知道答案从哪里来、基于什么上下文生成。",
+    "framework": "引用来源-版本记录-输入上下文-工具调用日志-权限记录-审计导出。",
+    "followUps": [
+      "压力测试：引用来源很多，界面如何不臃肿？",
+      "边界探索：哪些日志可以给用户看，哪些只能内部看？"
+    ],
+    "references": [
+      "[REF-AI-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI 相关",
+      "B 端"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-008 如何设计 AI 输出的可追溯机制？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI 相关 | B 端 高价值场景要求用户知道答案从哪里来、基于什么上下文生成。 引用来源-版本记录-输入上下文-工具调用日志-权限记录-审计导出。 压力测试：引用来源很多，界面如何不臃肿？ 边界探索：哪些日志可以给用户看，哪些只能内部看？ [REF-AI-04] [REF-KB-05]"
+  },
+  {
+    "id": "AI-CROSS-009",
+    "title": "如何设计 AI 输出的可撤销和可恢复？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "Agent | 高频",
+    "essence": "用户愿意授权 AI，前提是能看见、能拦住、能撤回。",
+    "framework": "预览-确认-执行-恢复点-撤销范围-影响提示-异常记录。",
+    "followUps": [
+      "压力测试：外部系统动作已经执行，如何撤销？",
+      "边界探索：哪些动作只能补偿，不能真正回滚？"
+    ],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-10]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "Agent",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-009 如何设计 AI 输出的可撤销和可恢复？ AI 交叉域 Deep-dive 交叉题 Deep-dive Agent | 高频 用户愿意授权 AI，前提是能看见、能拦住、能撤回。 预览-确认-执行-恢复点-撤销范围-影响提示-异常记录。 压力测试：外部系统动作已经执行，如何撤销？ 边界探索：哪些动作只能补偿，不能真正回滚？ [REF-KB-05] [REF-AI-10]"
+  },
+  {
+    "id": "AI-CROSS-010",
+    "title": "如何设计模型置信度和不确定性的表达？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI UX | 中高级",
+    "essence": "不确定性表达要帮助用户决策，而不是让用户困惑。",
+    "framework": "风险场景-置信等级-证据质量-建议动作-人工复核-文案测试。",
+    "followUps": [
+      "压力测试：用户不懂置信度怎么办？",
+      "边界探索：哪些场景不应该展示数字置信度？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI UX",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-010 如何设计模型置信度和不确定性的表达？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI UX | 中高级 不确定性表达要帮助用户决策，而不是让用户困惑。 风险场景-置信等级-证据质量-建议动作-人工复核-文案测试。 压力测试：用户不懂置信度怎么办？ 边界探索：哪些场景不应该展示数字置信度？ [REF-KB-04] [REF-AI-12]"
+  },
+  {
+    "id": "AI-CROSS-011",
+    "title": "如何处理 AI 产品中的用户隐私与上下文记忆？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI 相关 | 合规",
+    "essence": "记忆越强，越要让用户理解数据如何被保存、使用和删除。",
+    "framework": "数据分类-显性授权-记忆开关-可查看/编辑/删除-过期策略-审计。",
+    "followUps": [
+      "压力测试：关闭记忆会降低效果，如何取舍？",
+      "边界探索：哪些信息永远不应该被记住？"
+    ],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI 相关",
+      "合规"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-011 如何处理 AI 产品中的用户隐私与上下文记忆？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI 相关 | 合规 记忆越强，越要让用户理解数据如何被保存、使用和删除。 数据分类-显性授权-记忆开关-可查看/编辑/删除-过期策略-审计。 压力测试：关闭记忆会降低效果，如何取舍？ 边界探索：哪些信息永远不应该被记住？ [REF-AI-05] [REF-KB-04]"
+  },
+  {
+    "id": "AI-CROSS-012",
+    "title": "如何设计 AI 反馈闭环，让用户反馈真的能改进产品？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI 相关 | 数据闭环",
+    "essence": "反馈入口、标注体系、评测集和迭代机制必须闭合。",
+    "framework": "反馈类型-原因标签-样本筛选-隐私处理-评测更新-迭代回放。",
+    "followUps": [
+      "压力测试：用户反馈很主观，如何用于模型优化？",
+      "边界探索：负反馈是否一定代表答案错？"
+    ],
+    "references": [
+      "[REF-AI-02]",
+      "[REF-AI-08]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI 相关",
+      "数据闭环"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-012 如何设计 AI 反馈闭环，让用户反馈真的能改进产品？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI 相关 | 数据闭环 反馈入口、标注体系、评测集和迭代机制必须闭合。 反馈类型-原因标签-样本筛选-隐私处理-评测更新-迭代回放。 压力测试：用户反馈很主观，如何用于模型优化？ 边界探索：负反馈是否一定代表答案错？ [REF-AI-02] [REF-AI-08] [REF-KB-04]"
+  },
+  {
+    "id": "AI-CROSS-013",
+    "title": "如何设计 AI 结果的来源引用和证据链？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "RAG | AI UX",
+    "essence": "来源引用既是信任设计，也是错误排查和合规手段。",
+    "framework": "文档粒度-引用位置-高亮证据-时间版本-权限过滤-无来源处理。",
+    "followUps": [
+      "压力测试：答案正确但引用错了，算不算失败？",
+      "边界探索：没有可靠来源时是否允许回答？"
+    ],
+    "references": [
+      "[REF-AI-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "RAG",
+      "AI UX",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-013 如何设计 AI 结果的来源引用和证据链？ AI 交叉域 Deep-dive 交叉题 Deep-dive RAG | AI UX 来源引用既是信任设计，也是错误排查和合规手段。 文档粒度-引用位置-高亮证据-时间版本-权限过滤-无来源处理。 压力测试：答案正确但引用错了，算不算失败？ 边界探索：没有可靠来源时是否允许回答？ [REF-AI-04] [REF-KB-05]"
+  },
+  {
+    "id": "AI-CROSS-014",
+    "title": "如何设计用户对 AI 结果的局部编辑和再生成？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI 相关 | 生产力",
+    "essence": "AI 产品要支持人类把输出变成最终成果，而不是只生成一次。",
+    "framework": "局部选择-修改意图-版本对比-撤销-上下文保留-结果合并。",
+    "followUps": [
+      "压力测试：连续再生成导致上下文漂移怎么办？",
+      "边界探索：什么时候应该要求用户重新输入而不是继续修？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-11]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI 相关",
+      "生产力"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-014 如何设计用户对 AI 结果的局部编辑和再生成？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI 相关 | 生产力 AI 产品要支持人类把输出变成最终成果，而不是只生成一次。 局部选择-修改意图-版本对比-撤销-上下文保留-结果合并。 压力测试：连续再生成导致上下文漂移怎么办？ 边界探索：什么时候应该要求用户重新输入而不是继续修？ [REF-KB-04] [REF-AI-11]"
+  },
+  {
+    "id": "AI-CROSS-015",
+    "title": "如何设计 AI 功能的安全拦截体验？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI 相关 | 风险",
+    "essence": "安全拦截要可理解、可申诉，并提供合规替代路径。",
+    "framework": "风险分类-拦截文案-替代建议-申诉机制-日志记录-策略更新。",
+    "followUps": [
+      "压力测试：误杀影响核心用户怎么办？",
+      "边界探索：安全策略能否完全透明？"
+    ],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI 相关",
+      "风险"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-015 如何设计 AI 功能的安全拦截体验？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI 相关 | 风险 安全拦截要可理解、可申诉，并提供合规替代路径。 风险分类-拦截文案-替代建议-申诉机制-日志记录-策略更新。 压力测试：误杀影响核心用户怎么办？ 边界探索：安全策略能否完全透明？ [REF-AI-05] [REF-KB-05]"
+  },
+  {
+    "id": "AI-CROSS-016",
+    "title": "如何设计 AI 从建议者升级为执行者的产品边界？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "Agent | 中高级",
+    "essence": "从 Copilot 到 Agent 是责任边界变化，不只是按钮变化。",
+    "framework": "建议-预览-确认执行-有限自动化-全自动；按风险和可逆性分层。",
+    "followUps": [
+      "压力测试：自动化带来效率，但错误成本高，如何决策？",
+      "边界探索：哪些用户群体可开放更高自动化？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]",
+      "[REF-AI-10]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "Agent",
+      "中高级",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-016 如何设计 AI 从建议者升级为执行者的产品边界？ AI 交叉域 Deep-dive 交叉题 Deep-dive Agent | 中高级 从 Copilot 到 Agent 是责任边界变化，不只是按钮变化。 建议-预览-确认执行-有限自动化-全自动；按风险和可逆性分层。 压力测试：自动化带来效率，但错误成本高，如何决策？ 边界探索：哪些用户群体可开放更高自动化？ [REF-KB-04] [REF-KB-05] [REF-AI-10]"
+  },
+  {
+    "id": "AI-CROSS-017",
+    "title": "如何在 AI 产品中设计用户教育而不打断流程？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI UX | 增长",
+    "essence": "AI 产品需要教用户表达意图、理解边界和利用结果，但不能变成说明书。",
+    "framework": "场景化示例-即时提示-模板-失败解释-进阶入口-行为反馈。",
+    "followUps": [
+      "压力测试：用户不愿学习 Prompt 怎么办？",
+      "边界探索：什么时候教育用户不如改产品？"
+    ],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-11]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI UX",
+      "增长",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-017 如何在 AI 产品中设计用户教育而不打断流程？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI UX | 增长 AI 产品需要教用户表达意图、理解边界和利用结果，但不能变成说明书。 场景化示例-即时提示-模板-失败解释-进阶入口-行为反馈。 压力测试：用户不愿学习 Prompt 怎么办？ 边界探索：什么时候教育用户不如改产品？ [REF-KB-04] [REF-AI-11]"
+  },
+  {
+    "id": "AI-CROSS-018",
+    "title": "如何评估 AI 产品是否造成过度依赖？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Deep-dive 交叉题",
+    "sourceFile": "ai_cross_domain/01_deep_dive_cross_domain.md",
+    "type": "Deep-dive",
+    "level": "AI 相关 | 中高级",
+    "essence": "是否关注用户能力退化、错误盲信和责任转移。",
+    "framework": "高风险任务-采纳率异常-人工复核率-错误发现率-提示干预-能力保留。",
+    "followUps": [
+      "压力测试：过度依赖提升短期效率，要不要限制？",
+      "边界探索：不同场景对依赖的容忍度是否不同？"
+    ],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-12]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Deep-dive 交叉题",
+      "Deep-dive",
+      "AI 相关",
+      "中高级"
+    ],
+    "isAi": true,
+    "durationSeconds": 210,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-018 如何评估 AI 产品是否造成过度依赖？ AI 交叉域 Deep-dive 交叉题 Deep-dive AI 相关 | 中高级 是否关注用户能力退化、错误盲信和责任转移。 高风险任务-采纳率异常-人工复核率-错误发现率-提示干预-能力保留。 压力测试：过度依赖提升短期效率，要不要限制？ 边界探索：不同场景对依赖的容忍度是否不同？ [REF-KB-05] [REF-AI-12]"
+  },
+  {
+    "id": "AI-CROSS-019",
+    "title": "AI 产品的空状态应该怎么设计？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI UX",
+    "essence": "空状态应帮助用户理解能做什么、怎么输入和边界在哪里。",
+    "framework": "能力示例、输入模板、推荐任务、隐私提示、边界说明。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-11]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI UX",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-019 AI 产品的空状态应该怎么设计？ AI 交叉域 Lite 交叉题 Lite AI UX 空状态应帮助用户理解能做什么、怎么输入和边界在哪里。 能力示例、输入模板、推荐任务、隐私提示、边界说明。 [REF-KB-04] [REF-AI-11]"
+  },
+  {
+    "id": "AI-CROSS-020",
+    "title": "AI 生成过程中应该展示哪些状态？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI UX",
+    "essence": "状态可见性降低等待焦虑并帮助用户判断是否中断。",
+    "framework": "排队、理解中、检索中、生成中、校验中、失败重试。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-02]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI UX",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-020 AI 生成过程中应该展示哪些状态？ AI 交叉域 Lite 交叉题 Lite AI UX 状态可见性降低等待焦虑并帮助用户判断是否中断。 排队、理解中、检索中、生成中、校验中、失败重试。 [REF-KB-02] [REF-KB-04]"
+  },
+  {
+    "id": "AI-CROSS-021",
+    "title": "AI 产品如何设计拒答文案？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "拒答要明确、克制、有替代路径。",
+    "framework": "说明不能做什么、简述原因、提供安全替代、保留申诉/反馈。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-021 AI 产品如何设计拒答文案？ AI 交叉域 Lite 交叉题 Lite AI 相关 拒答要明确、克制、有替代路径。 说明不能做什么、简述原因、提供安全替代、保留申诉/反馈。 [REF-KB-05] [REF-AI-05]"
+  },
+  {
+    "id": "AI-CROSS-022",
+    "title": "AI 产品如何设计用户反馈标签？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关 | 数据闭环",
+    "essence": "反馈标签要能被分析和迭代使用。",
+    "framework": "不准确、不相关、不完整、不安全、格式差、速度慢、其他。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-08]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关",
+      "数据闭环"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-022 AI 产品如何设计用户反馈标签？ AI 交叉域 Lite 交叉题 Lite AI 相关 | 数据闭环 反馈标签要能被分析和迭代使用。 不准确、不相关、不完整、不安全、格式差、速度慢、其他。 [REF-AI-08] [REF-KB-04]"
+  },
+  {
+    "id": "AI-CROSS-023",
+    "title": "AI 输出慢时如何设计体验降噪？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI UX",
+    "essence": "用户需要可预期、可中断和可继续，而不是只看转圈。",
+    "framework": "流式输出、阶段状态、预计等待、后台完成、通知、取消。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-09]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI UX",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-023 AI 输出慢时如何设计体验降噪？ AI 交叉域 Lite 交叉题 Lite AI UX 用户需要可预期、可中断和可继续，而不是只看转圈。 流式输出、阶段状态、预计等待、后台完成、通知、取消。 [REF-KB-04] [REF-AI-09]"
+  },
+  {
+    "id": "AI-CROSS-024",
+    "title": "AI 产品如何设计历史记录？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "历史记录承担复用、追溯和隐私控制。",
+    "framework": "会话、任务、版本、来源、搜索、删除、导出。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-024 AI 产品如何设计历史记录？ AI 交叉域 Lite 交叉题 Lite AI 相关 历史记录承担复用、追溯和隐私控制。 会话、任务、版本、来源、搜索、删除、导出。 [REF-KB-04] [REF-KB-05]"
+  },
+  {
+    "id": "AI-CROSS-025",
+    "title": "如何设计 AI 的“重新生成”按钮？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI UX",
+    "essence": "重新生成要保留上下文、意图和版本比较。",
+    "framework": "原输入、修改方向、版本对比、撤销、结果选择。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-AI-11]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI UX",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-025 如何设计 AI 的“重新生成”按钮？ AI 交叉域 Lite 交叉题 Lite AI UX 重新生成要保留上下文、意图和版本比较。 原输入、修改方向、版本对比、撤销、结果选择。 [REF-KB-04] [REF-AI-11]"
+  },
+  {
+    "id": "AI-CROSS-026",
+    "title": "AI 产品如何设计多轮对话的上下文管理？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "上下文越长，越需要用户可见和可编辑。",
+    "framework": "上下文摘要、引用范围、可删除、任务切换、记忆开关。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-01]",
+      "[REF-KB-04]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-026 AI 产品如何设计多轮对话的上下文管理？ AI 交叉域 Lite 交叉题 Lite AI 相关 上下文越长，越需要用户可见和可编辑。 上下文摘要、引用范围、可删除、任务切换、记忆开关。 [REF-AI-01] [REF-KB-04]"
+  },
+  {
+    "id": "AI-CROSS-027",
+    "title": "如何设计 AI 结果中的免责声明？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关 | 合规",
+    "essence": "免责声明不能替代产品责任，但可帮助用户理解风险边界。",
+    "framework": "场景化提示、风险等级、人工复核建议、避免泛滥。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-05]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关",
+      "合规"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-027 如何设计 AI 结果中的免责声明？ AI 交叉域 Lite 交叉题 Lite AI 相关 | 合规 免责声明不能替代产品责任，但可帮助用户理解风险边界。 场景化提示、风险等级、人工复核建议、避免泛滥。 [REF-AI-05] [REF-KB-05]"
+  },
+  {
+    "id": "AI-CROSS-028",
+    "title": "如何设计 AI 与人工协作的交接？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关 | 客服/B 端",
+    "essence": "交接质量决定用户是否感到被重复询问和推诿。",
+    "framework": "上下文摘要、已尝试方案、用户意图、风险标签、处理记录。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-05]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关",
+      "客服/B 端"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-028 如何设计 AI 与人工协作的交接？ AI 交叉域 Lite 交叉题 Lite AI 相关 | 客服/B 端 交接质量决定用户是否感到被重复询问和推诿。 上下文摘要、已尝试方案、用户意图、风险标签、处理记录。 [REF-KB-05] [REF-AI-08]"
+  },
+  {
+    "id": "AI-CROSS-029",
+    "title": "AI 产品如何设计用户纠错入口？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI 相关",
+    "essence": "纠错入口应低成本、可追踪、能进入评测或知识修正流程。",
+    "framework": "标错、正确答案、证据来源、隐私告知、处理状态。",
+    "followUps": [],
+    "references": [
+      "[REF-AI-02]",
+      "[REF-AI-08]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-029 AI 产品如何设计用户纠错入口？ AI 交叉域 Lite 交叉题 Lite AI 相关 纠错入口应低成本、可追踪、能进入评测或知识修正流程。 标错、正确答案、证据来源、隐私告知、处理状态。 [REF-AI-02] [REF-AI-08]"
+  },
+  {
+    "id": "AI-CROSS-030",
+    "title": "如何让 AI 产品的能力边界在界面中被看见？",
+    "collection": "AI 交叉域",
+    "role": "AI-CROSS",
+    "module": "Lite 交叉题",
+    "sourceFile": "ai_cross_domain/02_lite_cross_domain.md",
+    "type": "Lite",
+    "level": "AI UX | 高频",
+    "essence": "用户不知道边界就会误用、失望或过度信任。",
+    "framework": "可做/不可做、示例、风险提示、拒答、替代路径、帮助入口。",
+    "followUps": [],
+    "references": [
+      "[REF-KB-04]",
+      "[REF-KB-05]"
+    ],
+    "tags": [
+      "AI 交叉域",
+      "Lite 交叉题",
+      "Lite",
+      "AI UX",
+      "高频",
+      "AI 相关"
+    ],
+    "isAi": true,
+    "durationSeconds": 90,
+    "coverVariant": "cross",
+    "searchBlob": "AI-CROSS-030 如何让 AI 产品的能力边界在界面中被看见？ AI 交叉域 Lite 交叉题 Lite AI UX | 高频 用户不知道边界就会误用、失望或过度信任。 可做/不可做、示例、风险提示、拒答、替代路径、帮助入口。 [REF-KB-04] [REF-KB-05]"
+  }
+]

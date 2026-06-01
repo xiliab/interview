@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+
+# Local scratch audio generated while testing TTS.
+/out.m4a
+/out.wav
+/t1.wav
+/t2.wav
+/test_pcm.wav
+/test_tingting.aiff
+/test_tingting.m4a
+/temp_*.wav

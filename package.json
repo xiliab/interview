@@ -1,0 +1,16 @@
+{
+  "name": "interview-podcast-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "generate:data": "node scripts/parse-question-bank.mjs && node scripts/generate-dialogues.mjs && node scripts/build-audio-manifest.mjs",
+    "scan:audio": "node scripts/build-audio-manifest.mjs",
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "npm run generate:data && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
