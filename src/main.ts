@@ -31,17 +31,19 @@ type AudioEntry = {
   file: string;
 };
 
+type FilterTag = {
+  key: string;
+  label: string;
+  match: (episode: Episode) => boolean;
+};
+
 let typedEpisodes: Episode[] = [];
 let typedDialogues: Record<string, Dialogue> = {};
 let typedAudio: Record<string, AudioEntry> = {};
 
 const state = {
   query: "",
-  role: "all",
-  type: "all",
-  aiOnly: false,
-  seniorOnly: false,
-  audioOnly: false,
+  activeTag: "all",
   selectedId: "",
   nowPlayingId: "",
   view: "list" as "list" | "detail",
@@ -54,6 +56,52 @@ const coverThemes = {
   pm: { label: "PM", sub: "Product Sense", className: "cover-pm" },
   cross: { label: "AI", sub: "Human + Model", className: "cover-cross" },
 };
+
+function episodeText(episode: Episode) {
+  return [episode.id, episode.title, episode.collection, episode.module, episode.level, episode.essence, episode.framework, episode.followUps.join(" "), episode.tags.join(" "), episode.searchBlob]
+    .join(" ")
+    .toLowerCase();
+}
+
+function hasAny(episode: Episode, patterns: Array<string | RegExp>) {
+  const text = episodeText(episode);
+  return patterns.some((pattern) => (typeof pattern === "string" ? text.includes(pattern.toLowerCase()) : pattern.test(text)));
+}
+
+const filterTags: FilterTag[] = [
+  { key: "all", label: "全部", match: () => true },
+  { key: "ux", label: "UI/UX", match: (episode) => episode.role === "UI/UX" },
+  { key: "pm", label: "产品经理", match: (episode) => episode.role === "PM" },
+  { key: "ai", label: "AI 专题", match: (episode) => episode.isAi },
+  { key: "cross", label: "人机协同", match: (episode) => episode.role === "AI-CROSS" || hasAny(episode, ["Human-in-the-loop", "人机协同", "人工兜底", "用户控制权"]) },
+  { key: "senior", label: "中高级", match: (episode) => episode.tags.includes("中高级") },
+  { key: "audio", label: "有音频", match: (episode) => Boolean(audioFor(episode.id)) },
+  { key: "portfolio", label: "作品集", match: (episode) => hasAny(episode, ["作品集", "设计项目", "案例"]) },
+  { key: "review", label: "项目复盘", match: (episode) => hasAny(episode, ["项目复盘", "复盘", "失败", "结果不好", "业务价值"]) },
+  { key: "research", label: "用户研究", match: (episode) => hasAny(episode, ["用户研究", "用户访谈", "调研", "可用性", "用户反馈", "定性", "定量"]) },
+  { key: "interaction", label: "交互体验", match: (episode) => hasAny(episode, ["交互", "体验", "流程", "表单", "确认流程", "多模态"]) },
+  { key: "ia", label: "信息架构", match: (episode) => hasAny(episode, ["信息架构", "架构重构", "导航", "信息优先级", "结构"]) },
+  { key: "design-system", label: "设计系统", match: (episode) => hasAny(episode, ["设计系统", "组件", "规范", "tokens", "一致性"]) },
+  { key: "b2b", label: "B端系统", match: (episode) => hasAny(episode, ["b 端", "B 端", "后台", "中后台", "SaaS", "表格", "权限"]) },
+  { key: "growth", label: "增长转化", match: (episode) => hasAny(episode, ["增长", "转化", "留存", "激活", "漏斗", "付费转化"]) },
+  { key: "requirements", label: "需求分析", match: (episode) => hasAny(episode, ["需求", "PRD", "MVP", "伪需求", "需求池"]) },
+  { key: "planning", label: "产品规划", match: (episode) => hasAny(episode, ["规划", "Roadmap", "优先级", "排序", "路线图"]) },
+  { key: "data", label: "数据分析", match: (episode) => hasAny(episode, ["数据", "指标", "A/B", "实验", "北极星", "监控", "评估"]) },
+  { key: "business", label: "商业化", match: (episode) => hasAny(episode, ["商业化", "会员", "付费", "收入", "定价", "商业模式"]) },
+  { key: "competitor", label: "竞品行业", match: (episode) => hasAny(episode, ["竞品", "行业", "市场", "差异化"]) },
+  { key: "skills", label: "专业技能", match: (episode) => hasAny(episode, ["技能", "方法", "框架", "工具", "工作流", "Prompt", "Figma", "PRD"]) },
+  { key: "delivery", label: "项目推进", match: (episode) => hasAny(episode, ["推进", "落地", "排期", "资源", "风险", "上线", "节奏"]) },
+  { key: "management", label: "团队管理", match: (episode) => hasAny(episode, ["管理", "团队", "绩效", "招聘", "向上", "老板"]) },
+  { key: "collaboration", label: "跨团队协作", match: (episode) => hasAny(episode, ["协作", "跨部门", "沟通", "研发", "算法", "工程", "业务方", "评审"]) },
+  { key: "tech", label: "技术理解", match: (episode) => hasAny(episode, ["技术", "架构", "接口", "性能", "延迟", "成本", "工程"]) },
+  { key: "model-eval", label: "模型评估", match: (episode) => episode.isAi && hasAny(episode, ["模型评估", "模型评测", "评测", "准确率", "召回", "幻觉", "置信度"]) },
+  { key: "rag", label: "RAG", match: (episode) => hasAny(episode, ["RAG", "检索增强", "知识库问答", "外部知识"]) },
+  { key: "agent", label: "Agent", match: (episode) => hasAny(episode, ["Agent", "自动化", "执行计划"]) },
+  { key: "security", label: "安全合规", match: (episode) => hasAny(episode, ["安全", "合规", "隐私", "权限", "风控"]) },
+  { key: "cost-latency", label: "成本延迟", match: (episode) => hasAny(episode, ["成本", "延迟", "性能", "SLA"]) },
+  { key: "hitl", label: "人工兜底", match: (episode) => hasAny(episode, ["人工兜底", "人工审核", "人工复核", "Human-in-the-loop"]) },
+  { key: "trust", label: "信任机制", match: (episode) => hasAny(episode, ["信任", "可解释", "可追溯", "可撤销", "恢复", "透明"]) },
+];
 
 function formatDuration(seconds: number) {
   const minutes = Math.max(1, Math.round(seconds / 60));
@@ -70,12 +118,9 @@ function audioFor(id: string) {
 
 function getFilteredEpisodes() {
   const query = state.query.trim().toLowerCase();
+  const activeTag = filterTags.find((tag) => tag.key === state.activeTag) || filterTags[0];
   return typedEpisodes.filter((episode) => {
-    if (state.role !== "all" && episode.role !== state.role) return false;
-    if (state.type !== "all" && episode.type !== state.type) return false;
-    if (state.aiOnly && !episode.isAi) return false;
-    if (state.seniorOnly && !episode.tags.includes("中高级")) return false;
-    if (state.audioOnly && !audioFor(episode.id)) return false;
+    if (!activeTag.match(episode)) return false;
     if (!query) return true;
     return episode.searchBlob.toLowerCase().includes(query);
   });
@@ -119,45 +164,18 @@ function renderLibraryControls() {
     <section class="library-controls">
       <label class="search-box">
         ${icon("search")}
-        <input id="searchInput" type="search" placeholder="搜索题目、ID、岗位、AI 关键词" value="${escapeHtml(state.query)}" />
+        <input id="searchInput" type="search" placeholder="搜索题目、ID 或关键词" value="${escapeHtml(state.query)}" />
       </label>
       <div class="tag-filter-panel" aria-label="题目标签筛选">
-        <div class="tag-group" aria-label="岗位">
-          <span>岗位</span>
-          ${navButton("all", "全部")}
-          ${navButton("UI/UX", "UI/UX")}
-          ${navButton("PM", "产品经理")}
-          ${navButton("AI-CROSS", "AI 交叉域")}
-        </div>
-        <div class="tag-group" aria-label="题型">
-          <span>题型</span>
-          ${toggleButton("Deep-dive", "Deep-dive")}
-          ${toggleButton("Lite", "Lite")}
-        </div>
-        <div class="tag-group" aria-label="特征">
-          <span>特征</span>
-          ${flagButton("aiOnly", "AI 相关")}
-          ${flagButton("seniorOnly", "中高级")}
-          ${flagButton("audioOnly", "已添加音频")}
-        </div>
+        ${filterTags.map((tag) => tagButton(tag)).join("")}
       </div>
     </section>
   `;
 }
 
-function navButton(role: string, label: string) {
-  const active = state.role === role;
-  return `<button class="filter-chip ${active ? "is-active" : ""}" data-filter-control data-role="${role}" aria-pressed="${active}">${label}</button>`;
-}
-
-function toggleButton(type: string, label: string) {
-  const active = state.type === type;
-  return `<button class="filter-chip ${active ? "is-active" : ""}" data-filter-control data-type-filter="${type}" aria-pressed="${active}">${label}</button>`;
-}
-
-function flagButton(flag: "aiOnly" | "seniorOnly" | "audioOnly", label: string) {
-  const active = state[flag];
-  return `<button class="filter-chip ${active ? "is-active" : ""}" data-filter-control data-flag="${flag}" aria-pressed="${active}">${label}</button>`;
+function tagButton(tag: FilterTag) {
+  const active = state.activeTag === tag.key;
+  return `<button class="filter-chip ${active ? "is-active" : ""}" data-tag-filter="${tag.key}" aria-pressed="${active}">${tag.label}</button>`;
 }
 
 function renderTopbar(selected: Episode) {
@@ -242,7 +260,6 @@ function renderDetail(episode: Episode) {
         <p>${episode.id} · ${episode.collection}</p>
         <h1>${escapeHtml(episode.title)}</h1>
         <div class="chips">
-          <span>${episode.type}</span>
           <span>${escapeHtml(episode.level || "社招通用")}</span>
           <span>${audio ? "音频已就绪" : "音频待添加"}</span>
         </div>
@@ -355,27 +372,9 @@ function bindControlsEvents() {
     rerenderLibraryResults();
   });
 
-  document.querySelectorAll<HTMLElement>("[data-role]").forEach((button) => {
+  document.querySelectorAll<HTMLElement>("[data-tag-filter]").forEach((button) => {
     button.addEventListener("click", () => {
-      state.role = button.dataset.role || "all";
-      state.view = "list";
-      rerenderLibraryResults();
-    });
-  });
-
-  document.querySelectorAll<HTMLElement>("[data-type-filter]").forEach((button) => {
-    button.addEventListener("click", () => {
-      const type = button.dataset.typeFilter || "all";
-      state.type = state.type === type ? "all" : type;
-      state.view = "list";
-      rerenderLibraryResults();
-    });
-  });
-
-  document.querySelectorAll<HTMLElement>("[data-flag]").forEach((button) => {
-    button.addEventListener("click", () => {
-      const flag = button.dataset.flag as "aiOnly" | "seniorOnly" | "audioOnly";
-      state[flag] = !state[flag];
+      state.activeTag = button.dataset.tagFilter || "all";
       state.view = "list";
       rerenderLibraryResults();
     });
@@ -383,20 +382,8 @@ function bindControlsEvents() {
 }
 
 function updateFilterStates() {
-  document.querySelectorAll<HTMLElement>("[data-role]").forEach((button) => {
-    const active = button.dataset.role === state.role;
-    button.classList.toggle("is-active", active);
-    button.setAttribute("aria-pressed", String(active));
-  });
-  document.querySelectorAll<HTMLElement>("[data-type-filter]").forEach((button) => {
-    const type = button.dataset.typeFilter || "all";
-    const active = state.type === type;
-    button.classList.toggle("is-active", active);
-    button.setAttribute("aria-pressed", String(active));
-  });
-  document.querySelectorAll<HTMLElement>("[data-flag]").forEach((button) => {
-    const flag = button.dataset.flag as "aiOnly" | "seniorOnly" | "audioOnly";
-    const active = Boolean(state[flag]);
+  document.querySelectorAll<HTMLElement>("[data-tag-filter]").forEach((button) => {
+    const active = button.dataset.tagFilter === state.activeTag;
     button.classList.toggle("is-active", active);
     button.setAttribute("aria-pressed", String(active));
   });

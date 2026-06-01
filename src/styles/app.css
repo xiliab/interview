@@ -301,24 +301,10 @@ svg {
   border: 1px solid rgba(255, 255, 255, 0.04);
   border-radius: 12px;
   padding: 16px;
-  display: grid;
-  gap: 12px;
-}
-
-.tag-group {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   gap: 8px;
-}
-
-.tag-group > span {
-  width: 52px;
-  color: var(--muted-2);
-  font-size: 12px;
-  font-weight: 800;
-  letter-spacing: 0;
-  text-transform: uppercase;
+  align-items: center;
 }
 
 /* 拟态过滤微芯片 */
@@ -968,27 +954,19 @@ svg {
   }
 
   .tag-filter-panel {
-    gap: 10px;
+    flex-wrap: nowrap;
+    gap: 8px;
     padding: 12px;
+    overflow-x: auto;
+    scrollbar-width: none;
   }
 
   .episode-grid {
     grid-template-columns: 1fr;
   }
 
-  .tag-group {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    padding-bottom: 4px;
-    scrollbar-width: none; /* Firefox */
-  }
-
-  .tag-group::-webkit-scrollbar {
-    display: none; /* Safari & Chrome */
-  }
-
-  .tag-group > span {
-    flex: 0 0 auto;
+  .tag-filter-panel::-webkit-scrollbar {
+    display: none;
   }
 
   .filter-chip {
