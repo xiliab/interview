@@ -416,6 +416,10 @@ function renderAbilityTags(className = "") {
   `;
 }
 
+function renderStickyTags(mode: "role" | "ability") {
+  return mode === "ability" ? renderAbilityTags("sticky-tags") : renderRoleTags("sticky-tags");
+}
+
 function tagButton(tag: FilterTag) {
   const active = state.activeAbility === tag.key;
   return `
@@ -558,13 +562,13 @@ function renderLibraryResults(episodesToShow: Episode[]) {
     </section>
     <section class="content-block">
       <div class="section-heading section-heading-with-search library-heading-stack">
-        <div>
+        <div class="library-title-row">
           <h2>${abilityLabel ? `${escapeHtml(roleLabel)} · ${escapeHtml(abilityLabel)}` : `${escapeHtml(roleLabel)}全部题目`}</h2>
-          ${renderAbilityTags("content-tags")}
+          <div class="library-search-slot">
+            ${renderSearchControls()}
+          </div>
         </div>
-        <div class="library-search-slot">
-          ${renderSearchControls()}
-        </div>
+        ${renderAbilityTags("content-tags")}
       </div>
       ${renderEpisodeGrid(visible)}
       ${
@@ -644,46 +648,48 @@ function renderDetail(episode: Episode) {
       <button class="drawer-close" data-close-drawer aria-label="关闭详情">
         ${icon("close")}
       </button>
-      <div class="detail-heading detail-title-card color-variant-${colorIndex}">
-        <div class="cover-noise"></div>
-        <div class="cover-rings"></div>
-        <div class="detail-meta">
-          ${renderDifficultyLabel(episode)}
-          <span class="meta-separator" aria-hidden="true">｜</span>
-          ${renderAbilityLabel(episode)}
+      <div class="detail-scroll">
+        <div class="detail-heading detail-title-card color-variant-${colorIndex}">
+          <div class="cover-noise"></div>
+          <div class="cover-rings"></div>
+          <div class="detail-meta">
+            ${renderDifficultyLabel(episode)}
+            <span class="meta-separator" aria-hidden="true">｜</span>
+            ${renderAbilityLabel(episode)}
+          </div>
+          <div class="detail-title-copy">
+            <h1>${escapeHtml(episode.title)}</h1>
+          </div>
         </div>
-        <div class="detail-title-copy">
-          <h1>${escapeHtml(episode.title)}</h1>
-        </div>
+        <section class="insight-compact" aria-label="面试拆解">
+          <article>
+            <strong>考察本质</strong>
+            <p>${escapeHtml(episode.essence)}</p>
+          </article>
+          <article>
+            <strong>核心框架</strong>
+            <p>${escapeHtml(episode.framework)}</p>
+          </article>
+          ${episode.followUps.length ? `<article><strong>可能追问</strong><ul>${episode.followUps.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul></article>` : ""}
+        </section>
+        ${glossary.length ? `<section class="detail-section glossary-section"><h2>专业术语解释</h2><div class="glossary-list">${glossary.map((item) => `<span class="glossary-term" tabindex="0">${escapeHtml(item.term)}<span class="glossary-tooltip">${escapeHtml(item.explanation)}</span></span>`).join("")}</div></section>` : ""}
+        <section class="detail-section">
+          <div class="detail-section-header">
+            <h2>情景模拟</h2>
+            <button class="detail-play-button ${playing ? "is-playing" : ""}" data-play="${episode.id}" ${audio ? "" : "disabled"}>
+              ${playing ? `<div class="wave-animation mini white" aria-hidden="true"><span></span><span></span><span></span></div>` : icon("play")}
+              <span>${audio ? (playing ? "暂停" : "播放") : "待添加音频"}</span>
+            </button>
+          </div>
+          <div class="dialogue-list">
+            ${dialogueHtml}
+          </div>
+        </section>
+        <nav class="detail-nav" aria-label="题目切换">
+          <button data-detail-nav="${previous.id}"><span>上一题</span><strong>${escapeHtml(previous.title)}</strong></button>
+          <button data-detail-nav="${next.id}"><span>下一题</span><strong>${escapeHtml(next.title)}</strong></button>
+        </nav>
       </div>
-      <section class="insight-compact" aria-label="面试拆解">
-        <article>
-          <strong>考察本质</strong>
-          <p>${escapeHtml(episode.essence)}</p>
-        </article>
-        <article>
-          <strong>核心框架</strong>
-          <p>${escapeHtml(episode.framework)}</p>
-        </article>
-        ${episode.followUps.length ? `<article><strong>可能追问</strong><ul>${episode.followUps.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul></article>` : ""}
-      </section>
-      ${glossary.length ? `<section class="detail-section glossary-section"><h2>专业术语解释</h2><div class="glossary-list">${glossary.map((item) => `<span class="glossary-term" tabindex="0">${escapeHtml(item.term)}<span class="glossary-tooltip">${escapeHtml(item.explanation)}</span></span>`).join("")}</div></section>` : ""}
-      <section class="detail-section">
-        <div class="detail-section-header">
-          <h2>情景模拟</h2>
-          <button class="detail-play-button ${playing ? "is-playing" : ""}" data-play="${episode.id}" ${audio ? "" : "disabled"}>
-            ${playing ? `<div class="wave-animation mini white" aria-hidden="true"><span></span><span></span><span></span></div>` : icon("play")}
-            <span>${audio ? (playing ? "暂停" : "播放") : "待添加音频"}</span>
-          </button>
-        </div>
-        <div class="dialogue-list">
-          ${dialogueHtml}
-        </div>
-      </section>
-      <nav class="detail-nav" aria-label="题目切换">
-        <button data-detail-nav="${previous.id}"><span>上一题</span><strong>${escapeHtml(previous.title)}</strong></button>
-        <button data-detail-nav="${next.id}"><span>下一题</span><strong>${escapeHtml(next.title)}</strong></button>
-      </nav>
     </aside>
   `;
 }
@@ -708,7 +714,7 @@ function renderMain() {
           ${renderWelcomeHero()}
           <section class="content-start" id="contentStart">
             <div class="sticky-ability-bar">
-              ${renderRoleTags("sticky-tags")}
+              ${renderStickyTags("role")}
             </div>
             <div class="results-shell">
               ${renderLibraryResults(filtered)}
@@ -726,6 +732,7 @@ function renderMain() {
     nextLibrary.scrollTop = state.libraryScrollTop;
     window.setTimeout(() => {
       nextLibrary.scrollTop = state.libraryScrollTop;
+      updateStickyBarMode();
     }, 0);
   }
   bindControlsEvents();
@@ -812,6 +819,23 @@ function rerenderLibraryResults() {
   updateFilterStates();
   bindMainEvents();
   bindControlsEvents();
+  updateStickyBarMode();
+}
+
+function updateStickyBarMode() {
+  const stickyBar = document.querySelector<HTMLElement>(".sticky-ability-bar");
+  const contentTags = document.querySelector<HTMLElement>(".content-tags");
+  if (!stickyBar || !contentTags) return;
+
+  const stickyHeight = stickyBar.offsetHeight || 58;
+  const shouldShowAbility = contentTags.getBoundingClientRect().top <= stickyHeight + 2;
+  const nextMode = shouldShowAbility ? "ability" : "role";
+  if (stickyBar.dataset.stickyMode === nextMode) return;
+
+  stickyBar.dataset.stickyMode = nextMode;
+  stickyBar.innerHTML = renderStickyTags(nextMode);
+  bindControlsEvents();
+  updateFilterStates();
 }
 
 function bindControlsEvents() {
@@ -879,6 +903,7 @@ function bindControlsEvents() {
 
   if (libraryView && stickyBar && heroTags && !libraryView.dataset.scrollBound) {
     libraryView.dataset.scrollBound = "true";
+    libraryView.addEventListener("scroll", updateStickyBarMode, { passive: true });
     
     const observer = new IntersectionObserver((entries) => {
       const entry = entries[0];
@@ -893,6 +918,7 @@ function bindControlsEvents() {
     });
     
     observer.observe(heroTags);
+    updateStickyBarMode();
   }
 }
 

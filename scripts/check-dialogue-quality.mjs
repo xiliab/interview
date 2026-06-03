@@ -11,9 +11,9 @@ const reportOnly = process.argv.includes("--report-only");
 
 const questionTypes = ["基础", "中级", "高级"];
 const dialogueRules = {
-  基础: { turns: "4-6", minTurns: 4, maxTurns: 6, duration: "45-150", minSeconds: 45, maxSeconds: 150 },
+  基础: { turns: "4-7", minTurns: 4, maxTurns: 7, duration: "45-150", minSeconds: 45, maxSeconds: 150 },
   中级: { turns: "5-10", minTurns: 5, maxTurns: 10, duration: "75-270", minSeconds: 75, maxSeconds: 270 },
-  高级: { turns: "8-10", minTurns: 8, maxTurns: 10, duration: "150-420", minSeconds: 150, maxSeconds: 420 },
+  高级: { turns: "8-14", minTurns: 8, maxTurns: 14, duration: "150-420", minSeconds: 150, maxSeconds: 420 },
 };
 
 const allowedSpeakers = new Set(["面试官", "面试者"]);
