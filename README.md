@@ -48,9 +48,37 @@ npm run generate:data
 生成内容：
 
 - `public/data/episodes.json`：200 集节目数据。
-- `public/data/dialogues.json`：每集男女对话脚本。
+- `public/data/dialogues/*.json`：每集独立的男女对话脚本。
 - `public/data/audio-manifest.json`：本地音频索引。
 - `public/data/stats.json`：题量统计。
+
+## 脚本质量检查
+
+批量整理脚本轮次、短答长度、重复模板句和明显错词：
+
+```bash
+npm run optimize:dialogues
+```
+
+生成质量报告但不中断命令：
+
+```bash
+npm run quality:dialogues:report
+```
+
+作为验收门执行，未达标会返回非 0：
+
+```bash
+npm run quality:dialogues
+```
+
+报告输出到：
+
+```text
+public/data/dialogue-quality-report.json
+```
+
+检查内容包括：200 集文件完整性、JSON 和 ID 匹配、角色名、Deep-dive/Lite 轮次与时长、候选人台词长度、追问/压力问题/点评、重复模板句、明显错词和不自然表达。
 
 ## 说明
 

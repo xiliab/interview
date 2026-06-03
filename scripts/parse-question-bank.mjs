@@ -20,13 +20,20 @@ const moduleNames = {
   "03_interaction_information_architecture.md": "交互、信息架构与复杂系统",
   "04_design_system_collaboration.md": "设计系统、规范与协作",
   "05_ai_designer_capability.md": "AI 时代设计师能力",
-  "06_lite_frequent_questions.md": "Lite 高频题",
+  "06_basic_intermediate_frequent_questions.md": "基础与中级高频题",
   "01_project_review_business_impact.md": "项目复盘、业务结果与个人贡献",
   "02_product_design_data_growth.md": "产品设计、数据与增长",
   "03_ai_pm_llm_product.md": "AI PM 与大模型产品落地",
-  "04_lite_frequent_questions.md": "Lite 高频题",
-  "01_deep_dive_cross_domain.md": "Deep-dive 交叉题",
-  "02_lite_cross_domain.md": "Lite 交叉题",
+  "04_basic_intermediate_frequent_questions.md": "基础与中级高频题",
+  "01_advanced_cross_domain.md": "高级交叉题",
+  "02_basic_intermediate_cross_domain.md": "基础与中级交叉题",
+};
+
+const difficultyLevels = ["基础", "中级", "高级"];
+const durationRanges = {
+  基础: { minSeconds: 60, maxSeconds: 120 },
+  中级: { minSeconds: 120, maxSeconds: 240 },
+  高级: { minSeconds: 240, maxSeconds: 420 },
 };
 
 function stripBold(label) {
@@ -54,6 +61,25 @@ function compactText(value) {
   return value.replace(/\s+/g, " ").trim();
 }
 
+function inferQuestionType(rawType, searchBlob) {
+  if (difficultyLevels.includes(rawType)) return rawType;
+
+  const advancedSignals = /中高级|AI PM|Agent|RAG|B 端|策略|风险|合规|数据闭环|平台产品|商业化|推荐产品|搜索推荐|复杂|协作|增长|0 到 1/i;
+
+  return advancedSignals.test(searchBlob) ? "中级" : "基础";
+}
+
+function durationForType(type) {
+  const range = durationRanges[type] || durationRanges.基础;
+  const minMinutes = Math.round(range.minSeconds / 60);
+  const maxMinutes = Math.round(range.maxSeconds / 60);
+  return {
+    durationSeconds: Math.round((range.minSeconds + range.maxSeconds) / 2),
+    durationRangeSeconds: range,
+    durationLabel: `${minMinutes}-${maxMinutes} 分钟`,
+  };
+}
+
 function parseQuestionBlock(block, meta) {
   const heading = block.match(/^### \[([A-Z-]+-\d{3})\] (.+)$/m);
   if (!heading) return null;
@@ -63,12 +89,14 @@ function parseQuestionBlock(block, meta) {
     .map((line) => line.trim())
     .filter(Boolean);
 
-  const type = fieldValue(lines, "题目类型");
+  const rawType = fieldValue(lines, "题目类型");
   const level = fieldValue(lines, "适用级别");
   const essence = fieldValue(lines, "考察本质");
   const framework = fieldValue(lines, "核心框架/回答方向");
   const refs = fieldValue(lines, "参考来源").match(/\[REF-[A-Z]+-\d{2}\]/g) || [];
   const followUps = listAfter(lines, "可能遭遇的追问");
+  const baseSearchBlob = compactText([id, title, meta.collection, meta.module, rawType, level, essence, framework, followUps.join(" "), refs.join(" ")].join(" "));
+  const type = inferQuestionType(rawType, baseSearchBlob);
   const tags = new Set([
     meta.collection,
     meta.module,
@@ -82,7 +110,7 @@ function parseQuestionBlock(block, meta) {
   if (/中高级/.test(searchBlob)) tags.add("中高级");
   if (/高频/.test(searchBlob)) tags.add("高频");
 
-  const durationSeconds = type === "Deep-dive" ? 210 : 90;
+  const { durationSeconds, durationRangeSeconds, durationLabel } = durationForType(type);
   const coverVariant = id.startsWith("UX") ? "ux" : id.startsWith("PM") ? "pm" : "cross";
 
   return {
@@ -101,6 +129,8 @@ function parseQuestionBlock(block, meta) {
     tags: [...tags],
     isAi,
     durationSeconds,
+    durationRangeSeconds,
+    durationLabel,
     coverVariant,
     searchBlob,
   };
@@ -136,8 +166,9 @@ async function parseAll() {
 
   const stats = {
     total: episodes.length,
-    deepDive: episodes.filter((episode) => episode.type === "Deep-dive").length,
-    lite: episodes.filter((episode) => episode.type === "Lite").length,
+    basic: episodes.filter((episode) => episode.type === "基础").length,
+    intermediate: episodes.filter((episode) => episode.type === "中级").length,
+    advanced: episodes.filter((episode) => episode.type === "高级").length,
     ux: episodes.filter((episode) => episode.role === "UI/UX").length,
     pm: episodes.filter((episode) => episode.role === "PM").length,
     cross: episodes.filter((episode) => episode.role === "AI-CROSS").length,

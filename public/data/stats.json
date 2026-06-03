@@ -1,7 +1,8 @@
 {
   "total": 200,
-  "deepDive": 78,
-  "lite": 122,
+  "basic": 53,
+  "intermediate": 80,
+  "advanced": 67,
   "ux": 80,
   "pm": 90,
   "cross": 30

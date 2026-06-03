@@ -2,421 +2,505 @@
   "AI-CROSS-001": {
     "src": "/audio/AI-CROSS-001.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-001.m4a"
+    "file": "AI-CROSS-001.m4a",
+    "durationSeconds": 118.576009
   },
   "AI-CROSS-002": {
     "src": "/audio/AI-CROSS-002.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-002.m4a"
+    "file": "AI-CROSS-002.m4a",
+    "durationSeconds": 121.488163
   },
   "AI-CROSS-003": {
     "src": "/audio/AI-CROSS-003.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-003.m4a"
+    "file": "AI-CROSS-003.m4a",
+    "durationSeconds": 117.382993
   },
   "AI-CROSS-004": {
     "src": "/audio/AI-CROSS-004.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-004.m4a"
+    "file": "AI-CROSS-004.m4a",
+    "durationSeconds": 122.214286
   },
   "AI-CROSS-005": {
     "src": "/audio/AI-CROSS-005.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-005.m4a"
+    "file": "AI-CROSS-005.m4a",
+    "durationSeconds": 116.037098
   },
   "AI-CROSS-006": {
     "src": "/audio/AI-CROSS-006.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-006.m4a"
+    "file": "AI-CROSS-006.m4a",
+    "durationSeconds": 116.602313
   },
   "AI-CROSS-007": {
     "src": "/audio/AI-CROSS-007.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-007.m4a"
+    "file": "AI-CROSS-007.m4a",
+    "durationSeconds": 116.258367
   },
   "AI-CROSS-008": {
     "src": "/audio/AI-CROSS-008.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-008.m4a"
+    "file": "AI-CROSS-008.m4a",
+    "durationSeconds": 121.145896
   },
   "AI-CROSS-009": {
     "src": "/audio/AI-CROSS-009.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-009.m4a"
+    "file": "AI-CROSS-009.m4a",
+    "durationSeconds": 114.493379
   },
   "AI-CROSS-010": {
     "src": "/audio/AI-CROSS-010.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-010.m4a"
+    "file": "AI-CROSS-010.m4a",
+    "durationSeconds": 115.771746
   },
   "AI-CROSS-011": {
     "src": "/audio/AI-CROSS-011.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-011.m4a"
+    "file": "AI-CROSS-011.m4a",
+    "durationSeconds": 118.613923
   },
   "AI-CROSS-012": {
     "src": "/audio/AI-CROSS-012.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-012.m4a"
+    "file": "AI-CROSS-012.m4a",
+    "durationSeconds": 120.657279
   },
   "AI-CROSS-013": {
     "src": "/audio/AI-CROSS-013.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-013.m4a"
+    "file": "AI-CROSS-013.m4a",
+    "durationSeconds": 114.932018
   },
   "AI-CROSS-014": {
     "src": "/audio/AI-CROSS-014.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-014.m4a"
+    "file": "AI-CROSS-014.m4a",
+    "durationSeconds": 116.318005
   },
   "AI-CROSS-015": {
     "src": "/audio/AI-CROSS-015.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-015.m4a"
+    "file": "AI-CROSS-015.m4a",
+    "durationSeconds": 116.183084
   },
   "AI-CROSS-016": {
     "src": "/audio/AI-CROSS-016.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-016.m4a"
+    "file": "AI-CROSS-016.m4a",
+    "durationSeconds": 120.404717
   },
   "AI-CROSS-017": {
     "src": "/audio/AI-CROSS-017.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-017.m4a"
+    "file": "AI-CROSS-017.m4a",
+    "durationSeconds": 117.404127
   },
   "AI-CROSS-018": {
     "src": "/audio/AI-CROSS-018.m4a",
     "format": "m4a",
-    "file": "AI-CROSS-018.m4a"
+    "file": "AI-CROSS-018.m4a",
+    "durationSeconds": 116.133515
   },
   "PM-001": {
     "src": "/audio/PM-001.m4a",
     "format": "m4a",
-    "file": "PM-001.m4a"
+    "file": "PM-001.m4a",
+    "durationSeconds": 112.155964
   },
   "PM-002": {
     "src": "/audio/PM-002.m4a",
     "format": "m4a",
-    "file": "PM-002.m4a"
+    "file": "PM-002.m4a",
+    "durationSeconds": 119.561587
   },
   "PM-003": {
     "src": "/audio/PM-003.m4a",
     "format": "m4a",
-    "file": "PM-003.m4a"
+    "file": "PM-003.m4a",
+    "durationSeconds": 120.093605
   },
   "PM-004": {
     "src": "/audio/PM-004.m4a",
     "format": "m4a",
-    "file": "PM-004.m4a"
+    "file": "PM-004.m4a",
+    "durationSeconds": 122.134014
   },
   "PM-005": {
     "src": "/audio/PM-005.m4a",
     "format": "m4a",
-    "file": "PM-005.m4a"
+    "file": "PM-005.m4a",
+    "durationSeconds": 110.491383
   },
   "PM-006": {
     "src": "/audio/PM-006.m4a",
     "format": "m4a",
-    "file": "PM-006.m4a"
+    "file": "PM-006.m4a",
+    "durationSeconds": 118.821361
   },
   "PM-007": {
     "src": "/audio/PM-007.m4a",
     "format": "m4a",
-    "file": "PM-007.m4a"
+    "file": "PM-007.m4a",
+    "durationSeconds": 116.916054
   },
   "PM-008": {
     "src": "/audio/PM-008.m4a",
     "format": "m4a",
-    "file": "PM-008.m4a"
+    "file": "PM-008.m4a",
+    "durationSeconds": 115.936145
   },
   "PM-009": {
     "src": "/audio/PM-009.m4a",
     "format": "m4a",
-    "file": "PM-009.m4a"
+    "file": "PM-009.m4a",
+    "durationSeconds": 110.524626
   },
   "PM-010": {
     "src": "/audio/PM-010.m4a",
     "format": "m4a",
-    "file": "PM-010.m4a"
+    "file": "PM-010.m4a",
+    "durationSeconds": 119.033696
   },
   "PM-011": {
     "src": "/audio/PM-011.m4a",
     "format": "m4a",
-    "file": "PM-011.m4a"
+    "file": "PM-011.m4a",
+    "durationSeconds": 118.010522
   },
   "PM-012": {
     "src": "/audio/PM-012.m4a",
     "format": "m4a",
-    "file": "PM-012.m4a"
+    "file": "PM-012.m4a",
+    "durationSeconds": 118.21356
   },
   "PM-013": {
     "src": "/audio/PM-013.m4a",
     "format": "m4a",
-    "file": "PM-013.m4a"
+    "file": "PM-013.m4a",
+    "durationSeconds": 110.201134
   },
   "PM-014": {
     "src": "/audio/PM-014.m4a",
     "format": "m4a",
-    "file": "PM-014.m4a"
+    "file": "PM-014.m4a",
+    "durationSeconds": 117.406531
   },
   "PM-015": {
     "src": "/audio/PM-015.m4a",
     "format": "m4a",
-    "file": "PM-015.m4a"
+    "file": "PM-015.m4a",
+    "durationSeconds": 120.366621
   },
   "PM-016": {
     "src": "/audio/PM-016.m4a",
     "format": "m4a",
-    "file": "PM-016.m4a"
+    "file": "PM-016.m4a",
+    "durationSeconds": 117.032154
   },
   "PM-017": {
     "src": "/audio/PM-017.m4a",
     "format": "m4a",
-    "file": "PM-017.m4a"
+    "file": "PM-017.m4a",
+    "durationSeconds": 111.899274
   },
   "PM-018": {
     "src": "/audio/PM-018.m4a",
     "format": "m4a",
-    "file": "PM-018.m4a"
+    "file": "PM-018.m4a",
+    "durationSeconds": 116.554603
   },
   "PM-019": {
     "src": "/audio/PM-019.m4a",
     "format": "m4a",
-    "file": "PM-019.m4a"
+    "file": "PM-019.m4a",
+    "durationSeconds": 118.141088
   },
   "PM-020": {
     "src": "/audio/PM-020.m4a",
     "format": "m4a",
-    "file": "PM-020.m4a"
+    "file": "PM-020.m4a",
+    "durationSeconds": 119.684399
   },
   "PM-021": {
     "src": "/audio/PM-021.m4a",
     "format": "m4a",
-    "file": "PM-021.m4a"
+    "file": "PM-021.m4a",
+    "durationSeconds": 112.128662
   },
   "PM-022": {
     "src": "/audio/PM-022.m4a",
     "format": "m4a",
-    "file": "PM-022.m4a"
+    "file": "PM-022.m4a",
+    "durationSeconds": 121.819456
   },
   "PM-023": {
     "src": "/audio/PM-023.m4a",
     "format": "m4a",
-    "file": "PM-023.m4a"
+    "file": "PM-023.m4a",
+    "durationSeconds": 118.205351
   },
   "PM-024": {
     "src": "/audio/PM-024.m4a",
     "format": "m4a",
-    "file": "PM-024.m4a"
+    "file": "PM-024.m4a",
+    "durationSeconds": 120.238685
   },
   "PM-025": {
     "src": "/audio/PM-025.m4a",
     "format": "m4a",
-    "file": "PM-025.m4a"
+    "file": "PM-025.m4a",
+    "durationSeconds": 114.690839
   },
   "PM-026": {
     "src": "/audio/PM-026.m4a",
     "format": "m4a",
-    "file": "PM-026.m4a"
+    "file": "PM-026.m4a",
+    "durationSeconds": 119.328707
   },
   "PM-027": {
     "src": "/audio/PM-027.m4a",
     "format": "m4a",
-    "file": "PM-027.m4a"
+    "file": "PM-027.m4a",
+    "durationSeconds": 119.588526
   },
   "PM-028": {
     "src": "/audio/PM-028.m4a",
     "format": "m4a",
-    "file": "PM-028.m4a"
+    "file": "PM-028.m4a",
+    "durationSeconds": 119.12381
   },
   "PM-029": {
     "src": "/audio/PM-029.m4a",
     "format": "m4a",
-    "file": "PM-029.m4a"
+    "file": "PM-029.m4a",
+    "durationSeconds": 110.710975
   },
   "PM-030": {
     "src": "/audio/PM-030.m4a",
     "format": "m4a",
-    "file": "PM-030.m4a"
+    "file": "PM-030.m4a",
+    "durationSeconds": 121.236825
   },
   "UX-001": {
     "src": "/audio/UX-001.m4a",
     "format": "m4a",
-    "file": "UX-001.m4a"
+    "file": "UX-001.m4a",
+    "durationSeconds": 122.6522
   },
   "UX-002": {
     "src": "/audio/UX-002.m4a",
     "format": "m4a",
-    "file": "UX-002.m4a"
+    "file": "UX-002.m4a",
+    "durationSeconds": 114.815465
   },
   "UX-003": {
     "src": "/audio/UX-003.m4a",
     "format": "m4a",
-    "file": "UX-003.m4a"
+    "file": "UX-003.m4a",
+    "durationSeconds": 120.460726
   },
   "UX-004": {
     "src": "/audio/UX-004.m4a",
     "format": "m4a",
-    "file": "UX-004.m4a"
+    "file": "UX-004.m4a",
+    "durationSeconds": 122.285079
   },
   "UX-005": {
     "src": "/audio/UX-005.m4a",
     "format": "m4a",
-    "file": "UX-005.m4a"
+    "file": "UX-005.m4a",
+    "durationSeconds": 119.038639
   },
   "UX-006": {
     "src": "/audio/UX-006.m4a",
     "format": "m4a",
-    "file": "UX-006.m4a"
+    "file": "UX-006.m4a",
+    "durationSeconds": 112.505079
   },
   "UX-007": {
     "src": "/audio/UX-007.m4a",
     "format": "m4a",
-    "file": "UX-007.m4a"
+    "file": "UX-007.m4a",
+    "durationSeconds": 118.55102
   },
   "UX-008": {
     "src": "/audio/UX-008.m4a",
     "format": "m4a",
-    "file": "UX-008.m4a"
+    "file": "UX-008.m4a",
+    "durationSeconds": 121.541723
   },
   "UX-009": {
     "src": "/audio/UX-009.m4a",
     "format": "m4a",
-    "file": "UX-009.m4a"
+    "file": "UX-009.m4a",
+    "durationSeconds": 119.247347
   },
   "UX-010": {
     "src": "/audio/UX-010.m4a",
     "format": "m4a",
-    "file": "UX-010.m4a"
+    "file": "UX-010.m4a",
+    "durationSeconds": 112.312109
   },
   "UX-011": {
     "src": "/audio/UX-011.m4a",
     "format": "m4a",
-    "file": "UX-011.m4a"
+    "file": "UX-011.m4a",
+    "durationSeconds": 117.848798
   },
   "UX-012": {
     "src": "/audio/UX-012.m4a",
     "format": "m4a",
-    "file": "UX-012.m4a"
+    "file": "UX-012.m4a",
+    "durationSeconds": 122.852698
   },
   "UX-013": {
     "src": "/audio/UX-013.m4a",
     "format": "m4a",
-    "file": "UX-013.m4a"
+    "file": "UX-013.m4a",
+    "durationSeconds": 124.90517
   },
   "UX-014": {
     "src": "/audio/UX-014.m4a",
     "format": "m4a",
-    "file": "UX-014.m4a"
+    "file": "UX-014.m4a",
+    "durationSeconds": 113.695238
   },
   "UX-015": {
     "src": "/audio/UX-015.m4a",
     "format": "m4a",
-    "file": "UX-015.m4a"
+    "file": "UX-015.m4a",
+    "durationSeconds": 120.212834
   },
   "UX-016": {
     "src": "/audio/UX-016.m4a",
     "format": "m4a",
-    "file": "UX-016.m4a"
+    "file": "UX-016.m4a",
+    "durationSeconds": 121.601633
   },
   "UX-017": {
     "src": "/audio/UX-017.m4a",
     "format": "m4a",
-    "file": "UX-017.m4a"
+    "file": "UX-017.m4a",
+    "durationSeconds": 121.231655
   },
   "UX-018": {
     "src": "/audio/UX-018.m4a",
     "format": "m4a",
-    "file": "UX-018.m4a"
+    "file": "UX-018.m4a",
+    "durationSeconds": 113.332789
   },
   "UX-019": {
     "src": "/audio/UX-019.m4a",
     "format": "m4a",
-    "file": "UX-019.m4a"
+    "file": "UX-019.m4a",
+    "durationSeconds": 119.089478
   },
   "UX-020": {
     "src": "/audio/UX-020.m4a",
     "format": "m4a",
-    "file": "UX-020.m4a"
+    "file": "UX-020.m4a",
+    "durationSeconds": 124.711565
   },
   "UX-021": {
     "src": "/audio/UX-021.m4a",
     "format": "m4a",
-    "file": "UX-021.m4a"
+    "file": "UX-021.m4a",
+    "durationSeconds": 123.298141
   },
   "UX-022": {
     "src": "/audio/UX-022.m4a",
     "format": "m4a",
-    "file": "UX-022.m4a"
+    "file": "UX-022.m4a",
+    "durationSeconds": 111.580952
   },
   "UX-023": {
     "src": "/audio/UX-023.m4a",
     "format": "m4a",
-    "file": "UX-023.m4a"
+    "file": "UX-023.m4a",
+    "durationSeconds": 118.494558
   },
   "UX-024": {
     "src": "/audio/UX-024.m4a",
     "format": "m4a",
-    "file": "UX-024.m4a"
+    "file": "UX-024.m4a",
+    "durationSeconds": 124.33229
   },
   "UX-025": {
     "src": "/audio/UX-025.m4a",
     "format": "m4a",
-    "file": "UX-025.m4a"
+    "file": "UX-025.m4a",
+    "durationSeconds": 119.452517
   },
   "UX-026": {
     "src": "/audio/UX-026.m4a",
     "format": "m4a",
-    "file": "UX-026.m4a"
+    "file": "UX-026.m4a",
+    "durationSeconds": 111.505941
   },
   "UX-027": {
     "src": "/audio/UX-027.m4a",
     "format": "m4a",
-    "file": "UX-027.m4a"
+    "file": "UX-027.m4a",
+    "durationSeconds": 117.180363
   },
   "UX-028": {
     "src": "/audio/UX-028.m4a",
     "format": "m4a",
-    "file": "UX-028.m4a"
+    "file": "UX-028.m4a",
+    "durationSeconds": 124.925442
   },
   "UX-029": {
     "src": "/audio/UX-029.m4a",
     "format": "m4a",
-    "file": "UX-029.m4a"
+    "file": "UX-029.m4a",
+    "durationSeconds": 122.793243
   },
   "UX-030": {
     "src": "/audio/UX-030.m4a",
     "format": "m4a",
-    "file": "UX-030.m4a"
+    "file": "UX-030.m4a",
+    "durationSeconds": 113.541723
   },
   "UX-031": {
     "src": "/audio/UX-031.m4a",
     "format": "m4a",
-    "file": "UX-031.m4a"
+    "file": "UX-031.m4a",
+    "durationSeconds": 20.945125
   },
   "UX-032": {
     "src": "/audio/UX-032.m4a",
     "format": "m4a",
-    "file": "UX-032.m4a"
+    "file": "UX-032.m4a",
+    "durationSeconds": 26.237642
   },
   "UX-033": {
     "src": "/audio/UX-033.m4a",
     "format": "m4a",
-    "file": "UX-033.m4a"
+    "file": "UX-033.m4a",
+    "durationSeconds": 25.218866
   },
   "UX-034": {
     "src": "/audio/UX-034.m4a",
     "format": "m4a",
-    "file": "UX-034.m4a"
+    "file": "UX-034.m4a",
+    "durationSeconds": 24.329297
   },
   "UX-035": {
     "src": "/audio/UX-035.m4a",
     "format": "m4a",
-    "file": "UX-035.m4a"
+    "file": "UX-035.m4a",
+    "durationSeconds": 22.593741
   },
   "UX-036": {
     "src": "/audio/UX-036.m4a",
     "format": "m4a",
-    "file": "UX-036.m4a"
+    "file": "UX-036.m4a",
+    "durationSeconds": 24.724036
   }
 }

@@ -17,10 +17,10 @@ with open(dialogues_file, 'r', encoding='utf-8') as f:
 with open(episodes_file, 'r', encoding='utf-8') as f:
     episodes = json.load(f)
 
-# 找出所有的 Deep-dive 题目作为生成目标
-deep_dive_ids = [ep["id"] for ep in episodes if ep["type"] == "Deep-dive"]
+# 找出所有高级题目作为生成目标
+advanced_ids = [ep["id"] for ep in episodes if ep["type"] == "高级"]
 
-print(f"Target Deep-dive episodes count: {len(deep_dive_ids)}")
+print(f"Target advanced episodes count: {len(advanced_ids)}")
 
 # 发音人映射
 speaker_voices = {
@@ -124,13 +124,13 @@ def main():
     success_count = 0
     failed_count = 0
     
-    for idx, ep_id in enumerate(deep_dive_ids):
+    for idx, ep_id in enumerate(advanced_ids):
         if ep_id not in dialogues:
             print(f"Warning: {ep_id} not found in dialogues.json")
             continue
             
         turns = dialogues[ep_id]["turns"]
-        print(f"[{idx+1}/{len(deep_dive_ids)}] Processing {ep_id}...")
+        print(f"[{idx+1}/{len(advanced_ids)}] Processing {ep_id}...")
         
         ok = generate_episode_audio(ep_id, turns)
         if ok:

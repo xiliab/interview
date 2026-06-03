@@ -6,6 +6,9 @@
   "scripts": {
     "generate:data": "node scripts/parse-question-bank.mjs && node scripts/generate-dialogues.mjs && node scripts/build-audio-manifest.mjs",
     "scan:audio": "node scripts/build-audio-manifest.mjs",
+    "optimize:dialogues": "node scripts/optimize-dialogues.mjs",
+    "quality:dialogues": "node scripts/check-dialogue-quality.mjs",
+    "quality:dialogues:report": "node scripts/check-dialogue-quality.mjs --report-only",
     "dev": "vite --host 127.0.0.1 --port 5173",
     "build": "npm run generate:data && vite build",
     "preview": "vite preview --host 127.0.0.1 --port 4173"
