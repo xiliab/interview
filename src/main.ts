@@ -588,15 +588,11 @@ function renderEpisodeTile(episode: Episode) {
   const playing = state.nowPlayingId === episode.id;
   const colorIndex = colorVariantForEpisode(episode);
 
-  const collection = episode.collection;
-  const showBadge = collection !== "UI/UX 设计师" && collection !== "产品经理" && !collection.includes("UI/UX") && !collection.includes("产品经理");
-
   return `
     <article class="episode-tile ${active ? "is-selected" : ""} ${playing ? "is-playing" : ""}" data-select="${episode.id}" role="button" tabindex="0" aria-label="打开节目详情：${escapeHtml(episode.title)}">
       <div class="tile-cover-wrapper color-variant-${colorIndex}">
         <div class="cover-noise"></div>
         <div class="cover-rings"></div>
-        ${showBadge ? `<span class="cover-badge">${episode.collection}</span>` : ""}
         <div class="cover-center-title">${escapeHtml(episode.title)}</div>
       </div>
       <div class="tile-content">
