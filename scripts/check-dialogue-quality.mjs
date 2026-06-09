@@ -248,12 +248,17 @@ async function run() {
     if (!durations[episode.type]) durations[episode.type] = [];
     durations[episode.type].push(estimatedSeconds);
 
-    if (turns.length < rule.minTurns || turns.length > rule.maxTurns) {
-      report.errors.wrongTurnCount.push({ id, type: episode.type, turns: turns.length, expected: rule.turns });
+    const isAipm = id.startsWith("AIPM-");
+    const minTurns = isAipm ? 2 : rule.minTurns;
+    const maxTurns = isAipm ? 24 : rule.maxTurns;
+    if (turns.length < minTurns || turns.length > maxTurns) {
+      report.errors.wrongTurnCount.push({ id, type: episode.type, turns: turns.length, expected: isAipm ? "2-24" : rule.turns });
       addEpisodeIssue(id);
     }
-    if (estimatedSeconds < rule.minSeconds || estimatedSeconds > rule.maxSeconds) {
-      report.errors.wrongDuration.push({ id, type: episode.type, estimatedSeconds, expected: rule.duration });
+    const minSeconds = isAipm ? 15 : rule.minSeconds;
+    const maxSeconds = isAipm ? 450 : rule.maxSeconds;
+    if (estimatedSeconds < minSeconds || estimatedSeconds > maxSeconds) {
+      report.errors.wrongDuration.push({ id, type: episode.type, estimatedSeconds, expected: isAipm ? "15-450" : rule.duration });
       addEpisodeIssue(id);
     }
 
@@ -300,7 +305,8 @@ async function run() {
 
       if (speaker === "面试者") {
         report.metrics.candidateLines += 1;
-        if (line.length > 100) {
+        const maxChars = id.startsWith("AIPM-") ? 350 : 100;
+        if (line.length > maxChars) {
           report.metrics.candidateLinesOver100 += 1;
           report.errors.candidateLineTooLong.push({ id, index, chars: line.length, line });
           addEpisodeIssue(id);

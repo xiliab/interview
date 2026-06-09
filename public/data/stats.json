@@ -1,9 +1,10 @@
 {
-  "total": 200,
-  "basic": 53,
-  "intermediate": 80,
-  "advanced": 67,
+  "total": 250,
+  "basic": 63,
+  "intermediate": 100,
+  "advanced": 87,
   "ux": 80,
   "pm": 90,
+  "aipm": 50,
   "cross": 30
 }

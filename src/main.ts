@@ -4,7 +4,7 @@ type Episode = {
   id: string;
   title: string;
   collection: string;
-  role: "UI/UX" | "PM" | "AI-CROSS";
+  role: "UI/UX" | "PM" | "AI-PM" | "AI-CROSS";
   module: string;
   type: "基础" | "中级" | "高级";
   level: string;
@@ -115,6 +115,7 @@ function hasAny(episode: Episode, patterns: Array<string | RegExp>) {
 const roleFilters: RoleFilter[] = [
   { key: "UI/UX", label: "UI/UX 设计师", icon: "cursor" },
   { key: "PM", label: "产品经理", icon: "roadmap" },
+  { key: "AI-PM", label: "AI 产品经理", icon: "bot" },
   { key: "AI-CROSS", label: "AI 交叉域", icon: "bot" },
 ];
 
@@ -140,6 +141,14 @@ const abilityTagsByRole: Record<Episode["role"], FilterTag[]> = {
     { key: "aiPm", label: "AI PM", icon: "bot", match: (episode) => episode.isAi || hasAny(episode, ["AI PM", "大模型", "RAG", "Agent", "Prompt", "模型", "知识库问答"]) },
     { key: "collaboration", label: "协作推进", icon: "handshake", match: (episode) => hasAny(episode, ["协作", "跨部门", "研发", "设计师", "算法", "业务方", "推进", "资源"]) },
   ],
+  "AI-PM": [
+    allAbilityTag,
+    { key: "basic", label: "基础概念", icon: "info", match: (episode) => episode.type === "基础" },
+    { key: "design", label: "产品设计", icon: "roadmap", match: (episode) => hasAny(episode, ["产品设计", "推荐", "冷启动", "定价", "MVP"]) },
+    { key: "tech", label: "技术理解", icon: "bot", match: (episode) => hasAny(episode, ["技术理解", "模型", "参数", "架构", "成本", "RAG", "Agent"]) },
+    { key: "project", label: "项目经验", icon: "check", match: (episode) => hasAny(episode, ["项目经验", "复盘", "迭代", "汇报", "协作", "评估"]) },
+    { key: "ethics", label: "伦理安全", icon: "info", match: (episode) => hasAny(episode, ["伦理安全", "隐私", "合规", "偏见", "审核", "有害"]) },
+  ],
   "AI-CROSS": [
     allAbilityTag,
     { key: "hallucination", label: "幻觉容错", icon: "info", match: (episode) => hasAny(episode, ["幻觉", "出错", "容错", "安全拦截", "投诉", "风险"]) },
@@ -161,8 +170,8 @@ const glossaryTerms: GlossaryTerm[] = [
   { term: "设计系统", aliases: ["设计系统", "组件", "规范", "tokens", "一致性"], explanation: "由组件、样式变量、交互规范和治理机制组成的设计资产体系。" },
   { term: "MVP", aliases: ["mvp", "最小可行", "冷启动"], explanation: "Minimum Viable Product，指用最小范围验证核心假设的产品版本。" },
   { term: "PRD", aliases: ["prd", "需求文档"], explanation: "Product Requirement Document，用于描述目标、范围、流程、规则、验收标准和依赖。" },
-  { term: "北极星指标", aliases: ["北极星", "指标", "数据"], explanation: "能代表产品长期核心价值的关键指标，用于统一团队目标和优先级。" },
-  { term: "A/B 实验", aliases: ["a/b", "实验", "转化"], explanation: "将用户分流到不同方案，用数据比较方案对关键指标的影响。" },
+  { term: "北极星指标", aliases: ["北极星指标", "北极星"], explanation: "能代表产品长期核心价值的关键指标，用于统一团队目标和优先级。" },
+  { term: "A/B 实验", aliases: ["a/b", "ab 实验", "ab实验"], explanation: "将用户分流到不同方案，用数据比较方案对关键指标的影响。" },
   { term: "Roadmap", aliases: ["roadmap", "路线图", "规划"], explanation: "产品在一段时间内的主题、优先级和里程碑安排。" },
   { term: "RAG", aliases: ["rag", "检索增强", "知识库问答", "外部知识"], explanation: "Retrieval-Augmented Generation，通过检索外部知识再生成回答，降低模型胡编和知识过期风险。" },
   { term: "Agent", aliases: ["agent", "自动化", "执行计划"], explanation: "能够理解目标、规划步骤、调用工具并执行任务的 AI 产品形态。" },
@@ -264,8 +273,13 @@ function colorVariantForEpisode(episode: Episode) {
 }
 
 function matchedGlossaryTerms(episode: Episode) {
-  const text = episodeText(episode);
-  const matches = glossaryTerms.filter((item) => item.aliases.some((alias) => text.includes(alias.toLowerCase())));
+  let text = episodeText(episode);
+  const dialogue = typedDialogues[episode.id];
+  if (dialogue && dialogue.turns) {
+    const dialogueText = dialogue.turns.map((turn) => turn.line).join(" ");
+    text += " " + dialogueText;
+  }
+  const matches = glossaryTerms.filter((item) => item.aliases.some((alias) => text.toLowerCase().includes(alias.toLowerCase())));
   return matches.slice(0, 8);
 }
 

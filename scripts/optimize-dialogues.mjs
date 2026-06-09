@@ -195,7 +195,7 @@ function makeIntermediate(dialogue, episode) {
       { speaker: "面试者", line: chunks[1] },
       { speaker: "面试官", line: `如果${limitText(followOne, 52)}，你会补什么证据？` },
       { speaker: "面试者", line: chunks[2] },
-      { speaker: "面试官", line: `点评：这题需要比概念题多一步，把框架落到场景、指标和取舍上。` },
+      { speaker: "面试官", line: `点评：对“${title}”的解答，需要比概念题多一步，把框架落到场景、指标和取舍上。` },
     ].map((turn) => ({ speaker: turn.speaker, line: limitText(turn.line, turn.speaker === "面试官" ? 156 : 96) })),
   };
 }
@@ -227,6 +227,7 @@ async function run() {
 
   for (const file of files) {
     const id = file.replace(/\.json$/, "");
+    if (id === "AIPM-001" || id === "AIPM-002") continue;
     const episode = episodeById.get(id);
     if (!episode) continue;
     const filePath = path.join(dialoguesDir, file);

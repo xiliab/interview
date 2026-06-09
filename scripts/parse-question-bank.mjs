@@ -11,6 +11,7 @@ const outDir = path.join(siteRoot, "public", "data");
 const sourceDirs = [
   { dir: path.join(bankRoot, "ui_ux"), role: "UI/UX", collection: "UI/UX 设计师" },
   { dir: path.join(bankRoot, "pm"), role: "PM", collection: "产品经理" },
+  { dir: path.join(bankRoot, "ai_pm"), role: "AI-PM", collection: "AI 产品经理" },
   { dir: path.join(bankRoot, "ai_cross_domain"), role: "AI-CROSS", collection: "AI 交叉域" },
 ];
 
@@ -25,6 +26,7 @@ const moduleNames = {
   "02_product_design_data_growth.md": "产品设计、数据与增长",
   "03_ai_pm_llm_product.md": "AI PM 与大模型产品落地",
   "04_basic_intermediate_frequent_questions.md": "基础与中级高频题",
+  "01_ai_pm_50_questions.md": "AI 产品经理 50 题",
   "01_advanced_cross_domain.md": "高级交叉题",
   "02_basic_intermediate_cross_domain.md": "基础与中级交叉题",
 };
@@ -111,7 +113,7 @@ function parseQuestionBlock(block, meta) {
   if (/高频/.test(searchBlob)) tags.add("高频");
 
   const { durationSeconds, durationRangeSeconds, durationLabel } = durationForType(type);
-  const coverVariant = id.startsWith("UX") ? "ux" : id.startsWith("PM") ? "pm" : "cross";
+  const coverVariant = id.startsWith("UX") ? "ux" : id.startsWith("PM") ? "pm" : id.startsWith("AIPM") ? "pm" : "cross";
 
   return {
     id,
@@ -171,6 +173,7 @@ async function parseAll() {
     advanced: episodes.filter((episode) => episode.type === "高级").length,
     ux: episodes.filter((episode) => episode.role === "UI/UX").length,
     pm: episodes.filter((episode) => episode.role === "PM").length,
+    aipm: episodes.filter((episode) => episode.role === "AI-PM").length,
     cross: episodes.filter((episode) => episode.role === "AI-CROSS").length,
   };
   await writeFile(path.join(outDir, "stats.json"), `${JSON.stringify(stats, null, 2)}\n`, "utf8");
